@@ -1,0 +1,16 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=where does it lead?
+ctime=1472159910
+host=205.208.52.184
+name=Writing.Writing
+rev=1
+targets=Writing.There
+text=there was nothing here and now [[there]] is
+time=1472159910
+author:1472159910=Danny
+csum:1472159910=where does it lead?
+diff:1472159910:1472159910:=1d0%0a%3c there was nothing here and now [[there]] is%0a\ No newline at end of file%0a
+host:1472159910=205.208.52.184

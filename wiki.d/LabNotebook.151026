@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1445976041
+host=127.0.0.1
+name=LabNotebook.151026
+rev=1
+targets=
+text===cloning%0a* gel purify inserts%0a* ligate 1:5 in 20&micro;L%0a%0a==rafts%0a* seeded with NHEK%0a%0a==mutants%0a* patched atl from onto TSB + aTC and TSB + cm
+time=1445976041
+author:1445976041=Danny
+diff:1445976041:1445976041:=1,9d0%0a%3c ==cloning%0a%3c * gel purify inserts%0a%3c * ligate 1:5 in 20&micro;L%0a%3c %0a%3c ==rafts%0a%3c * seeded with NHEK%0a%3c %0a%3c ==mutants%0a%3c * patched atl from onto TSB + aTC and TSB + cm%0a\ No newline at end of file%0a
+host:1445976041=127.0.0.1

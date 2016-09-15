@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1460774299
+host=10.150.128.248
+name=Protocol.M9Salt
+rev=1
+targets=
+text=based on [[http://openwetware.org/wiki/M9_salts | Open Wetware's M9 salts mix]] scale down to 500mL%0a%0a!!!5x M9 Salts%0a%0a||border=1%0a||! amount (g) ||! compound ||%0a|| 32 || Na'_2_'HPO'_4_'.7H'_2_'O||%0a|| 7.5 || KH'_2_'PO'_4_' ||%0a|| 1.25 || NaCl ||%0a|| 2.5 || NH'_4_'Cl ||%0a%0adissolved in deionized water to a final volume of 500 mL 
+time=1460774299
+author:1460774299=Danny
+diff:1460774299:1460774299:=1,12d0%0a%3c based on [[http://openwetware.org/wiki/M9_salts | Open Wetware's M9 salts mix]] scale down to 500mL%0a%3c %0a%3c !!!5x M9 Salts%0a%3c %0a%3c ||border=1%0a%3c ||! amount (g) ||! compound ||%0a%3c || 32 || Na'_2_'HPO'_4_'.7H'_2_'O||%0a%3c || 7.5 || KH'_2_'PO'_4_' ||%0a%3c || 1.25 || NaCl ||%0a%3c || 2.5 || NH'_4_'Cl ||%0a%3c %0a%3c dissolved in deionized water to a final volume of 500 mL %0a\ No newline at end of file%0a
+host:1460774299=10.150.128.248

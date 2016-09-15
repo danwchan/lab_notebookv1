@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450173830
+host=10.150.152.80
+name=WeekOfDec6.4seq3
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfDec6/151212_cloningprep_n4seq.jpg%0a%0atopgel%0a# 3x atl insert PCR%0a# 3x ica insert PCR%0amarker%0a# 2x pos1 cut with%0a# 2x pos1 cut with%0abottom gel%0a# 2x agr8 tn PCR%0amarker%0a# 3x agr12 PCR
+time=1450173830
+author:1450173830=Danny
+diff:1450173830:1450173830:=1,12d0%0a%3c %25width=70pct%25 Attach:WeekOfDec6/151212_cloningprep_n4seq.jpg%0a%3c %0a%3c topgel%0a%3c # 3x atl insert PCR%0a%3c # 3x ica insert PCR%0a%3c marker%0a%3c # 2x pos1 cut with%0a%3c # 2x pos1 cut with%0a%3c bottom gel%0a%3c # 2x agr8 tn PCR%0a%3c marker%0a%3c # 3x agr12 PCR%0a\ No newline at end of file%0a
+host:1450173830=10.150.152.80

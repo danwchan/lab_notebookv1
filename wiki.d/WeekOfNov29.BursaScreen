@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1449547335
+host=205.208.52.184
+name=WeekOfNov29.BursaScreen
+rev=2
+targets=
+text=%25width=70pct%25 Attach:WeekofNov29/151207_ica_agr_tnscreen.jpg%0a%0atoplayer: ica_screen_F + tnBursa_F%0a#putative LAC icaA::erm 1-5%0a#pheonix icaA::erm%0a#wt LAC%0a#pIMAY%0arepeat with icaA screening primers and speG complement%0a%0abottomlayer agr_screen_F + Martin_out_F%0a#putative LAC agrA::erm 1-5%0a#pheonix agrA::erm%0a#wt LAC%0a#pIMAY%0arepeat with agrA screening primers and speG complement
+time=1450236349
+author:1450236349=Danny
+diff:1450236349:1449547335:=15c15%0a%3c repeat with agrA screening primers and speG complement%0a\ No newline at end of file%0a---%0a> repeat with icaA screening primers and speG complement%0a\ No newline at end of file%0a
+host:1450236349=205.208.52.184
+author:1449547335=Danny
+diff:1449547335:1449547335:=1,15d0%0a%3c %25width=70pct%25 Attach:WeekofNov29/151207_ica_agr_tnscreen.jpg%0a%3c %0a%3c toplayer: ica_screen_F + tnBursa_F%0a%3c #putative LAC icaA::erm 1-5%0a%3c #pheonix icaA::erm%0a%3c #wt LAC%0a%3c #pIMAY%0a%3c repeat with icaA screening primers and speG complement%0a%3c %0a%3c bottomlayer agr_screen_F + Martin_out_F%0a%3c #putative LAC agrA::erm 1-5%0a%3c #pheonix agrA::erm%0a%3c #wt LAC%0a%3c #pIMAY%0a%3c repeat with icaA screening primers and speG complement%0a\ No newline at end of file%0a
+host:1449547335=127.0.0.1

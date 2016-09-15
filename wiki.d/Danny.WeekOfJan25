@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1455214788
+host=205.208.52.184
+name=Danny.WeekOfJan25
+rev=2
+targets=Danny.4seq,Danny.PIMAYPCR,Danny.PIMAYREN
+text=160125 is a PCR with agrA_screen_F and agrA_rf_R%0a%0a%25right%25 %25thumb%25 [[4seq | Attach:160125_agrA_4seq.jpg]]%0a%0a----%0a%0a%25right%25 %25thumb%25 [[pIMAY_PCR | Attach:161025_agrA22251_pIMAY_screen.jpg]]%0a%0afrom this screen 2,3,4,6,16,18,19,20 are taken for REN digest tests%0a%0a----%0a%0a%25right%25 %25thumb%25 [[pIMAY_REN | Attach:160127_agrA_pIMAY_REN.jpg]]
+time=1455215168
+author:1455215168=Danny
+diff:1455215168:1455214788:=3,8c3,8%0a%3c %25right%25 %25thumb%25 [[4seq | Attach:160125_agrA_4seq.jpg]]%0a%3c %0a%3c ----%0a%3c %0a%3c %25right%25 %25thumb%25 [[pIMAY_PCR | Attach:161025_agrA22251_pIMAY_screen.jpg]]%0a%3c %0a---%0a> %25rfloat thumb%25 [[4seq | Attach:160125_agrA_4seq.jpg]] %0a> %0a> %0a> %0a> %25rfloat thumb%25 [[pIMAY_PCR | Attach:161025_agrA22251_pIMAY_screen.jpg]] %0a> %0a11,13c11,12%0a%3c ----%0a%3c %0a%3c %25right%25 %25thumb%25 [[pIMAY_REN | Attach:160127_agrA_pIMAY_REN.jpg]]%0a\ No newline at end of file%0a---%0a> %0a> %25rfloat thumb%25 [[pIMAY_REN | Attach:160127_agrA_pIMAY_REN.jpg]]%0a\ No newline at end of file%0a
+host:1455215168=205.208.52.184
+author:1455214788=Danny
+diff:1455214788:1455214788:=1,12d0%0a%3c 160125 is a PCR with agrA_screen_F and agrA_rf_R%0a%3c %0a%3c %25rfloat thumb%25 [[4seq | Attach:160125_agrA_4seq.jpg]] %0a%3c %0a%3c %0a%3c %0a%3c %25rfloat thumb%25 [[pIMAY_PCR | Attach:161025_agrA22251_pIMAY_screen.jpg]] %0a%3c %0a%3c from this screen 2,3,4,6,16,18,19,20 are taken for REN digest tests%0a%3c %0a%3c %0a%3c %25rfloat thumb%25 [[pIMAY_REN | Attach:160127_agrA_pIMAY_REN.jpg]] %0a\ No newline at end of file%0a
+host:1455214788=205.208.52.184

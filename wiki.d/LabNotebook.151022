@@ -1,0 +1,19 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=update the day
+ctime=1445455832
+host=127.0.0.1
+name=LabNotebook.151022
+rev=2
+targets=
+text===First years%0a* getting them excited%0a%0a==Rushing%0a* poster!%0a%0a{-==cloning-}%0a* PCR agrA+flanks%0a* PCR P2-agrA%0a* cut pos1 sequentially%0a%0a{-==teaching-}%0a* talk to Howard%0a%0a==biofilm%0a* set up biofilm model again... restricted set%0a** 0%25, 0.1%25, 0.5%25, 2%25 in 4 plates%0a** @ ~midnight%0a%0a==cell culture%0a* split J23T3 1/2 ... one plate (new one) totally over grown :S%0a* NHEKs look fine%0a* change media on rafts D3
+time=1445575607
+author:1445575607=Danny
+csum:1445575607=update the day
+diff:1445575607:1445455832:=1,7c1%0a%3c ==First years%0a%3c * getting them excited%0a%3c %0a%3c ==Rushing%0a%3c * poster!%0a%3c %0a%3c {-==cloning-}%0a---%0a> ==cloning%0a12,14c6,8%0a%3c {-==teaching-}%0a%3c * talk to Howard%0a%3c %0a---%0a> ==teaching%0a> *talk to Howard%0a> %0a16,23c10%0a%3c * set up biofilm model again... restricted set%0a%3c ** 0%25, 0.1%25, 0.5%25, 2%25 in 4 plates%0a%3c ** @ ~midnight%0a%3c %0a%3c ==cell culture%0a%3c * split J23T3 1/2 ... one plate (new one) totally over grown :S%0a%3c * NHEKs look fine%0a%3c * change media on rafts D3%0a\ No newline at end of file%0a---%0a> * set up biofilm model again... restricted set%0a\ No newline at end of file%0a
+host:1445575607=127.0.0.1
+author:1445455832=Danny
+diff:1445455832:1445455832:=1,10d0%0a%3c ==cloning%0a%3c * PCR agrA+flanks%0a%3c * PCR P2-agrA%0a%3c * cut pos1 sequentially%0a%3c %0a%3c ==teaching%0a%3c *talk to Howard%0a%3c %0a%3c ==biofilm%0a%3c * set up biofilm model again... restricted set%0a\ No newline at end of file%0a
+host:1445455832=127.0.0.1

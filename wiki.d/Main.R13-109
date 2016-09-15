@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1366351339
+host=99.95.130.190
+name=Main.R13-109
+rev=2
+targets=Main.130418,Main.130412
+text=Shipped on [[130418]] in 10%25 formalin with a slide box. 13 cassettes are from the time courses started on [[130412]]%0a%0aTalked to HM before after sending to confirm that she will rotate the samples the same way when embedding on edge. Also discussed the rotation of samples on the median axis (that bisects the label). She described that the embed the samples in the way she sees them in the cassette with the label to the left. Then that block is rotated on the aforementioned axis and sectioned. This is my current understanding of the process:%0a%0a|| border=1%0a||! Casette, label to the left !||%0a|| sample 1 || sample 2 || sample 3 ||%0a|| sample 4  ||  sample 5 ||  sample 6 ||%0a%0a|| border=1%0a||! Slides, label to the left !||%0a|| sample 4  ||  sample 5 ||  sample 6 ||%0a|| sample 1 || sample 2 || sample 3 ||
+time=1366351419
+author:1366351419=Danny
+diff:1366351419:1366351339:=1c1%0a%3c Shipped on [[130418]] in 10%25 formalin with a slide box. 13 cassettes are from the time courses started on [[130412]]%0a---%0a> Shipped on [[130418]] in 10%25 formalin with a slide box%0a
+host:1366351419=99.95.130.190
+author:1366351339=Danny
+diff:1366351339:1366351339:=1,13d0%0a%3c Shipped on [[130418]] in 10%25 formalin with a slide box%0a%3c %0a%3c Talked to HM before after sending to confirm that she will rotate the samples the same way when embedding on edge. Also discussed the rotation of samples on the median axis (that bisects the label). She described that the embed the samples in the way she sees them in the cassette with the label to the left. Then that block is rotated on the aforementioned axis and sectioned. This is my current understanding of the process:%0a%3c %0a%3c || border=1%0a%3c ||! Casette, label to the left !||%0a%3c || sample 1 || sample 2 || sample 3 ||%0a%3c || sample 4  ||  sample 5 ||  sample 6 ||%0a%3c %0a%3c || border=1%0a%3c ||! Slides, label to the left !||%0a%3c || sample 4  ||  sample 5 ||  sample 6 ||%0a%3c || sample 1 || sample 2 || sample 3 ||%0a\ No newline at end of file%0a
+host:1366351339=99.95.130.190

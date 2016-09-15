@@ -1,0 +1,22 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1443751495
+host=10.150.133.114
+name=JournalClub.History
+rev=3
+targets=JournalClub.SkinInfectionGeneratesNon-migratoryMemoryCD81TRMCellsProvidingGlobalSkinImmunity,JournalClub.RevisitingTheGram-NegativeLipoproteinParadigm
+text=[[Skin infection generates non-migratory memory CD81 TRM cells providing global skin immunity]]%0a%0a[[Revisiting the Gram-Negative Lipoprotein Paradigm]]
+time=1443752146
+author:1443752146=Danny
+diff:1443752146:1443752135:=2d1%0a%3c %0a
+host:1443752146=10.150.133.114
+author:1443752135=Danny
+diff:1443752135:1443751495:=2c2%0a%3c [[Revisiting the Gram-Negative Lipoprotein Paradigm]]%0a\ No newline at end of file%0a---%0a> [[%0a\ No newline at end of file%0a
+host:1443752135=10.150.133.114
+author:1443751495=Danny
+csum:1443751495=first entry with example of format
+diff:1443751495:1443751495:=1,2d0%0a%3c [[Skin infection generates non-migratory memory CD81 TRM cells providing global skin immunity]]%0a%3c [[%0a\ No newline at end of file%0a
+host:1443751495=10.150.133.114

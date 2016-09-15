@@ -1,0 +1,34 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:40.0) Gecko/20100101 Firefox/40.0
+author=Danny
+charset=UTF-8
+csum=Migrate to a group page
+ctime=1441302676
+host=127.0.0.1
+name=Main.LinkDump
+rev=7
+targets=
+text=
+time=1441492446
+author:1441492446=Danny
+csum:1441492446=Migrate to a group page
+diff:1441492446:1441489442:=0a1,7%0a> Hello again. Perhaps you found something on the internet which you don't want to share via one of your personas (FB, twitter, linkedin, g+, etc.) or perhaps you think that the lab is a better (and more defined audience for your link) Welp please put your links here and perhaps a small description too!%0a> %0a> ==September 2015%0a> %0a> # This is via [[https://twitter.com/NeBanovich | @NeBanovich]] on twitter. I am always thinking about science as a whole and this one is a pretty good [[http://fivethirtyeight.com/features/science-isnt-broken/ | interactive demo]] of p-hacking%0a> # Some issues which about our future jobs which I think about a lot. This [[http://www.slideshare.net/geraldcarter1/academia-51559796 | one]] comes via [[https://twitter.com/brembs | @brembs]] whom I was linked to via an [[https://twitter.com/bwcasterline/status/611606096273383425 | exchange]] between Ben and myself (Danny)%0a> # A new journal which aims to publish every thing generated during the process of research: [[http://riojournal.com/about | Research Ideas and Outcomes]]%0a\ No newline at end of file%0a
+host:1441492446=127.0.0.1
+author:1441489442=Danny
+diff:1441489442:1441307466:=6,7c6%0a%3c # Some issues which about our future jobs which I think about a lot. This [[http://www.slideshare.net/geraldcarter1/academia-51559796 | one]] comes via [[https://twitter.com/brembs | @brembs]] whom I was linked to via an [[https://twitter.com/bwcasterline/status/611606096273383425 | exchange]] between Ben and myself (Danny)%0a%3c # A new journal which aims to publish every thing generated during the process of research: [[http://riojournal.com/about | Research Ideas and Outcomes]]%0a\ No newline at end of file%0a---%0a> # Some issues which about our future jobs which I think about a lot. This [[http://www.slideshare.net/geraldcarter1/academia-51559796 | one]] comes via [[https://twitter.com/brembs | @brembs]] whom I was linked to via an [[https://twitter.com/bwcasterline/status/611606096273383425 | exchange]] between Ben and myself (Danny)%0a\ No newline at end of file%0a
+host:1441489442=127.0.0.1
+author:1441307466=Danny
+diff:1441307466:1441307459:=
+host:1441307466=10.150.130.12
+author:1441307459=Danny
+diff:1441307459:1441302838:=6c6%0a%3c # Some issues which about our future jobs which I think about a lot. This [[http://www.slideshare.net/geraldcarter1/academia-51559796 | one]] comes via [[https://twitter.com/brembs | @brembs]] whom I was linked to via an [[https://twitter.com/bwcasterline/status/611606096273383425 | exchange]] between Ben and myself (Danny)%0a\ No newline at end of file%0a---%0a> # Pending slideshare%0a\ No newline at end of file%0a
+host:1441307459=10.150.130.12
+author:1441302838=Danny
+diff:1441302838:1441302823:=5a6%0a> %0a
+host:1441302838=127.0.0.1
+author:1441302823=Danny
+diff:1441302823:1441302676:=5,7c5%0a%3c # This is via [[https://twitter.com/NeBanovich | @NeBanovich]] on twitter. I am always thinking about science as a whole and this one is a pretty good [[http://fivethirtyeight.com/features/science-isnt-broken/ | interactive demo]] of p-hacking%0a%3c %0a%3c # Pending slideshare%0a\ No newline at end of file%0a---%0a> * This is via @NeBanovich on twitter. I am always thinking about science as a whole and this one is a pretty good [[http://fivethirtyeight.com/features/science-isnt-broken/ | interactive demo]] of p-hacking%0a\ No newline at end of file%0a
+host:1441302823=127.0.0.1
+author:1441302676=Danny
+diff:1441302676:1441302676:=1,5d0%0a%3c Hello again. Perhaps you found something on the internet which you don't want to share via one of your personas (FB, twitter, linkedin, g+, etc.) or perhaps you think that the lab is a better (and more defined audience for your link) Welp please put your links here and perhaps a small description too!%0a%3c %0a%3c ==September 2015%0a%3c %0a%3c * This is via @NeBanovich on twitter. I am always thinking about science as a whole and this one is a pretty good [[http://fivethirtyeight.com/features/science-isnt-broken/ | interactive demo]] of p-hacking%0a\ No newline at end of file%0a
+host:1441302676=127.0.0.1

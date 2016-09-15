@@ -1,0 +1,34 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471646067
+host=205.208.52.184
+name=Protocol.RNAPrep
+rev=7
+targets=Protocol.QPCR
+text=Adapted from RLM's handwritten protocol (which he used for RNA extraction from ''S. aureus'' lesions%0a%0a!!Harvest%0a#Remove cells from growth by centrifugation (2mL, 2min, max speed)%0a#Resuspend in 500&mu;L Trizol%0a**good to move to 1.5mL epi at this point%0a#Can now freeze at -20&deg;C if required%0a%0a!!Extraction%0a#Let sit at RT for 5mins (initial lysis)%0a#Add 200&mu;L of chloroform%0a#Vortex to mix and incubate at 60&deg;C for 5mins (more lysis and extraction)%0a#Repeat 2x%0a#Centrifuge for 15min at 4&deg;C (separation)%0a#Remove aqueous phase%0a#Add 500&mu;L isopropanol (precipitation)%0a#Gently mix and incubate 10min at RT%0a#Centrifuge for 10min at 4&deg;C%0a#Remove sup%0a#Wash with 75%25 ethanol%0a#Dry pellet in hood%0a#Resuspend in water (RNA!!!)%0a%0a!!DNase treatment [--(using Qiagen RNase free DNase)--]%0a#Determine amount of RNA by spec%0a#Set up reaction%0a%0a|| border=1%0a||! Component ||! add x&mu;L  ||! final conc.||%0a||buffer RDD ||  4 || 1x ||%0a||DNase || 1 || ||%0a||RNA || x || max ||%0a||water || x || 40&mu;L rxn ||%0a%0a#Incubate 10min at RT%0a#Incubate 10min at 55&deg;C%0a#Store RNA at -80&deg;C                                   %0a%0a!!cDNA synthesis [--(using BioRad iScript Supermix)--]%0a%0a#consider using a no RT control as well%0a%0a|| border=1%0a||! Component ||! add x&mu;L  ||! final conc.||%0a||5x Supermix ||  4 || 1x ||%0a||RNA || x || 2&mu;g ||%0a||water || x || 20&mu;L rxn ||%0a%0a#incubate at 25&deg;C for 5 min (priming)%0a#incubate at 46&deg;C for 46 min (reverse transcription)%0a#incubate at 95&deg;C for 1 min (inactivation)%0a#store at -20&deg;C%0a#use up to 10%25 in [[Protocol/qPCR]] reaction (1&mu;L in 10&mu;L)%0a
+time=1471893833
+author:1471893833=Danny
+diff:1471893833:1471652017:=53c53%0a%3c #use up to 10%25 in [[Protocol/qPCR]] reaction (1&mu;L in 10&mu;L)%0a---%0a> #use up to 10%25 in qPCR reaction (1&mu;L in 10&mu;L)%0a
+host:1471893833=205.208.52.184
+author:1471652017=Danny
+diff:1471652017:1471651964:=6c6%0a%3c **good to move to 1.5mL epi at this point%0a---%0a> *good to move to 1.5mL epi at this point%0a40,41d39%0a%3c %0a%3c #consider using a no RT control as well%0a
+host:1471652017=205.208.52.184
+author:1471651964=Danny
+diff:1471651964:1471651920:=6d5%0a%3c *good to move to 1.5mL epi at this point%0a
+host:1471651964=205.208.52.184
+author:1471651920=Danny
+diff:1471651920:1471649903:=29c29%0a%3c ||buffer RDD ||  4 || 1x ||%0a---%0a> ||buffer RDD ||  2 || 1x ||%0a31,33c31,33%0a%3c ||RNA || x || max ||%0a%3c ||water || x || 40&mu;L rxn ||%0a%3c %0a---%0a> ||RNA || x || 2-20&mu;g ||%0a> ||water || x || 20&mu;L rxn ||%0a> %0a35,50c35%0a%3c #Incubate 10min at 55&deg;C%0a%3c #Store RNA at -80&deg;C                                   %0a%3c %0a%3c !!cDNA synthesis [--(using BioRad iScript Supermix)--]%0a%3c %0a%3c || border=1%0a%3c ||! Component ||! add x&mu;L  ||! final conc.||%0a%3c ||5x Supermix ||  4 || 1x ||%0a%3c ||RNA || x || 2&mu;g ||%0a%3c ||water || x || 20&mu;L rxn ||%0a%3c %0a%3c #incubate at 25&deg;C for 5 min (priming)%0a%3c #incubate at 46&deg;C for 46 min (reverse transcription)%0a%3c #incubate at 95&deg;C for 1 min (inactivation)%0a%3c #store at -20&deg;C%0a%3c #use up to 10%25 in qPCR reaction (1&mu;L in 10&mu;L)%0a---%0a> #Incubate 10min at 55&deg;C                                   %0a
+host:1471651920=205.208.52.184
+author:1471649903=Danny
+diff:1471649903:1471648897:=24,35c24%0a%3c #Determine amount of RNA by spec%0a%3c #Set up reaction%0a%3c %0a%3c || border=1%0a%3c ||! Component ||! add x&mu;L  ||! final conc.||%0a%3c ||buffer RDD ||  2 || 1x ||%0a%3c ||DNase || 1 || ||%0a%3c ||RNA || x || 2-20&mu;g ||%0a%3c ||water || x || 20&mu;L rxn ||%0a%3c %0a%3c #Incubate 10min at RT%0a%3c #Incubate 10min at 55&deg;C                                   %0a---%0a> #Determine amount of RNA by spec                                   %0a
+host:1471649903=205.208.52.184
+author:1471648897=Danny
+diff:1471648897:1471646067:=23,24c23%0a%3c !!DNase treatment [--(using Qiagen RNase free DNase)--]%0a%3c #Determine amount of RNA by spec                                   %0a---%0a> !!DNase treatment%0a
+host:1471648897=205.208.52.184
+author:1471646067=Danny
+csum:1471646067=midway through transcription
+diff:1471646067:1471646067:=1,23d0%0a%3c Adapted from RLM's handwritten protocol (which he used for RNA extraction from ''S. aureus'' lesions%0a%3c %0a%3c !!Harvest%0a%3c #Remove cells from growth by centrifugation (2mL, 2min, max speed)%0a%3c #Resuspend in 500&mu;L Trizol%0a%3c #Can now freeze at -20&deg;C if required%0a%3c %0a%3c !!Extraction%0a%3c #Let sit at RT for 5mins (initial lysis)%0a%3c #Add 200&mu;L of chloroform%0a%3c #Vortex to mix and incubate at 60&deg;C for 5mins (more lysis and extraction)%0a%3c #Repeat 2x%0a%3c #Centrifuge for 15min at 4&deg;C (separation)%0a%3c #Remove aqueous phase%0a%3c #Add 500&mu;L isopropanol (precipitation)%0a%3c #Gently mix and incubate 10min at RT%0a%3c #Centrifuge for 10min at 4&deg;C%0a%3c #Remove sup%0a%3c #Wash with 75%25 ethanol%0a%3c #Dry pellet in hood%0a%3c #Resuspend in water (RNA!!!)%0a%3c %0a%3c !!DNase treatment%0a
+host:1471646067=205.208.52.184

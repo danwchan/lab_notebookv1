@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:45.0) Gecko/20100101 Firefox/45.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1461046188
+host=205.208.52.184
+name=Protocol.WGA
+rev=1
+targets=
+text=adapted from [[http://dx.doi.org/10.1111%252F1751-7915.12155 | Chiba et al.]]%0a%0ano blocking required%0a%0a!!Wheat Germ Agglutinin staining%0a#Rinse of OCT with PBS%0a#Air dry for 30min%0a#Add 5%25micro;g/mL WGA-Alexa488 in PBS for 20min%0a#2x wash with PBS%0a#mount
+time=1461046188
+author:1461046188=Danny
+diff:1461046188:1461046188:=1,10d0%0a%3c adapted from [[http://dx.doi.org/10.1111%252F1751-7915.12155 | Chiba et al.]]%0a%3c %0a%3c no blocking required%0a%3c %0a%3c !!Wheat Germ Agglutinin staining%0a%3c #Rinse of OCT with PBS%0a%3c #Air dry for 30min%0a%3c #Add 5%25micro;g/mL WGA-Alexa488 in PBS for 20min%0a%3c #2x wash with PBS%0a%3c #mount%0a\ No newline at end of file%0a
+host:1461046188=205.208.52.184

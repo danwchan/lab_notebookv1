@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471999218
+host=205.208.52.184
+name=Dnagels.PsmbdCompcheck
+rev=2
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust15/160821_psmbd_check.jpg%0a%0aseq2 primers%0a#&Delta;3PSM + pOS1 PSM&beta;-1%0a#&Delta;3PSM + pOS1 PSM&beta;-2%0a#&Delta;3PSM + pOS1 PSM&beta;-3%0a#&Delta;3PSM + pOS1 PSM&beta;-4%0a#&Delta;3PSM + pOS1 PSM&beta;-5%0a#&Delta;3PSM + pOS1 PSM&beta;-6%0a#&Delta;3PSM + pOS1 PSM&beta;-7%0a#&Delta;3PSM + pOS1 PSM&beta;-8%0a#pOS1 PSM&beta;%0a#pOS1 &delta;-tox%0a#&Delta;3PSM + pOS1 &delta;-tox-1%0a#&Delta;3PSM + pOS1 &delta;-tox-2%0a#&Delta;3PSM + pOS1 &delta;-tox-3%0a#&Delta;3PSM + pOS1 &delta;-tox-4%0a#&Delta;3PSM + pOS1 &delta;-tox-6%0a#&Delta;3PSM + pOS1 &delta;-tox-7%0a#&Delta;3PSM + pOS1 &delta;-tox-8%0a#&Delta;3PSM + pOS1 &delta;-tox old one (2)
+time=1471999494
+author:1471999494=Danny
+diff:1471999494:1471999218:=1,2c1%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust15/160821_psmbd_check.jpg%0a%3c %0a---%0a> %0a4,11c3,11%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-1%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-3%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-4%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-5%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-6%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-7%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-8%0a---%0a> #&Delta;3PSM + pOS1 PSM&beta;-1-2%0a> #&Delta;3PSM + pOS1 PSM&beta;-2-2%0a> #&Delta;3PSM + pOS1 PSM&beta;-3-2%0a> #&Delta;3PSM + pOS1 PSM&beta;-4-2%0a> #&Delta;3PSM + pOS1 PSM&beta;-5-2%0a> #&Delta;3PSM + pOS1 PSM&beta;-6-2%0a> #&Delta;3PSM + pOS1 PSM&beta;-7-2%0a> #&Delta;3PSM + pOS1 PSM&beta;-8-2%0a> #ladder%0a13,21c13%0a%3c #pOS1 &delta;-tox%0a%3c #&Delta;3PSM + pOS1 &delta;-tox-1%0a%3c #&Delta;3PSM + pOS1 &delta;-tox-2%0a%3c #&Delta;3PSM + pOS1 &delta;-tox-3%0a%3c #&Delta;3PSM + pOS1 &delta;-tox-4%0a%3c #&Delta;3PSM + pOS1 &delta;-tox-6%0a%3c #&Delta;3PSM + pOS1 &delta;-tox-7%0a%3c #&Delta;3PSM + pOS1 &delta;-tox-8%0a%3c #&Delta;3PSM + pOS1 &delta;-tox old one (2)%0a\ No newline at end of file%0a---%0a> #pOS1 empty%0a\ No newline at end of file%0a
+host:1471999494=205.208.52.184
+author:1471999218=Danny
+diff:1471999218:1471999218:=1,13d0%0a%3c %0a%3c seq2 primers%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-1-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-2-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-3-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-4-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-5-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-6-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-7-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-8-2%0a%3c #ladder%0a%3c #pOS1 PSM&beta;%0a%3c #pOS1 empty%0a\ No newline at end of file%0a
+host:1471999218=205.208.52.184

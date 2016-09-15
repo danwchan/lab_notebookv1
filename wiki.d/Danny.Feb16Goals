@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1454363930
+host=205.208.52.184
+name=Danny.Feb16Goals
+rev=1
+targets=
+text=!!Setting thesis goals for the month%0a#find icaA, atl and agrA CFU and SEM phenotypes in model%0a#test biofilm composition by using protienase and DNase.
+time=1454363930
+author:1454363930=Danny
+diff:1454363930:1454363930:=1,3d0%0a%3c !!Setting thesis goals for the month%0a%3c #find icaA, atl and agrA CFU and SEM phenotypes in model%0a%3c #test biofilm composition by using protienase and DNase.%0a\ No newline at end of file%0a
+host:1454363930=205.208.52.184

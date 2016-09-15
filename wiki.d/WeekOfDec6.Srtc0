@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450172499
+host=10.150.152.80
+name=WeekOfDec6.Srtc0
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfDec6/151210_srtA_screen.jpg%0a%0arun some of the gel purified product%0a# ica 8%0a# agr 8%0a# agr 12%0amarker\\%0a(non)specific primers (pos_seq2_F+R?OR pos_seq2_F+srt_comp_R)%0a# neg%0a# colonies 1-7%0aspecific primers (pos_seq2_F + srt_lf_R)%0a# neg%0a# colonies 1-7
+time=1450172499
+author:1450172499=Danny
+diff:1450172499:1450172499:=1,13d0%0a%3c %25width=70pct%25 Attach:WeekOfDec6/151210_srtA_screen.jpg%0a%3c %0a%3c run some of the gel purified product%0a%3c # ica 8%0a%3c # agr 8%0a%3c # agr 12%0a%3c marker\\%0a%3c (non)specific primers (pos_seq2_F+R?OR pos_seq2_F+srt_comp_R)%0a%3c # neg%0a%3c # colonies 1-7%0a%3c specific primers (pos_seq2_F + srt_lf_R)%0a%3c # neg%0a%3c # colonies 1-7%0a\ No newline at end of file%0a
+host:1450172499=10.150.152.80

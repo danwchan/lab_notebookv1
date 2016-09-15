@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:46.0) Gecko/20100101 Firefox/46.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1464141229
+host=205.208.52.184
+name=Danny.WeekOfMay25
+rev=1
+targets=
+text=!!Artificial sweat media%0a* there are colonies from LAC, C123F, S.epi but not ecoli%0a* both on glucose supplemented and unsupplemented (the agar is drying out a little)%0a* does this mean the bacteria can be grown in sweat media?%0a** it's certainly heavily inhibitory%0a%0a!!Rafts%0a* two more sets of 48 until vacation
+time=1464141229
+author:1464141229=Danny
+diff:1464141229:1464141229:=1,8d0%0a%3c !!Artificial sweat media%0a%3c * there are colonies from LAC, C123F, S.epi but not ecoli%0a%3c * both on glucose supplemented and unsupplemented (the agar is drying out a little)%0a%3c * does this mean the bacteria can be grown in sweat media?%0a%3c ** it's certainly heavily inhibitory%0a%3c %0a%3c !!Rafts%0a%3c * two more sets of 48 until vacation%0a\ No newline at end of file%0a
+host:1464141229=205.208.52.184

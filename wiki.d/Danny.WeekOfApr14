@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:45.0) Gecko/20100101 Firefox/45.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1460773819
+host=205.208.52.184
+name=Danny.WeekOfApr14
+rev=4
+targets=Protocol.M9Salt,Protocol.M9Media,Protocol.Dropoutmix,Protocol.BloodAgar
+text=!!!Thoughts on biofilm assay%0a* agr phenotype disappears and atl phenotype switches when 3%25 NaCl is added to the 0.5%25 Glucose TSB (Biofilm forming media)%0a* in any case I repeated it enough to settle on 2 washes, 1h 60%25deg;C fix, 5 min crystal violet stain, 1 wash, 50&micro;L 33%25 HAc solubilize, 125&micro;L total for plate reader%0a%0a!!!Making media%0a* [[Protocol/M9_salt | 5x M9 salts]] for [[Protocol/M9_media | M9 minimal media]] (to be later supplemented with Drop-out mix +)%0a** prepare [[Protocol/Dropoutmix | Drop-out mix +]]%0a* also make a version with agar (15g/L)%0a* BHI agar (to be later supplemented with 1.5%25 NaCl, 2%25 Glucose and 5%25 Sucrose)%0a** 1/10 of glucose supplement below%0a** 0.5M sucrose (for preparing electrocompetent cells) is at 171.145g/L meaning 30mL/100mL, ~1/3... quite a bit of volume :S%0a** 1/10 of sucrose supplement%0a** dissolve the 1.5%25 NaCl (0.75g/50mL) into the glucose and filter into the BHI agar%0a* 20%25 w/v glucose supplement (filter sterilized)%0a* 50%25 w/v sucrose supplement (filter sterilized)%0a%0a!!!SEM of agar grown colonies%0a* want to try 1mL, 2mL, 5mL plates (small format)%0a** using autoclaved filters 0.45 uM HVLP (PVDF?) overlaid on 1mL plates%0a** 3uL drops plated%0a** +10uL for non filter plates (1,2,5)%0a** M9, M9+ supplement, BHI, BHI+glucose+sucrose+NaCl%0a** RT incubation%0a** 24-32h later moved to RT humidified%0a* '''160417''' BHI has the largest colonies on 5mL plate, colonies visible on 1mL plate%0a** colonies get smaller down the plates%0a** removed filters and fixed for SEM%0a** letting others grow little more%0a%0a!!!quick check of PSM mutants%0a* inoculate on [[Protocol/BloodAgar | Blood agar]] from frozen stock%0a* wt and 77 (agrA C123F) as +/- controls%0a* 1E, 2E, 4E, 4E, 5E, 2F, 3F all have hemolysis%0a** 2F, 3F are quite strong hemolysis contrasted to 1E which is quite weak (all &Delta;3PSM background)
+time=1461033724
+author:1461033724=Danny
+diff:1461033724:1461031462:=1,4d0%0a%3c !!!Thoughts on biofilm assay%0a%3c * agr phenotype disappears and atl phenotype switches when 3%25 NaCl is added to the 0.5%25 Glucose TSB (Biofilm forming media)%0a%3c * in any case I repeated it enough to settle on 2 washes, 1h 60%25deg;C fix, 5 min crystal violet stain, 1 wash, 50&micro;L 33%25 HAc solubilize, 125&micro;L total for plate reader%0a%3c %0a
+host:1461033724=205.208.52.184
+author:1461031462=Danny
+diff:1461031462:1460931336:=
+host:1461031462=205.208.52.184
+author:1460931336=Danny
+diff:1460931336:1460773819:=11,30c11%0a%3c * 50%25 w/v sucrose supplement (filter sterilized)%0a%3c %0a%3c !!!SEM of agar grown colonies%0a%3c * want to try 1mL, 2mL, 5mL plates (small format)%0a%3c ** using autoclaved filters 0.45 uM HVLP (PVDF?) overlaid on 1mL plates%0a%3c ** 3uL drops plated%0a%3c ** +10uL for non filter plates (1,2,5)%0a%3c ** M9, M9+ supplement, BHI, BHI+glucose+sucrose+NaCl%0a%3c ** RT incubation%0a%3c ** 24-32h later moved to RT humidified%0a%3c * '''160417''' BHI has the largest colonies on 5mL plate, colonies visible on 1mL plate%0a%3c ** colonies get smaller down the plates%0a%3c ** removed filters and fixed for SEM%0a%3c ** letting others grow little more%0a%3c %0a%3c !!!quick check of PSM mutants%0a%3c * inoculate on [[Protocol/BloodAgar | Blood agar]] from frozen stock%0a%3c * wt and 77 (agrA C123F) as +/- controls%0a%3c * 1E, 2E, 4E, 4E, 5E, 2F, 3F all have hemolysis%0a%3c ** 2F, 3F are quite strong hemolysis contrasted to 1E which is quite weak (all &Delta;3PSM background)%0a\ No newline at end of file%0a---%0a> * 50%25 w/v sucrose supplement (filter sterilized)%0a\ No newline at end of file%0a
+host:1460931336=205.208.52.184
+author:1460773819=Danny
+diff:1460773819:1460773819:=1,11d0%0a%3c !!!Making media%0a%3c * [[Protocol/M9_salt | 5x M9 salts]] for [[Protocol/M9_media | M9 minimal media]] (to be later supplemented with Drop-out mix +)%0a%3c ** prepare [[Protocol/Dropoutmix | Drop-out mix +]]%0a%3c * also make a version with agar (15g/L)%0a%3c * BHI agar (to be later supplemented with 1.5%25 NaCl, 2%25 Glucose and 5%25 Sucrose)%0a%3c ** 1/10 of glucose supplement below%0a%3c ** 0.5M sucrose (for preparing electrocompetent cells) is at 171.145g/L meaning 30mL/100mL, ~1/3... quite a bit of volume :S%0a%3c ** 1/10 of sucrose supplement%0a%3c ** dissolve the 1.5%25 NaCl (0.75g/50mL) into the glucose and filter into the BHI agar%0a%3c * 20%25 w/v glucose supplement (filter sterilized)%0a%3c * 50%25 w/v sucrose supplement (filter sterilized)%0a\ No newline at end of file%0a
+host:1460773819=10.150.128.248

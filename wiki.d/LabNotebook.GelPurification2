@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448511054
+host=127.0.0.1
+name=LabNotebook.GelPurification2
+rev=2
+targets=LabNotebook.Week1
+text=[[LabNotebook/Week1]]%0a%0a%25width=70pct%25 Attach:LabNotebook.Week1/151125_gelpur2.jpg%0a%0atop gel%0aatl comp primers%0a#clone 37%0a#clone 41%0a#wt%0a#pIMAY #8 atl_KO%0amarker%0aagr comp primers%0a#agrA home-1%0a#agrA home-2%0a#wt%0a#agrA pheonix (tube?)%0amarker%0a%0abottom gel%0a#sP2-agrA cut%0a#sP2-agrA cut%0a#mP2-agrA cut%0a#mP2-agrA cut%0a#pos1 cut x6%0a#marker
+time=1448525920
+author:1448525920=Danny
+diff:1448525920:1448511054:=3,25c3%0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151125_gelpur2.jpg%0a%3c %0a%3c top gel%0a%3c atl comp primers%0a%3c #clone 37%0a%3c #clone 41%0a%3c #wt%0a%3c #pIMAY #8 atl_KO%0a%3c marker%0a%3c agr comp primers%0a%3c #agrA home-1%0a%3c #agrA home-2%0a%3c #wt%0a%3c #agrA pheonix (tube?)%0a%3c marker%0a%3c %0a%3c bottom gel%0a%3c #sP2-agrA cut%0a%3c #sP2-agrA cut%0a%3c #mP2-agrA cut%0a%3c #mP2-agrA cut%0a%3c #pos1 cut x6%0a%3c #marker%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:LabNotebook.Week1/151125_gelpur2.jpg%0a\ No newline at end of file%0a
+host:1448525920=127.0.0.1
+author:1448511054=Danny
+diff:1448511054:1448511054:=1,3d0%0a%3c [[LabNotebook/Week1]]%0a%3c %0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151125_gelpur2.jpg%0a\ No newline at end of file%0a
+host:1448511054=127.0.0.1

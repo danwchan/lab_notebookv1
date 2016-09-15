@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:46.0) Gecko/20100101 Firefox/46.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1462918019
+host=205.208.52.184
+name=Danny.WeekOfMay9
+rev=3
+targets=
+text=!!%0a*still doing statistics%0a*but also trying to write everyday%0a**grad student writing room in the Reg is pretty nice%0a%0a!!anaerobic ''in vitro'' biofilm%0a*2'^nd^' replicate got did not show the atl phenotype... one more time then%0a*new media this time%0a%0a!!''in vitro'' biofilm%0a*the &Delta;srtA mutant is the same in both the +e and +c therefore check for complementation with the colony spreading assay%0a**0.24%25 agar TSB plates left on bench o/n%0a**dried for 10 min%0a**2&micro;L of overnight culture drops on surface%0a**dried for 15 min%0a**incubate until day%0a%0a!!Sweat media agar%0a*very tiny colonies on the 2nd to densest streaking
+time=1462921566
+author:1462921566=Danny
+diff:1462921566:1462921237:=16,19c16%0a%3c **incubate until day%0a%3c %0a%3c !!Sweat media agar%0a%3c *very tiny colonies on the 2nd to densest streaking%0a\ No newline at end of file%0a---%0a> **incubate until day%0a\ No newline at end of file%0a
+host:1462921566=205.208.52.184
+author:1462921237=Danny
+diff:1462921237:1462918019:=11,16c11%0a%3c *the &Delta;srtA mutant is the same in both the +e and +c therefore check for complementation with the colony spreading assay%0a%3c **0.24%25 agar TSB plates left on bench o/n%0a%3c **dried for 10 min%0a%3c **2&micro;L of overnight culture drops on surface%0a%3c **dried for 15 min%0a%3c **incubate until day%0a\ No newline at end of file%0a---%0a> *the &Delta;srtA mutant is the same in both the +e and +c therefore check for complementation with the colony spreading assay%0a\ No newline at end of file%0a
+host:1462921237=205.208.52.184
+author:1462918019=Danny
+diff:1462918019:1462918019:=1,11d0%0a%3c !!%0a%3c *still doing statistics%0a%3c *but also trying to write everyday%0a%3c **grad student writing room in the Reg is pretty nice%0a%3c %0a%3c !!anaerobic ''in vitro'' biofilm%0a%3c *2'^nd^' replicate got did not show the atl phenotype... one more time then%0a%3c *new media this time%0a%3c %0a%3c !!''in vitro'' biofilm%0a%3c *the &Delta;srtA mutant is the same in both the +e and +c therefore check for complementation with the colony spreading assay%0a\ No newline at end of file%0a
+host:1462918019=205.208.52.184

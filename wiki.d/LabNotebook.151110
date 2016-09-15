@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1447191464
+host=127.0.0.1
+name=LabNotebook.151110
+rev=1
+targets=
+text=%25width=70pct%25 Attach:151110_speG_test.jpg
+time=1447191464
+author:1447191464=Danny
+diff:1447191464:1447191464:=1d0%0a%3c %25width=70pct%25 Attach:151110_speG_test.jpg%0a\ No newline at end of file%0a
+host:1447191464=127.0.0.1

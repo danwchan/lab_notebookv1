@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448324114
+host=127.0.0.1
+name=LabNotebook.IcaAScreen1
+rev=2
+targets=LabNotebook.Week1
+text=[[LabNotebook/Week1]]%0a%0a%25width=70pct%25 Attach:LabNotebook.Week1/151123_icaA_screen.jpg%0a%0aicaA screening%0a#wt%0a#icaA home (tube)%0a#icaA JBW (tube)%0a#icaA phx 1%0a#icaA phx 2%0a#icaA phx (tube)%0a%0a'''repeat sequence with MM between each set'''\\%0ahla\\%0atnBursaF+icaA_comp_F
+time=1448324216
+author:1448324216=Danny
+diff:1448324216:1448324114:=5c5%0a%3c icaA screening%0a---%0a> speG screening%0a
+host:1448324216=127.0.0.1
+author:1448324114=Danny
+diff:1448324114:1448324114:=1,15d0%0a%3c [[LabNotebook/Week1]]%0a%3c %0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151123_icaA_screen.jpg%0a%3c %0a%3c speG screening%0a%3c #wt%0a%3c #icaA home (tube)%0a%3c #icaA JBW (tube)%0a%3c #icaA phx 1%0a%3c #icaA phx 2%0a%3c #icaA phx (tube)%0a%3c %0a%3c '''repeat sequence with MM between each set'''\\%0a%3c hla\\%0a%3c tnBursaF+icaA_comp_F%0a\ No newline at end of file%0a
+host:1448324114=127.0.0.1

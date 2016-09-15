@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1458262151
+host=205.208.52.184
+name=DataEntry.Danny
+rev=1
+targets=
+text=[[https://uchicago.box.com/s/mui2tum423jgesckoww186iz406pke91|LINK TO BOX]]
+time=1458262151
+author:1458262151=Danny
+diff:1458262151:1458262151:=1d0%0a%3c [[https://uchicago.box.com/s/mui2tum423jgesckoww186iz406pke91|LINK TO BOX]]%0a\ No newline at end of file%0a
+host:1458262151=205.208.52.184

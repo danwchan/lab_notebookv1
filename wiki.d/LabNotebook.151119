@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1447986476
+host=10.150.136.114
+name=LabNotebook.151119
+rev=3
+targets=
+text=!!Confirming mutants%0a*isolate genomic DNA from icaA, icaR and srtA Phenonix library mutants%0a*PCR confirmation%0a%0a%25width=70pct%25 Attach:151119_agrA_screen.jpg%0a%0atnBursa_F+agrA_R%0a#USA300 agrA%0a#Parent agrA%0a#USA300%0a#Newman%0atnBursa_R+agrA_R%0a#USA300 agrA%0a#Parent agrA%0a#USA300%0a#Newman%0a%0atnBursa_F+agrA_F%0a#USA300 agrA%0a#Parent agrA%0a#USA300%0a#Newman%0atnBursa_R+agrA_F%0a#USA300 agrA%0a#Parent agrA%0a#USA300%0a#Newman%0a%0aspeG%0a#USA300 agrA%0a#Parent agrA%0a#USA300%0a#Newman%0a%0a!!Making icaA and icaR%0a*innoculate 1:100 of overnight Pheonix library mutants in TSB:LB+CaCl'^2^'%0a*infect o/n for virus tomorrow
+time=1447988005
+author:1447988005=Danny
+diff:1447988005:1447987584:=
+host:1447988005=10.150.136.114
+author:1447987584=Danny
+diff:1447987584:1447986476:=5,7c5%0a%3c %25width=70pct%25 Attach:151119_agrA_screen.jpg%0a%3c %0a%3c tnBursa_F+agrA_R%0a---%0a> tnBursa_F+agrA_F%0a12c10,11%0a%3c tnBursa_R+agrA_R%0a---%0a> %0a> tnBursa_R+agrA_F%0a18,29c17%0a%3c tnBursa_F+agrA_F%0a%3c #USA300 agrA%0a%3c #Parent agrA%0a%3c #USA300%0a%3c #Newman%0a%3c tnBursa_R+agrA_F%0a%3c #USA300 agrA%0a%3c #Parent agrA%0a%3c #USA300%0a%3c #Newman%0a%3c %0a%3c speG%0a---%0a> t%0a
+host:1447987584=10.150.136.114
+author:1447986476=Danny
+diff:1447986476:1447986476:=1,25d0%0a%3c !!Confirming mutants%0a%3c *isolate genomic DNA from icaA, icaR and srtA Phenonix library mutants%0a%3c *PCR confirmation%0a%3c %0a%3c tnBursa_F+agrA_F%0a%3c #USA300 agrA%0a%3c #Parent agrA%0a%3c #USA300%0a%3c #Newman%0a%3c %0a%3c tnBursa_R+agrA_F%0a%3c #USA300 agrA%0a%3c #Parent agrA%0a%3c #USA300%0a%3c #Newman%0a%3c %0a%3c t%0a%3c #USA300 agrA%0a%3c #Parent agrA%0a%3c #USA300%0a%3c #Newman%0a%3c %0a%3c !!Making icaA and icaR%0a%3c *innoculate 1:100 of overnight Pheonix library mutants in TSB:LB+CaCl'^2^'%0a%3c *infect o/n for virus tomorrow%0a\ No newline at end of file%0a
+host:1447986476=10.150.136.114

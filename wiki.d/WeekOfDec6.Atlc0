@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450167928
+host=165.68.124.11
+name=WeekOfDec6.Atlc0
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfDec6/151211_atl_comp_screen.jpg%0a%0atopgel: non-specific ampification \\%0amarker%0a# samples 1-23%0a# negative%0a%0atopgel: specific ampification \\%0amarker%0a# samples 1-23%0a# negative
+time=1450167928
+author:1450167928=Danny
+diff:1450167928:1450167928:=1,11d0%0a%3c %25width=70pct%25 Attach:WeekOfDec6/151211_atl_comp_screen.jpg%0a%3c %0a%3c topgel: non-specific ampification \\%0a%3c marker%0a%3c # samples 1-23%0a%3c # negative%0a%3c %0a%3c topgel: specific ampification \\%0a%3c marker%0a%3c # samples 1-23%0a%3c # negative%0a\ No newline at end of file%0a
+host:1450167928=165.68.124.11

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448509341
+host=127.0.0.1
+name=LabNotebook.BursaScreen1
+rev=3
+targets=LabNotebook.Week1
+text=[[LabNotebook/Week1]]%0a%0a%25width=70pct%25 Attach:LabNotebook.Week1/151125_Bursa_screen.jpg%0a%0atopgel%0aagrA_comp_R+tnBursa_F%0a#agrA pheonix (tube?)%0a#agrA pheonix-1%0a#agrA pheonix-2%0a#agrA home-1%0a#agrA home-2%0a#agrA home-3%0a#agrA home(tube)%0a#wt%0amarker%0aagrA_comp_R+tnBursa_R%0a#repeat samples%0a%0abottom gel%0aica_F+tnBursa_F%0a#wt%0a#icaA home%0a#icaA pheonix-1%0a#icaA pheonix-2%0a#icaA pheonix #1%0aica_F+tnBursa_R%0a#repeat samples%0a
+time=1448526233
+author:1448526233=Danny
+diff:1448526233:1448526198:=16c16%0a%3c agrA_comp_R+tnBursa_R%0a---%0a> agrA_comp_R+tnBursa_R\\%0a
+host:1448526233=127.0.0.1
+author:1448526198=Danny
+diff:1448526198:1448509341:=3,27c3%0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151125_Bursa_screen.jpg%0a%3c %0a%3c topgel%0a%3c agrA_comp_R+tnBursa_F%0a%3c #agrA pheonix (tube?)%0a%3c #agrA pheonix-1%0a%3c #agrA pheonix-2%0a%3c #agrA home-1%0a%3c #agrA home-2%0a%3c #agrA home-3%0a%3c #agrA home(tube)%0a%3c #wt%0a%3c marker%0a%3c agrA_comp_R+tnBursa_R\\%0a%3c #repeat samples%0a%3c %0a%3c bottom gel%0a%3c ica_F+tnBursa_F%0a%3c #wt%0a%3c #icaA home%0a%3c #icaA pheonix-1%0a%3c #icaA pheonix-2%0a%3c #icaA pheonix #1%0a%3c ica_F+tnBursa_R%0a%3c #repeat samples%0a---%0a> %25width=70pct%25 Attach:LabNotebook.Week1/151125_Bursa_screen.jpg%0a\ No newline at end of file%0a
+host:1448526198=127.0.0.1
+author:1448509341=Danny
+diff:1448509341:1448509341:=1,3d0%0a%3c [[LabNotebook/Week1]]%0a%3c %0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151125_Bursa_screen.jpg%0a\ No newline at end of file%0a
+host:1448509341=127.0.0.1

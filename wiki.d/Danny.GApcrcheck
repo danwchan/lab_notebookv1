@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1470268028
+host=205.208.52.184
+name=Danny.GApcrcheck
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfAugust1/160803_psmGApcr.jpg%0a%0a#PSM&alpha; GA fragment rxn1%0a#PSM&alpha; GA fragment rxn2%0a#PSM&beta; GA fragment rxn1%0a#PSM&beta; GA fragment rxn2%0a#PSM&delta; GA fragment rxn1%0a#PSM&delta; GA fragment rxn2%0a#1kb ladder (Generuler)
+time=1470268028
+author:1470268028=Danny
+diff:1470268028:1470268028:=1,9d0%0a%3c %25width=70pct%25 Attach:WeekOfAugust1/160803_psmGApcr.jpg%0a%3c %0a%3c #PSM&alpha; GA fragment rxn1%0a%3c #PSM&alpha; GA fragment rxn2%0a%3c #PSM&beta; GA fragment rxn1%0a%3c #PSM&beta; GA fragment rxn2%0a%3c #PSM&delta; GA fragment rxn1%0a%3c #PSM&delta; GA fragment rxn2%0a%3c #1kb ladder (Generuler)%0a\ No newline at end of file%0a
+host:1470268028=205.208.52.184

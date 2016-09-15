@@ -1,0 +1,22 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1445455452
+host=127.0.0.1
+name=LabNotebook.151021
+rev=3
+targets=
+text===Rush!%0a* make a poster for CBC retreat%0a%0a==atl mutant?%0a* PCR screen%0a** using speG to check DNA, atl comp to check for deletion%0a** also check putative co-integrants for loss of pIMAY and speG for DNA%0a** also check putative transformants (grown at 28&deg;C for) for presence of pIMAY%0a%0a%25width=70pct%25 Attach:151021_atlKO_scrn.jpg%0a%0atop gel speG primers%0a# 1-14 atl6 resolved%0a# atl6 coint%0a# MM%0a# lip20 resolved%0a# atl coint%0a# lip coint%0a# speG coint%0a%0amiddle gel atl primers%0a# 1-14 atl6 resolved%0a# MM%0a# lip20 resolved%0a# pIMAY atl 8%0a%0abottom gel IM152 primers%0a# atl6 coint%0a# atl coint%0a# lip coint%0a# speG coint%0a# MM%0a# 2x speG transformant%0a# 2x atl transformant%0a# 2x lip transformant%0a%0a==rafts%0a* split J23T3%0a* split NHEK (friday night rafts?)%0a%0a==julie%0a*julie julie julie julie julie...
+time=1445575661
+author:1445575661=Danny
+diff:1445575661:1445480691:=41,42c41,42%0a%3c ==julie%0a%3c *julie julie julie julie julie...%0a\ No newline at end of file%0a---%0a> ==%0a> *%0a\ No newline at end of file%0a
+host:1445575661=127.0.0.1
+author:1445480691=Danny
+csum:1445480691=attach picture
+diff:1445480691:1445455452:=9,35d8%0a%3c %0a%3c %25width=70pct%25 Attach:151021_atlKO_scrn.jpg%0a%3c %0a%3c top gel speG primers%0a%3c # 1-14 atl6 resolved%0a%3c # atl6 coint%0a%3c # MM%0a%3c # lip20 resolved%0a%3c # atl coint%0a%3c # lip coint%0a%3c # speG coint%0a%3c %0a%3c middle gel atl primers%0a%3c # 1-14 atl6 resolved%0a%3c # MM%0a%3c # lip20 resolved%0a%3c # pIMAY atl 8%0a%3c %0a%3c bottom gel IM152 primers%0a%3c # atl6 coint%0a%3c # atl coint%0a%3c # lip coint%0a%3c # speG coint%0a%3c # MM%0a%3c # 2x speG transformant%0a%3c # 2x atl transformant%0a%3c # 2x lip transformant%0a
+host:1445480691=127.0.0.1
+author:1445455452=Danny
+diff:1445455452:1445455452:=1,15d0%0a%3c ==Rush!%0a%3c * make a poster for CBC retreat%0a%3c %0a%3c ==atl mutant?%0a%3c * PCR screen%0a%3c ** using speG to check DNA, atl comp to check for deletion%0a%3c ** also check putative co-integrants for loss of pIMAY and speG for DNA%0a%3c ** also check putative transformants (grown at 28&deg;C for) for presence of pIMAY%0a%3c %0a%3c ==rafts%0a%3c * split J23T3%0a%3c * split NHEK (friday night rafts?)%0a%3c %0a%3c ==%0a%3c *%0a\ No newline at end of file%0a
+host:1445455452=127.0.0.1

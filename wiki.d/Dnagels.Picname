@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471400109
+host=205.208.52.184
+name=Dnagels.Picname
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust15/%0a%0afirst set speG%0a#PSMb-1%0a#PSMb-2%0a#PSMb-3%0a#PSMb-4%0a#PSMd-1%0a#PSMd-2%0a#PSMd-3%0a#ladder 1kb%0a#&Delta;3PSM genomic%0a#pOS1 + d control%0a#pOS1 + b control%0asecond set seq2%0a#ladder 1kb%0a#PSMb-1%0a#PSMb-2%0a#PSMb-3%0a#PSMb-4%0a#PSMd-1%0a#PSMd-2%0a#PSMd-3%0a#ladder 1kb%0a#&Delta;3PSM genomic%0a#pOS1 + b control%0a#pOS1 + d control
+time=1471400109
+author:1471400109=Danny
+diff:1471400109:1471400109:=1,27d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust15/%0a%3c %0a%3c first set speG%0a%3c #PSMb-1%0a%3c #PSMb-2%0a%3c #PSMb-3%0a%3c #PSMb-4%0a%3c #PSMd-1%0a%3c #PSMd-2%0a%3c #PSMd-3%0a%3c #ladder 1kb%0a%3c #&Delta;3PSM genomic%0a%3c #pOS1 + d control%0a%3c #pOS1 + b control%0a%3c second set seq2%0a%3c #ladder 1kb%0a%3c #PSMb-1%0a%3c #PSMb-2%0a%3c #PSMb-3%0a%3c #PSMb-4%0a%3c #PSMd-1%0a%3c #PSMd-2%0a%3c #PSMd-3%0a%3c #ladder 1kb%0a%3c #&Delta;3PSM genomic%0a%3c #pOS1 + b control%0a%3c #pOS1 + d control%0a\ No newline at end of file%0a
+host:1471400109=205.208.52.184

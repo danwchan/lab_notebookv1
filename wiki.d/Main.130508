@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1368127419
+host=::1
+name=Main.130508
+rev=3
+targets=Protcol.OrganotypicRafts
+text=%0a%0aHarvest J23T3 fibroblasts%0a%0a0.5x10'^6^' cells used to continue line%0a%0a5.2x10'^6^' cells used to seed 24x [[Protcol/Organotypic rafts]]
+time=1368127702
+author:1368127702=Danny
+diff:1368127702:1368127548:=1,7c1,3%0a%3c %0a%3c %0a%3c Harvest J23T3 fibroblasts%0a%3c %0a%3c 0.5x10'^6^' cells used to continue line%0a%3c %0a%3c 5.2x10'^6^' cells used to seed 24x [[Protcol/Organotypic rafts]]%0a\ No newline at end of file%0a---%0a> [[!Lab Notebook]]%0a> %0a> Harvest J23T3 fibroblasts%0a\ No newline at end of file%0a
+host:1368127702=::1
+author:1368127548=Danny
+diff:1368127548:1368127419:=1,2d0%0a%3c [[!Lab Notebook]]%0a%3c %0a
+host:1368127548=::1
+author:1368127419=Danny
+diff:1368127419:1368127419:=1d0%0a%3c Harvest J23T3 fibroblasts%0a\ No newline at end of file%0a
+host:1368127419=::1

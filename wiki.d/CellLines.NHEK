@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1368128477
+host=::1
+name=CellLines.NHEK
+rev=1
+targets=Category.CellLine
+text=[[!Cell Line]]%0a%0a!!Normal Human Epidermal Keratinocytes%0a%0aIsolated from human foreskins obtained by PH at the Northwestern University Skin Disease Research Center (NU-SDRC)
+time=1368128477
+author:1368128477=Danny
+diff:1368128477:1368128477:=1,5d0%0a%3c [[!Cell Line]]%0a%3c %0a%3c !!Normal Human Epidermal Keratinocytes%0a%3c %0a%3c Isolated from human foreskins obtained by PH at the Northwestern University Skin Disease Research Center (NU-SDRC)%0a\ No newline at end of file%0a
+host:1368128477=::1

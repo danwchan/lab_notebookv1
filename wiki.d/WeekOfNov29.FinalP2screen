@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1449540132
+host=10.150.131.133
+name=WeekOfNov29.FinalP2screen
+rev=3
+targets=
+text=%25width=70pct%25 Attach:WeekOfNov29/151207_P2agr_screen.jpg%0a%0atoplayer pos1_seq2_F+R, minP2%0a#samples%0amarker, gap marker%0a#negative%0a#positive%0abottom layer pos1_seq2_F+R, sarP2%0a#negative%0a#positive%0a#samples
+time=1449540204
+author:1449540204=Danny
+diff:1449540204:1449540172:=3c3%0a%3c toplayer pos1_seq2_F+R, minP2%0a---%0a> toplayer pos1_seq2_F+R%0a8c8%0a%3c bottom layer pos1_seq2_F+R, sarP2%0a---%0a> bottom layer pos1_seq2_F + agrA_RN_R%0a
+host:1449540204=10.150.131.133
+author:1449540172=Danny
+diff:1449540172:1449540132:=4,5d3%0a%3c #samples%0a%3c marker, gap marker%0a7a6%0a> #samples%0a
+host:1449540172=10.150.131.133
+author:1449540132=Danny
+diff:1449540132:1449540132:=1,10d0%0a%3c %25width=70pct%25 Attach:WeekOfNov29/151207_P2agr_screen.jpg%0a%3c %0a%3c toplayer pos1_seq2_F+R%0a%3c #negative%0a%3c #positive%0a%3c #samples%0a%3c bottom layer pos1_seq2_F + agrA_RN_R%0a%3c #negative%0a%3c #positive%0a%3c #samples%0a\ No newline at end of file%0a
+host:1449540132=10.150.131.133

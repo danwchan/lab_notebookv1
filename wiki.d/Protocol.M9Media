@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1460777264
+host=10.150.128.248
+name=Protocol.M9Media
+rev=1
+targets=
+text=based on [[http://cshprotocols.cshlp.org/content/2010/8/pdb.rec12295.full?text_only=true| CSH protocol]]%0a%0a!!!M9 minimal media (0.4%25 Glucose)%0a%0a||border=1%0a||! Reagent ||! Amount to add (for 100 mL) ||%0a|| M9 salts (5X) || 20 mL ||%0a|| Glucose (20%25) || 2 mL ||%0a|| MgSO'_4_' (2M) || 100 μL ||%0a|| CaCl'_2_' (1M) || 10 μL ||%0a|| H'_2_'O || 78 mL ||
+time=1460777264
+author:1460777264=Danny
+diff:1460777264:1460777264:=1,11d0%0a%3c based on [[http://cshprotocols.cshlp.org/content/2010/8/pdb.rec12295.full?text_only=true| CSH protocol]]%0a%3c %0a%3c !!!M9 minimal media (0.4%25 Glucose)%0a%3c %0a%3c ||border=1%0a%3c ||! Reagent ||! Amount to add (for 100 mL) ||%0a%3c || M9 salts (5X) || 20 mL ||%0a%3c || Glucose (20%25) || 2 mL ||%0a%3c || MgSO'_4_' (2M) || 100 μL ||%0a%3c || CaCl'_2_' (1M) || 10 μL ||%0a%3c || H'_2_'O || 78 mL ||%0a\ No newline at end of file%0a
+host:1460777264=10.150.128.248

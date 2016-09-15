@@ -1,0 +1,20 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=update
+ctime=1444351398
+host=127.0.0.1
+name=LabNotebook.151008
+rev=2
+targets=
+text===cloning!%0a* midi prep pOS1%0a* PCR amplify agrA (for pIMAY)%0a* cut for cloning%0a** pIMAY and PCR product in sacI + ecoRI-HF in cutsmart%0a** pOS in in nsiI + ecoRI-HF in 2.1%0a** P2-old stitch products in nsiI + ecoRI-HF in 2.1 (inactivate on products @ 65&deg;C for 20 min)%0a** antarctic phosphotase treat backbone%0a** gel purify
+time=1444351667
+author:1444351667=Danny
+csum:1444351667=update
+diff:1444351667:1444351398:=6,7c6%0a%3c ** pOS in in nsiI + ecoRI-HF in 2.1%0a%3c ** P2-old stitch products in nsiI + ecoRI-HF in 2.1 (inactivate on products @ 65&deg;C for 20 min)%0a---%0a> ** pOS1 and P2-old stitch products in nsiI + ecoRI-HF in 2.1 (inactivate on products @ 65&deg;C for 20 min)%0a
+host:1444351667=127.0.0.1
+author:1444351398=Danny
+csum:1444351398=quick plan with REN
+diff:1444351398:1444351398:=1,8d0%0a%3c ==cloning!%0a%3c * midi prep pOS1%0a%3c * PCR amplify agrA (for pIMAY)%0a%3c * cut for cloning%0a%3c ** pIMAY and PCR product in sacI + ecoRI-HF in cutsmart%0a%3c ** pOS1 and P2-old stitch products in nsiI + ecoRI-HF in 2.1 (inactivate on products @ 65&deg;C for 20 min)%0a%3c ** antarctic phosphotase treat backbone%0a%3c ** gel purify%0a\ No newline at end of file%0a
+host:1444351398=127.0.0.1

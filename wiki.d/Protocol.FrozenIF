@@ -1,0 +1,19 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=some updates with reagents and techniques
+ctime=1461044136
+host=205.208.52.184
+name=Protocol.FrozenIF
+rev=2
+targets=
+text=derived from [[http://dx.doi.org/10.1159%252F000257261 | Neis et al.]] and [[http://dx.doi.org/10.1111%252F1523-1747.ep12486607 | Markey et al.]]%0a%0aprotocol for processing sections cut from OCT blocks in the cryostat.  Currently I snap freeze the rafts (careful to keep the collagen attached to the keratinocyte layer) in lN'_2_' before submerging in a thin layer of OCT, cutting out and reorienting in OCT then sectioning at 5&micro;m. You gotta use superfrost ++ slides or the tissue falls off. Also it was mentioned by the SDRC that reembedding doesn't work well, but I found it fine. You can also cut on the the thin edge of the cassette.%0a%0a!!Frozen immunofluorescence%0a%0a# Rinse off OCT by dipping in PBS%0a# Air dry for 10 min%0a# Fix in 4&deg;C acetone for 10 min%0a# Rinse in wash buffer (0.5M Tris pH 7.6, 1.5M NaCl, 0.5%25 Tween 20) by dipping%0a# Block with 10%25 goat serum, 1%25 human IgG in wash buffer  for 30 min RT%0a# Primary antibody in 1%25 goat serum + wash buffer for 1h RT%0a# Wash 3x%0a# Secondary antibody in 1%25 goat serum + wash buffer for 45min RT%0a# Wash 3x%0a# mount
+time=1467651014
+author:1467651014=Danny
+csum:1467651014=some updates with reagents and techniques
+diff:1467651014:1461044136:=3c3%0a%3c protocol for processing sections cut from OCT blocks in the cryostat.  Currently I snap freeze the rafts (careful to keep the collagen attached to the keratinocyte layer) in lN'_2_' before submerging in a thin layer of OCT, cutting out and reorienting in OCT then sectioning at 5&micro;m. You gotta use superfrost ++ slides or the tissue falls off. Also it was mentioned by the SDRC that reembedding doesn't work well, but I found it fine. You can also cut on the the thin edge of the cassette.%0a---%0a> protocol for processing sections cut from OCT blocks in the cryostat.  Currently I snap freeze the rafts (careful to keep the collagen attached to the keratinocyte layer) in lN'_2_' before submerging in a thin layer of OCT, cutting out and reorienting in OCT then sectioning at 5&micro;m%0a
+host:1467651014=205.208.52.184
+author:1461044136=Danny
+diff:1461044136:1461044136:=1,16d0%0a%3c derived from [[http://dx.doi.org/10.1159%252F000257261 | Neis et al.]] and [[http://dx.doi.org/10.1111%252F1523-1747.ep12486607 | Markey et al.]]%0a%3c %0a%3c protocol for processing sections cut from OCT blocks in the cryostat.  Currently I snap freeze the rafts (careful to keep the collagen attached to the keratinocyte layer) in lN'_2_' before submerging in a thin layer of OCT, cutting out and reorienting in OCT then sectioning at 5&micro;m%0a%3c %0a%3c !!Frozen immunofluorescence%0a%3c %0a%3c # Rinse off OCT by dipping in PBS%0a%3c # Air dry for 10 min%0a%3c # Fix in 4&deg;C acetone for 10 min%0a%3c # Rinse in wash buffer (0.5M Tris pH 7.6, 1.5M NaCl, 0.5%25 Tween 20) by dipping%0a%3c # Block with 10%25 goat serum, 1%25 human IgG in wash buffer  for 30 min RT%0a%3c # Primary antibody in 1%25 goat serum + wash buffer for 1h RT%0a%3c # Wash 3x%0a%3c # Secondary antibody in 1%25 goat serum + wash buffer for 45min RT%0a%3c # Wash 3x%0a%3c # mount%0a\ No newline at end of file%0a
+host:1461044136=205.208.52.184

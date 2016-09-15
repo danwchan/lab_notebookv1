@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1467323161
+host=205.208.52.184
+name=Danny.WeekOfJune27
+rev=3
+targets=
+text=!!Rafts%0a*new set of rafts%0a** J23T3 160520%0a** NHEK 160323 P3 (split once and grown to confluency P5)%0a*lifted 160630%0a%0a!!Wrapping up a manuscript%0a*SEM on the bottom of the 96-well PC plates used for the crystal violet biofilm assay%0a** n=2%0a** washed and unwashed%0a*SEM of colonies grown on artificial sweat media agar and TSB?%0a** both streak plates and filter born colonies%0a** TSB grew in 24h, flooded the plates with fixative (2%25 Glutaraldehyde, 2%25 PFA in PBS)%0a%0a!!Colony spreading%0a* old soft agar plates (they lose a lot of moisture at 4&deg;C)%0a* dry for 10 mins%0a* 10&micro;L cultures%0a* dry for 10 mins%0a* 37 overnight%0a** the wildtype and complemented are kinda spread-y%0a** visible area 2x the width of the colony of different refractive index%0a** this could be the surfactant front%0a** agrA C123F does not have this%0a%0a!!lucifer yellow treated contaminated rafts%0a* how robust is barrier function%0a* SEM of the same raft bactch shows some irritated corneum and rod like bacteria on the surface%0a* frozen in OCT floated on liquid N'_2_'%0a** it's very hard to cut in the cryostat, could this be because of the fixative (second time it's happened in memory) but the LY must be fixed to the tissue to get a reading of the thickness
+time=1467646766
+author:1467646766=Danny
+diff:1467646766:1467323380:=26c26%0a%3c !!lucifer yellow treated contaminated rafts%0a---%0a> !!lucifer yellow treated ocntaminated rafts%0a29,30c29%0a%3c * frozen in OCT floated on liquid N'_2_'%0a%3c ** it's very hard to cut in the cryostat, could this be because of the fixative (second time it's happened in memory) but the LY must be fixed to the tissue to get a reading of the thickness%0a\ No newline at end of file%0a---%0a> * frozen in OCT floated on liquid N'_2_'%0a\ No newline at end of file%0a
+host:1467646766=205.208.52.184
+author:1467323380=Danny
+diff:1467323380:1467323161:=11,13d10%0a%3c *SEM of colonies grown on artificial sweat media agar and TSB?%0a%3c ** both streak plates and filter born colonies%0a%3c ** TSB grew in 24h, flooded the plates with fixative (2%25 Glutaraldehyde, 2%25 PFA in PBS)%0a
+host:1467323380=205.208.52.184
+author:1467323161=Danny
+diff:1467323161:1467323161:=1,26d0%0a%3c !!Rafts%0a%3c *new set of rafts%0a%3c ** J23T3 160520%0a%3c ** NHEK 160323 P3 (split once and grown to confluency P5)%0a%3c *lifted 160630%0a%3c %0a%3c !!Wrapping up a manuscript%0a%3c *SEM on the bottom of the 96-well PC plates used for the crystal violet biofilm assay%0a%3c ** n=2%0a%3c ** washed and unwashed%0a%3c %0a%3c !!Colony spreading%0a%3c * old soft agar plates (they lose a lot of moisture at 4&deg;C)%0a%3c * dry for 10 mins%0a%3c * 10&micro;L cultures%0a%3c * dry for 10 mins%0a%3c * 37 overnight%0a%3c ** the wildtype and complemented are kinda spread-y%0a%3c ** visible area 2x the width of the colony of different refractive index%0a%3c ** this could be the surfactant front%0a%3c ** agrA C123F does not have this%0a%3c %0a%3c !!lucifer yellow treated ocntaminated rafts%0a%3c * how robust is barrier function%0a%3c * SEM of the same raft bactch shows some irritated corneum and rod like bacteria on the surface%0a%3c * frozen in OCT floated on liquid N'_2_'%0a\ No newline at end of file%0a
+host:1467323161=205.208.52.184

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1445453744
+host=127.0.0.1
+name=LabNotebook.WeekOf151018
+rev=2
+targets=LabNotebook.151018,LabNotebook.151021,LabNotebook.151022,LabNotebook.151023,LabNotebook.151024
+text=[[151018]]\\%0a[[151021]]\\%0a[[151022]]\\%0a[[151023]]\\%0a[[151024]]
+time=1445575789
+author:1445575789=Danny
+diff:1445575789:1445453744:=1d0%0a%3c [[151018]]\\%0a4,5c3%0a%3c [[151023]]\\%0a%3c [[151024]]%0a\ No newline at end of file%0a---%0a> [[151023]]%0a\ No newline at end of file%0a
+host:1445575789=127.0.0.1
+author:1445453744=Danny
+diff:1445453744:1445453744:=1,3d0%0a%3c [[151021]]\\%0a%3c [[151022]]\\%0a%3c [[151023]]%0a\ No newline at end of file%0a
+host:1445453744=127.0.0.1

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:43.0) Gecko/20100101 Firefox/43.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450755375
+host=205.208.52.184
+name=Reset-holiday.AgrATnscreen2
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Reset-holiday/151221_agrA_tnscreen_redo.jpg%0a%0aprimerset: agr_scrn_F + R%0a# 1kb plus ladder%0a# 8-2%0a# 12-2%0a# agrA::erm phx-1%0a# WT LAC
+time=1450755375
+author:1450755375=Danny
+diff:1450755375:1450755375:=1,8d0%0a%3c %25width=70pct%25 Attach:Reset-holiday/151221_agrA_tnscreen_redo.jpg%0a%3c %0a%3c primerset: agr_scrn_F + R%0a%3c # 1kb plus ladder%0a%3c # 8-2%0a%3c # 12-2%0a%3c # agrA::erm phx-1%0a%3c # WT LAC%0a\ No newline at end of file%0a
+host:1450755375=205.208.52.184

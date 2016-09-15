@@ -1,0 +1,31 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=I switched the tubes!... wow talk about delayed response: makes sense now
+ctime=1453833435
+host=205.208.52.184
+name=Danny.MultiGel
+rev=6
+targets=Danny.WeekofJan20
+text=[[WeekofJan20]]%0a%0a%25width=70pct%25 Attach:WeekOfJan20/161021_agrA_seq_screening.jpg%0a%0atop gel agrA thing\\%0a1-4 agrA_F+R PCR gel extract (expected band ~600bp)%0a# WT LAC%0a# &Delta;agrA phx-1%0a# 12-2 agrA::erm%0a# 22251%0a# ladder (1kb plus)%0a6-9 agr_locus_seq_F+R PCR gel extract (expected band 3kb)%0a# WT LAC%0a# &Delta;agrA phx-1%0a# 12-2 agrA::erm%0a# 22251%0a# ecoRI cut pos1 ica_14%0a# EcoRI, SacI cut PCR agrA_pIMAY%0abottom gel%0a# ladder 1 kb plus%0a2-9 pos_seq2_F+R (expected band ~1.3kb)%0a# s1%0a# s2%0a# s3%0a# s4%0a# m1%0a# m2%0a# m3%0a# m4%0a10-17 PCR screen with pos_seq2_F+R (expected band 500bp negative, 1.3kb positive)%0a# &Delta;srtA c1%0a# &Delta;srtA c2%0a# &Delta;srtA c3%0a# &Delta;srtA e4%0a# &Delta;srtA e1%0a# &Delta;srtA e2%0a# &Delta;srtA e3%0a# &Delta;srtA c4%0a18-24 PCR screen with pos_seq2_F + srtA_lf_R (expected band ~1.6 kb)%0a# &Delta;srtA c1%0a# &Delta;srtA c2%0a# &Delta;srtA c3%0a# &Delta;srtA e4%0a# &Delta;srtA e1%0a# &Delta;srtA e2%0a# &Delta;srtA e3%0a# &Delta;srtA c4
+time=1455584135
+author:1455584135=Danny
+csum:1455584135=I switched the tubes!... wow talk about delayed response: makes sense now
+diff:1455584135:1453845732:=34c34%0a%3c # &Delta;srtA e4%0a---%0a> # &Delta;srtA c4%0a38c38%0a%3c # &Delta;srtA c4%0a---%0a> # &Delta;srtA e4%0a43c43%0a%3c # &Delta;srtA e4%0a---%0a> # &Delta;srtA c4%0a47c47%0a%3c # &Delta;srtA c4%0a\ No newline at end of file%0a---%0a> # &Delta;srtA e4%0a\ No newline at end of file%0a
+host:1455584135=205.208.52.184
+author:1453845732=Danny
+diff:1453845732:1453845696:=6c6%0a%3c 1-4 agrA_F+R PCR gel extract (expected band ~600bp)%0a---%0a> 1-4 agrA_F+R PCR (expected band ~600bp)%0a12c12%0a%3c 6-9 agr_locus_seq_F+R PCR gel extract (expected band 3kb)%0a---%0a> 6-9 agr_locus_seq_F+R (expected band 3kb)%0a
+host:1453845732=205.208.52.184
+author:1453845696=Danny
+diff:1453845696:1453841499:=6a7%0a> # 12-2 agrA::erm%0a9d9%0a%3c # 12-2 agrA::erm%0a12c12,13%0a%3c 6-9 agr_locus_seq_F+R (expected band 3kb)%0a---%0a> 6-9 agr_locus_seq_F+R%0a> # 12-2 agrA::erm%0a15d15%0a%3c # 12-2 agrA::erm%0a
+host:1453845696=205.208.52.184
+author:1453841499=Danny
+diff:1453841499:1453833475:=3,47c3%0a%3c %25width=70pct%25 Attach:WeekOfJan20/161021_agrA_seq_screening.jpg%0a%3c %0a%3c top gel agrA thing\\%0a%3c 1-4 agrA_F+R PCR (expected band ~600bp)%0a%3c # 12-2 agrA::erm%0a%3c # WT LAC%0a%3c # &Delta;agrA phx-1%0a%3c # 22251%0a%3c # ladder (1kb plus)%0a%3c 6-9 agr_locus_seq_F+R%0a%3c # 12-2 agrA::erm%0a%3c # WT LAC%0a%3c # &Delta;agrA phx-1%0a%3c # 22251%0a%3c # ecoRI cut pos1 ica_14%0a%3c # EcoRI, SacI cut PCR agrA_pIMAY%0a%3c bottom gel%0a%3c # ladder 1 kb plus%0a%3c 2-9 pos_seq2_F+R (expected band ~1.3kb)%0a%3c # s1%0a%3c # s2%0a%3c # s3%0a%3c # s4%0a%3c # m1%0a%3c # m2%0a%3c # m3%0a%3c # m4%0a%3c 10-17 PCR screen with pos_seq2_F+R (expected band 500bp negative, 1.3kb positive)%0a%3c # &Delta;srtA c1%0a%3c # &Delta;srtA c2%0a%3c # &Delta;srtA c3%0a%3c # &Delta;srtA c4%0a%3c # &Delta;srtA e1%0a%3c # &Delta;srtA e2%0a%3c # &Delta;srtA e3%0a%3c # &Delta;srtA e4%0a%3c 18-24 PCR screen with pos_seq2_F + srtA_lf_R (expected band ~1.6 kb)%0a%3c # &Delta;srtA c1%0a%3c # &Delta;srtA c2%0a%3c # &Delta;srtA c3%0a%3c # &Delta;srtA c4%0a%3c # &Delta;srtA e1%0a%3c # &Delta;srtA e2%0a%3c # &Delta;srtA e3%0a%3c # &Delta;srtA e4%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfJan20/161021_agrA_seq_screening.jpg%0a\ No newline at end of file%0a
+host:1453841499=205.208.52.184
+author:1453833475=Danny
+diff:1453833475:1453833435:=1,3c1%0a%3c [[WeekofJan20]]%0a%3c %0a%3c %25width=70pct%25 Attach:WeekOfJan20/161021_agrA_seq_screening.jpg%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekofJan11/161021_agrA_seq_screening.jpg%0a\ No newline at end of file%0a
+host:1453833475=205.208.52.184
+author:1453833435=Danny
+diff:1453833435:1453833435:=1d0%0a%3c %25width=70pct%25 Attach:WeekofJan11/161021_agrA_seq_screening.jpg%0a\ No newline at end of file%0a
+host:1453833435=205.208.52.184

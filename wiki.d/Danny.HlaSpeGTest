@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1468867936
+host=205.208.52.184
+name=Danny.HlaSpeGTest
+rev=3
+targets=
+text=%25width=70pct%25 Attach:WeekOfJuly11/160712_colonies_from_asm_hla_speG.jpg%0a%0acolonies picked from sweat media agar%0a#1-3 wt%0a#4-6 agrA C123F%0a#7-10 epi%0a# repeat with speG primers
+time=1468868108
+author:1468868108=Danny
+diff:1468868108:1468868071:=1c1%0a%3c %25width=70pct%25 Attach:WeekOfJuly11/160712_colonies_from_asm_hla_speG.jpg%0a---%0a> %25width=70pct%25 Attach:/WeekOfJuly11/160712_colonies_from_asm_hla_speG.jpg%0a
+host:1468868108=205.208.52.184
+author:1468868071=Danny
+diff:1468868071:1468867936:=1,7c1%0a%3c %25width=70pct%25 Attach:/WeekOfJuly11/160712_colonies_from_asm_hla_speG.jpg%0a%3c %0a%3c colonies picked from sweat media agar%0a%3c #1-3 wt%0a%3c #4-6 agrA C123F%0a%3c #7-10 epi%0a%3c # repeat with speG primers%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:/weekofjuly18/160712_colonies_from_asm_hla_speG.jpg%0a\ No newline at end of file%0a
+host:1468868071=205.208.52.184
+author:1468867936=Danny
+diff:1468867936:1468867936:=1d0%0a%3c %25width=70pct%25 Attach:/weekofjuly18/160712_colonies_from_asm_hla_speG.jpg%0a\ No newline at end of file%0a
+host:1468867936=205.208.52.184

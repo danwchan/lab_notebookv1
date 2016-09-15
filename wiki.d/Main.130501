@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1368143767
+host=::1
+name=Main.130501
+rev=4
+targets=Protocol.OrganotypicCulture
+text=Plate counts from dilutions applied to [[Protocol/Organotypic culture]] for 6d time course:%0a%0a||border = 1%0a||!Target Dilution||!Count||Dilution||!CFU||!CFU/raft||%0a||10^7||12||1x10'^7^'||1.2x10'^8^'||3.6x10'^5^'||%0a||10^6||15||1x10'^6^'||1.5x10'^7^'||4.5x10'^4^'||%0a||10^5||12||1x10'^5^'||1.2x10'^6^'||3.6x10'^3^'||%0a||10^4||10||1x10'^4^'||1x10'^5^'||3x10'^2^'||
+time=1368143805
+author:1368143805=Danny
+diff:1368143805:1368143794:=6c6%0a%3c ||10^6||15||1x10'^6^'||1.5x10'^7^'||4.5x10'^4^'||%0a---%0a> ||10^6||15||1x10'^6^'||1.5x10'^7^'||4.5x10'^4^||%0a
+host:1368143805=::1
+author:1368143794=Danny
+diff:1368143794:1368143783:=5c5%0a%3c ||10^7||12||1x10'^7^'||1.2x10'^8^'||3.6x10'^5^'||%0a---%0a> ||10^7||12||1x10'^7^'||1.2x10;^8^'||3.6x10'^5^'||%0a
+host:1368143794=::1
+author:1368143783=Danny
+diff:1368143783:1368143767:=1,2c1,2%0a%3c Plate counts from dilutions applied to [[Protocol/Organotypic culture]] for 6d time course:%0a%3c %0a---%0a> Plate counts from dilutions applied to [[Protocol.Organotypic culture]] for 6d time course:%0a> %0a6c6%0a%3c ||10^6||15||1x10'^6^'||1.5x10'^7^'||4.5x10'^4^||%0a---%0a> ||10^6||15||1x10'^6^'||1.5x10'^7^'||4.5x10'^4^;||%0a
+host:1368143783=::1
+author:1368143767=Danny
+diff:1368143767:1368143767:=1,8d0%0a%3c Plate counts from dilutions applied to [[Protocol.Organotypic culture]] for 6d time course:%0a%3c %0a%3c ||border = 1%0a%3c ||!Target Dilution||!Count||Dilution||!CFU||!CFU/raft||%0a%3c ||10^7||12||1x10'^7^'||1.2x10;^8^'||3.6x10'^5^'||%0a%3c ||10^6||15||1x10'^6^'||1.5x10'^7^'||4.5x10'^4^;||%0a%3c ||10^5||12||1x10'^5^'||1.2x10'^6^'||3.6x10'^3^'||%0a%3c ||10^4||10||1x10'^4^'||1x10'^5^'||3x10'^2^'||%0a\ No newline at end of file%0a
+host:1368143767=::1

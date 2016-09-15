@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1472075007
+host=205.208.52.184
+name=Dnagels.PsmBDigest
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust22/160824_psmB_DC10B_REN.jpg
+time=1472075007
+author:1472075007=Danny
+diff:1472075007:1472075007:=1d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust22/160824_psmB_DC10B_REN.jpg%0a\ No newline at end of file%0a
+host:1472075007=205.208.52.184

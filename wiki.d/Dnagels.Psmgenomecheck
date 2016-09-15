@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471304188
+host=205.208.52.184
+name=Dnagels.Psmgenomecheck
+rev=4
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust15/160814_genomicprep_PSMcomp.jpg%0a%0atop gel PSMa primers%0a#ladder%0a#&Delta;3PSM + &alpha;-5%0a#&Delta;3PSM + &alpha;-6%0a#&Delta;3PSM + &alpha;-7%0a#&Delta;3PSM + &delta;-1%0a#&Delta;3PSM + pOS1-1%0a#&Delta;3PSM + pOS1-2%0a#&Delta;3PSM + pOS1-3%0a#pOS1 control (contaminated with genomic :S)%0a#ladder%0a#wt genomic%0a#&Delta;3PSM genomic%0a%0abottom gel, before ladder 2: PSMb primers, after ladder 2: seq2 primers%0a#&Delta;3PSM + &alpha;-5%0a#&Delta;3PSM + &alpha;-6%0a#&Delta;3PSM + &alpha;-7%0a#&Delta;3PSM + &delta;-1%0a#&Delta;3PSM + pOS1-1%0a#&Delta;3PSM + pOS1-2%0a#&Delta;3PSM + pOS1-3%0a#pOS1 control (contaminated with genomic :S)%0a#ladder%0a#wt genomic%0a#&Delta;3PSM genomic%0a#ladder, seq 2 follows%0a#&Delta;3PSM + &alpha;-5%0a#&Delta;3PSM + &alpha;-6%0a#&Delta;3PSM + &alpha;-7%0a#&Delta;3PSM + &delta;-1%0a#&Delta;3PSM + pOS1-1%0a#&Delta;3PSM + pOS1-2%0a#&Delta;3PSM + pOS1-3%0a#pOS1 control (contaminated with genomic :S)%0a#ladder%0a#wt genomic%0a#&Delta;3PSM genomic
+time=1471304824
+author:1471304824=Danny
+diff:1471304824:1471304367:=1,40c1%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust15/160814_genomicprep_PSMcomp.jpg%0a%3c %0a%3c top gel PSMa primers%0a%3c #ladder%0a%3c #&Delta;3PSM + &alpha;-5%0a%3c #&Delta;3PSM + &alpha;-6%0a%3c #&Delta;3PSM + &alpha;-7%0a%3c #&Delta;3PSM + &delta;-1%0a%3c #&Delta;3PSM + pOS1-1%0a%3c #&Delta;3PSM + pOS1-2%0a%3c #&Delta;3PSM + pOS1-3%0a%3c #pOS1 control (contaminated with genomic :S)%0a%3c #ladder%0a%3c #wt genomic%0a%3c #&Delta;3PSM genomic%0a%3c %0a%3c bottom gel, before ladder 2: PSMb primers, after ladder 2: seq2 primers%0a%3c #&Delta;3PSM + &alpha;-5%0a%3c #&Delta;3PSM + &alpha;-6%0a%3c #&Delta;3PSM + &alpha;-7%0a%3c #&Delta;3PSM + &delta;-1%0a%3c #&Delta;3PSM + pOS1-1%0a%3c #&Delta;3PSM + pOS1-2%0a%3c #&Delta;3PSM + pOS1-3%0a%3c #pOS1 control (contaminated with genomic :S)%0a%3c #ladder%0a%3c #wt genomic%0a%3c #&Delta;3PSM genomic%0a%3c #ladder, seq 2 follows%0a%3c #&Delta;3PSM + &alpha;-5%0a%3c #&Delta;3PSM + &alpha;-6%0a%3c #&Delta;3PSM + &alpha;-7%0a%3c #&Delta;3PSM + &delta;-1%0a%3c #&Delta;3PSM + pOS1-1%0a%3c #&Delta;3PSM + pOS1-2%0a%3c #&Delta;3PSM + pOS1-3%0a%3c #pOS1 control (contaminated with genomic :S)%0a%3c #ladder%0a%3c #wt genomic%0a%3c #&Delta;3PSM genomic%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:Danny/WeekOfAugust15/160814_genomicprep_PSMcomp.jpg%0a\ No newline at end of file%0a
+host:1471304824=205.208.52.184
+author:1471304367=Danny
+diff:1471304367:1471304279:=1c1%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust15/160814_genomicprep_PSMcomp.jpg%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfAugust15/160814_genomicprep_PSMcomp.jpg%0a\ No newline at end of file%0a
+host:1471304367=205.208.52.184
+author:1471304279=Danny
+diff:1471304279:1471304188:=
+host:1471304279=205.208.52.184
+author:1471304188=Danny
+diff:1471304188:1471304188:=1d0%0a%3c %25width=70pct%25 Attach:WeekOfAugust15/160814_genomicprep_PSMcomp.jpg%0a\ No newline at end of file%0a
+host:1471304188=205.208.52.184

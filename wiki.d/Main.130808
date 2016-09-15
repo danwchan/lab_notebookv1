@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+author=
+charset=UTF-8
+csum=
+ctime=1375986968
+host=::1
+name=Main.130808
+rev=1
+targets=Main.NHEK
+text=*Yesterday split 2 plates of [[NHEK]]. P3 they had 1.37 x 10^6 in 8 mL of media. Seeded 1/4 into 2 new plates and resuspended the rest into 4 mL and frozen%0a*J23T3 cells looking %3c50%25 confluent but healthy%0a*mounted IF stained slides
+time=1375986968
+author:1375986968=
+diff:1375986968:1375986968:=1,3d0%0a%3c *Yesterday split 2 plates of [[NHEK]]. P3 they had 1.37 x 10^6 in 8 mL of media. Seeded 1/4 into 2 new plates and resuspended the rest into 4 mL and frozen%0a%3c *J23T3 cells looking %3c50%25 confluent but healthy%0a%3c *mounted IF stained slides%0a\ No newline at end of file%0a
+host:1375986968=::1

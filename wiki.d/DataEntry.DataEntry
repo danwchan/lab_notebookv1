@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1458262041
+host=205.208.52.184
+name=DataEntry.DataEntry
+rev=4
+targets=DataEntry.Danny
+text=A group where you can dump your data files and links%0a%0a[[DataEntry/Danny]]
+time=1458262113
+author:1458262113=Danny
+diff:1458262113:1458262104:=3c3%0a%3c [[DataEntry/Danny]]%0a\ No newline at end of file%0a---%0a> [[DataEntry/Danny/]]%0a\ No newline at end of file%0a
+host:1458262113=205.208.52.184
+author:1458262104=Danny
+diff:1458262104:1458262052:=3c3%0a%3c [[DataEntry/Danny/]]%0a\ No newline at end of file%0a---%0a> [[Danny]]%0a\ No newline at end of file%0a
+host:1458262104=205.208.52.184
+author:1458262052=Danny
+diff:1458262052:1458262041:=1,3c1%0a%3c A group where you can dump your data files and links%0a%3c %0a%3c [[Danny]]%0a\ No newline at end of file%0a---%0a> A group where you can dump your data files and links%0a\ No newline at end of file%0a
+host:1458262052=205.208.52.184
+author:1458262041=Danny
+diff:1458262041:1458262041:=1d0%0a%3c A group where you can dump your data files and links%0a\ No newline at end of file%0a
+host:1458262041=205.208.52.184

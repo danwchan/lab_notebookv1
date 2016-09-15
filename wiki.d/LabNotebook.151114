@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1447601171
+host=165.68.124.11
+name=LabNotebook.151114
+rev=1
+targets=
+text=%25width=70pct%25 Attach:151114_lastmin_screen.jpg%0a%0atop gel%0a#icaA screening (samples 1-5, lac genomic, pIMAY empty)%0a#speG screening%0a#icaA_R screening + tn_bursa_out_F + R%0abottom gel%0a#atl screening (samples 37, 41, lac genomc, pIMAY+atl8_KO)%0a#atl screening with comp primers%0a#IM151/2 screening%0a#speG screening
+time=1447601171
+author:1447601171=Danny
+diff:1447601171:1447601171:=1,11d0%0a%3c %25width=70pct%25 Attach:151114_lastmin_screen.jpg%0a%3c %0a%3c top gel%0a%3c #icaA screening (samples 1-5, lac genomic, pIMAY empty)%0a%3c #speG screening%0a%3c #icaA_R screening + tn_bursa_out_F + R%0a%3c bottom gel%0a%3c #atl screening (samples 37, 41, lac genomc, pIMAY+atl8_KO)%0a%3c #atl screening with comp primers%0a%3c #IM151/2 screening%0a%3c #speG screening%0a\ No newline at end of file%0a
+host:1447601171=165.68.124.11

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1469802282
+host=205.208.52.184
+name=Danny.3psmCheck
+rev=2
+targets=
+text=%25width=70pct%25 Attach:WeekOfJuly25/160728_psm_check.jpg%0a%0atop lanes (phusion)%0a#PSMa, WT genomic%0a#PSMa, 3PSM genomic%0a#PSMb, WT genomic%0a#PSMb, 3PSM genomic%0a#PSMd, WT genomic%0a#PSMd, 3PSM genomic%0a#agrA, WT genomic%0a#agrA, 3PSM genomic%0abottom lanes (gotaq)%0a#PSMa, WT genomic%0a#PSMa, 3PSM genomic%0a#PSMb, WT genomic%0a#PSMb, 3PSM genomic%0a#PSMd, WT genomic%0a#PSMd, 3PSM genomic%0a#agrA, WT genomic%0a#agrA, 3PSM genomic%0a#speG, WT genomic%0a#speG, 3PSM genomic
+time=1469802490
+author:1469802490=Danny
+diff:1469802490:1469802282:=1,22c1%0a%3c %25width=70pct%25 Attach:WeekOfJuly25/160728_psm_check.jpg%0a%3c %0a%3c top lanes (phusion)%0a%3c #PSMa, WT genomic%0a%3c #PSMa, 3PSM genomic%0a%3c #PSMb, WT genomic%0a%3c #PSMb, 3PSM genomic%0a%3c #PSMd, WT genomic%0a%3c #PSMd, 3PSM genomic%0a%3c #agrA, WT genomic%0a%3c #agrA, 3PSM genomic%0a%3c bottom lanes (gotaq)%0a%3c #PSMa, WT genomic%0a%3c #PSMa, 3PSM genomic%0a%3c #PSMb, WT genomic%0a%3c #PSMb, 3PSM genomic%0a%3c #PSMd, WT genomic%0a%3c #PSMd, 3PSM genomic%0a%3c #agrA, WT genomic%0a%3c #agrA, 3PSM genomic%0a%3c #speG, WT genomic%0a%3c #speG, 3PSM genomic%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfJuly25/pic.jpg%0a\ No newline at end of file%0a
+host:1469802490=205.208.52.184
+author:1469802282=Danny
+diff:1469802282:1469802282:=1d0%0a%3c %25width=70pct%25 Attach:WeekOfJuly25/pic.jpg%0a\ No newline at end of file%0a
+host:1469802282=205.208.52.184

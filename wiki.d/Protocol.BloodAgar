@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1455762032
+host=205.208.52.184
+name=Protocol.BloodAgar
+rev=1
+targets=
+text=We have a lab duty to make TSB agar already so this is simply a matter of melting some TSA measuring out some molten TSA, waiting for cooling (~50&deg;C) and adding 5%25 defibrinated sheep blood
+time=1455762032
+author:1455762032=Danny
+diff:1455762032:1455762032:=1d0%0a%3c We have a lab duty to make TSB agar already so this is simply a matter of melting some TSA measuring out some molten TSA, waiting for cooling (~50&deg;C) and adding 5%25 defibrinated sheep blood%0a\ No newline at end of file%0a
+host:1455762032=205.208.52.184

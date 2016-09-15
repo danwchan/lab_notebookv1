@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471999195
+host=205.208.52.184
+name=Dnagels.PsmbCompcheck5
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust15/160822_psmb_check.jpg%0a%0aseq2 primers%0a#&Delta;3PSM + pOS1 PSM&beta;-1-2%0a#&Delta;3PSM + pOS1 PSM&beta;-2-2%0a#&Delta;3PSM + pOS1 PSM&beta;-3-2%0a#&Delta;3PSM + pOS1 PSM&beta;-4-2%0a#&Delta;3PSM + pOS1 PSM&beta;-5-2%0a#&Delta;3PSM + pOS1 PSM&beta;-6-2%0a#&Delta;3PSM + pOS1 PSM&beta;-7-2%0a#&Delta;3PSM + pOS1 PSM&beta;-8-2%0a#ladder%0a#pOS1 PSM&beta;%0a#pOS1 empty
+time=1471999195
+author:1471999195=Danny
+diff:1471999195:1471999195:=1,14d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust15/160822_psmb_check.jpg%0a%3c %0a%3c seq2 primers%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-1-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-2-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-3-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-4-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-5-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-6-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-7-2%0a%3c #&Delta;3PSM + pOS1 PSM&beta;-8-2%0a%3c #ladder%0a%3c #pOS1 PSM&beta;%0a%3c #pOS1 empty%0a\ No newline at end of file%0a
+host:1471999195=205.208.52.184

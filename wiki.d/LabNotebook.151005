@@ -1,0 +1,32 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+author=Danny
+charset=UTF-8
+csum=gel pics
+ctime=1444066951
+host=205.208.116.186
+name=LabNotebook.151005
+rev=5
+targets=
+text===Misc things%0a* talked to Phil about his project (subset of my own)%0a* Experiment.com EECV talk%0a%0a==atl and P2 cloning%0a* cut pcr stitches and back bone%0a** kpnI + sacI in cutsmart 50&micro;L%0a** ligate%0a{-* colony pcr of new colonies-}%0a* redo atl screen (to show DM)%0a** hla and screen1 @ 55&deg;C%0a** screen 2 @ 60&deg;C%0a** 1 min extension%0a%0a%25width=70pct%25 Attach:151005_neg_screen.jpg%0a%0a||border =1%0a|| ||! lac ||! newman ||! NM atl::erm 3x ||%0a|| hla || lane 1 || lane 2 || lane 3-4||%0a|| atl screen 1 || lane 7 || lane 5 || lane 8-9 ||%0a|| atl screen 2 || lane 11 || lane 12 || lane 13-14 ||%0a%0a* test cut for insert of mini-preps from yesterday%0a** sacI + ecoRI in cutsmart for all 25&micro;L%0a%0a%25width=70pct%25 Attach:151005_test_cut.jpg%0a%0alane number%0a# pimay+agrA 1%0a# pimay+agrA 3%0a# pos1+P2m 16%0a# pos1+P2s 3%0a# pos1+P2s 2%0a# pos1+P2s 1%0a# ladder%0a# atl KO stitch cut%0a# lip KO stitch cut%0a# speG KO stitch cut%0a# pimay cut%0a==icaA%0a* inoculate overnights of WT, &Delta;agrA and &Delta;icaA for tomorrow%0a%0a{-==lucifer yellow-}%0a{-* test the isopropanol extractions from D3 (72h + 24h later)-}%0a%0a==cell culture maintenance%0a* change media on rafts
+time=1444106584
+author:1444106584=Danny
+csum:1444106584=gel pics
+diff:1444106584:1444104929:=15,16d14%0a%3c %25width=70pct%25 Attach:151005_neg_screen.jpg%0a%3c %0a19,22c17,20%0a%3c || hla || lane 1 || lane 2 || lane 3-4||%0a%3c || atl screen 1 || lane 7 || lane 5 || lane 8-9 ||%0a%3c || atl screen 2 || lane 11 || lane 12 || lane 13-14 ||%0a%3c %0a---%0a> || hla ||%0a> || atl screen 1 ||%0a> || atl screen 2 ||%0a> %0a26,39d23%0a%3c %25width=70pct%25 Attach:151005_test_cut.jpg%0a%3c %0a%3c lane number%0a%3c # pimay+agrA 1%0a%3c # pimay+agrA 3%0a%3c # pos1+P2m 16%0a%3c # pos1+P2s 3%0a%3c # pos1+P2s 2%0a%3c # pos1+P2s 1%0a%3c # ladder%0a%3c # atl KO stitch cut%0a%3c # lip KO stitch cut%0a%3c # speG KO stitch cut%0a%3c # pimay cut%0a
+host:1444106584=205.208.116.186
+author:1444104929=Danny
+csum:1444104929=failed a little... tomorrow is another day!
+diff:1444104929:1444087183:=9c9%0a%3c {-* colony pcr of new colonies-}%0a---%0a> * colony pcr of new colonies%0a27,28c27,28%0a%3c {-==lucifer yellow-}%0a%3c {-* test the isopropanol extractions from D3 (72h + 24h later)-}%0a---%0a> ==lucifer yellow%0a> * test the isopropanol extractions from D3 (72h + 24h later)%0a
+host:1444104929=127.0.0.1
+author:1444087183=Danny
+csum:1444087183=crash! edits
+diff:1444087183:1444072298:=7,8c7%0a%3c ** kpnI + sacI in cutsmart 50&micro;L%0a%3c ** ligate%0a---%0a> * ligate%0a13,14c12%0a%3c ** 1 min extension%0a%3c %0a---%0a> %0a22,23c20%0a%3c ** sacI + ecoRI in cutsmart for all 25&micro;L%0a%3c %0a---%0a> %0a25c22%0a%3c * inoculate overnights of WT, &Delta;agrA and &Delta;icaA for tomorrow%0a---%0a> * inoculate overnights of WT, &delta;agrA and &delta;icaA for tomorrow%0a
+host:1444087183=127.0.0.1
+author:1444072298=Danny
+csum:1444072298=added some pcr stuff
+diff:1444072298:1444066951:=10,18d9%0a%3c ** hla and screen1 @ 55&deg;C%0a%3c ** screen 2 @ 60&deg;C%0a%3c %0a%3c ||border =1%0a%3c || ||! lac ||! newman ||! NM atl::erm 3x ||%0a%3c || hla ||%0a%3c || atl screen 1 ||%0a%3c || atl screen 2 ||%0a%3c %0a22,25c13%0a%3c * inoculate overnights of WT, &delta;agrA and &delta;icaA for tomorrow%0a%3c %0a%3c ==lucifer yellow%0a%3c * test the isopropanol extractions from D3 (72h + 24h later)%0a---%0a> * inoculate overnights of WT, agrA and icaA for tomorrow%0a
+host:1444072298=127.0.0.1
+author:1444066951=Danny
+csum:1444066951=short list... needs to be updated
+diff:1444066951:1444066951:=1,16d0%0a%3c ==Misc things%0a%3c * talked to Phil about his project (subset of my own)%0a%3c * Experiment.com EECV talk%0a%3c %0a%3c ==atl and P2 cloning%0a%3c * cut pcr stitches and back bone%0a%3c * ligate%0a%3c * colony pcr of new colonies%0a%3c * redo atl screen (to show DM)%0a%3c * test cut for insert of mini-preps from yesterday%0a%3c %0a%3c ==icaA%0a%3c * inoculate overnights of WT, agrA and icaA for tomorrow%0a%3c %0a%3c ==cell culture maintenance%0a%3c * change media on rafts%0a\ No newline at end of file%0a
+host:1444066951=127.0.0.1

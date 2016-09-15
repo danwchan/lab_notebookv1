@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448397683
+host=127.0.0.1
+name=LabNotebook.GelPurification1
+rev=4
+targets=LabNotebook.Week1
+text=[[LabNotebook/Week1]]%0a%0a%25width=70pct%25 Attach:LabNotebook.Week1/151124_gel_prep.jpg%0a%0atop gel%0a#sarAP2-agrA PCR%0a#sarAP2-agrA PCR%0a#sarAP2-agrA PCR%0a#minP2-agrA PCR%0a#minP2-agrA PCR%0a#minP2-agrA PCR%0aMolecular weight marker (using [[https://www.neb.com/products/n3200-2-log-dna-ladder-01-100-kb | NEB 2-log ladder]] now)%0a#uncut pOS1%0a#cut pOS1 ecoRI-HF%0a#cut pOS1 sacI%0a#cut pOS1 ecoRI%0a#cut pOS1 pstI%0a%0abottom gel%0awith srtA comp primers%0a#&Delta;srtA home%0a#wt%0awith icaA comp F and tnBursa_out_F primers%0a#&Delta;icaA home%0a#wt + &Delta;icaA #1%0awith agrA comp primers%0a#&Delta;agrA home%0a#wt%0aMWM%0awith atl_lf_F and atl_comp_R primers%0a#clone 37%0a#clone 41%0a#wt%0a#pIMAY #8 with atl_KO fragment%0a#&Delta;
+time=1448841440
+author:1448841440=Danny
+diff:1448841440:1448841349:=3c3%0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151124_gel_prep.jpg%0a---%0a> %25width=70pct%25 Attach:LabNotebook.Week1/151123_agrA_screen.jpg%0a
+host:1448841440=127.0.0.1
+author:1448841349=Danny
+diff:1448841349:1448398009:=3c3%0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151123_agrA_screen.jpg%0a---%0a> %25width=70pct%25 Attach:LabNotebook.Week1/xx.jpg%0a
+host:1448841349=127.0.0.1
+author:1448398009=Danny
+diff:1448398009:1448397683:=1,3c1,3%0a%3c [[LabNotebook/Week1]]%0a%3c %0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/xx.jpg%0a---%0a> [[LabNotebook/November2015]]%0a> %0a> %25width=70pct%25 Attach:LabNotebook.week1/xx.jpg%0a
+host:1448398009=127.0.0.1
+author:1448397683=Danny
+diff:1448397683:1448397683:=1,35d0%0a%3c [[LabNotebook/November2015]]%0a%3c %0a%3c %25width=70pct%25 Attach:LabNotebook.week1/xx.jpg%0a%3c %0a%3c top gel%0a%3c #sarAP2-agrA PCR%0a%3c #sarAP2-agrA PCR%0a%3c #sarAP2-agrA PCR%0a%3c #minP2-agrA PCR%0a%3c #minP2-agrA PCR%0a%3c #minP2-agrA PCR%0a%3c Molecular weight marker (using [[https://www.neb.com/products/n3200-2-log-dna-ladder-01-100-kb | NEB 2-log ladder]] now)%0a%3c #uncut pOS1%0a%3c #cut pOS1 ecoRI-HF%0a%3c #cut pOS1 sacI%0a%3c #cut pOS1 ecoRI%0a%3c #cut pOS1 pstI%0a%3c %0a%3c bottom gel%0a%3c with srtA comp primers%0a%3c #&Delta;srtA home%0a%3c #wt%0a%3c with icaA comp F and tnBursa_out_F primers%0a%3c #&Delta;icaA home%0a%3c #wt + &Delta;icaA #1%0a%3c with agrA comp primers%0a%3c #&Delta;agrA home%0a%3c #wt%0a%3c MWM%0a%3c with atl_lf_F and atl_comp_R primers%0a%3c #clone 37%0a%3c #clone 41%0a%3c #wt%0a%3c #pIMAY #8 with atl_KO fragment%0a%3c #&Delta;%0a\ No newline at end of file%0a
+host:1448397683=127.0.0.1

@@ -1,0 +1,16 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=becasue it's 23:26 on sat and I'm getting silly
+ctime=1443932786
+host=127.0.0.1
+name=LabNotebook.OG
+rev=1
+targets=
+text=[++Original Gangster++] : a plasmid that does not carry any insert (MCS intact)
+time=1443932786
+author:1443932786=Danny
+csum:1443932786=becasue it's 23:26 on sat and I'm getting silly
+diff:1443932786:1443932786:=1d0%0a%3c [++Original Gangster++] : a plasmid that does not carry any insert (MCS intact)%0a\ No newline at end of file%0a
+host:1443932786=127.0.0.1

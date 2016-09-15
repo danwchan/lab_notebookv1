@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1455215698
+host=205.208.52.184
+name=Danny.4seq
+rev=1
+targets=Danny.WeekofJan25
+text=[[WeekofJan25]]%0a%0a%25width=70pct%25 Attach:WeekofJan25/160125_agrA_4seq.jpg%0a%0a???%0a# WT NM%0a# &Delta;agrA NM%0a# isolate?%0a# phx?%0a# phx?%0a# WT LAC &Delta;agrA%0a# 22251
+time=1455215698
+author:1455215698=Danny
+diff:1455215698:1455215698:=1,12d0%0a%3c [[WeekofJan25]]%0a%3c %0a%3c %25width=70pct%25 Attach:WeekofJan25/160125_agrA_4seq.jpg%0a%3c %0a%3c ???%0a%3c # WT NM%0a%3c # &Delta;agrA NM%0a%3c # isolate?%0a%3c # phx?%0a%3c # phx?%0a%3c # WT LAC &Delta;agrA%0a%3c # 22251%0a\ No newline at end of file%0a
+host:1455215698=205.208.52.184

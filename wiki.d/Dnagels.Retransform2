@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1472594679
+host=205.208.52.184
+name=Dnagels.Retransform2
+rev=3
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust22/160825_psmB_DC10B_retransform2.jpg%0a%0aseq2 primers%0a#ladder%0a#DC10B pOS1 + PSM&beta; colony 1%0a#DC10B pOS1 + PSM&beta; colony 2%0a#DC10B pOS1 + PSM&beta; colony 3%0a#DC10B pOS1 + PSM&beta; colony 4%0a#DC10B pOS1 + PSM&beta; colony 5%0a#DC10B pOS1 + PSM&beta; colony 6%0a#DC10B pOS1 + PSM&beta; colony 7%0a#DC10B pOS1 + PSM&beta; colony 8%0a#ladder%0a#plasmid (DC10B pOS1 + PSM&beta; restreak 1-6)%0a#plasmid (DC10B pOS1 + PSM&beta; restreak 1-7)%0a#plasmid (DC10B pOS1 + PSM&beta; restreak 1-8)%0a#plasmid pOS1 + PSM&beta;%0a#plasmid pOS1 empty
+time=1472594971
+author:1472594971=Danny
+diff:1472594971:1472594724:=16,18c16%0a%3c #plasmid (DC10B pOS1 + PSM&beta; restreak 1-8)%0a%3c #plasmid pOS1 + PSM&beta;%0a%3c #plasmid pOS1 empty%0a\ No newline at end of file%0a---%0a> #plasmid (DC10B pOS1 + PSM&beta; restreak 1-8)%0a\ No newline at end of file%0a
+host:1472594971=205.208.52.184
+author:1472594724=Danny
+diff:1472594724:1472594679:=14,16c14,16%0a%3c #plasmid (DC10B pOS1 + PSM&beta; restreak 1-6)%0a%3c #plasmid (DC10B pOS1 + PSM&beta; restreak 1-7)%0a%3c #plasmid (DC10B pOS1 + PSM&beta; restreak 1-8)%0a\ No newline at end of file%0a---%0a> #DC10B pOS1 + PSM&beta; restreak 1-6%0a> #DC10B pOS1 + PSM&beta; restreak 1-7%0a> #DC10B pOS1 + PSM&beta; restreak 1-8%0a\ No newline at end of file%0a
+host:1472594724=205.208.52.184
+author:1472594679=Danny
+diff:1472594679:1472594679:=1,16d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust22/160825_psmB_DC10B_retransform2.jpg%0a%3c %0a%3c seq2 primers%0a%3c #ladder%0a%3c #DC10B pOS1 + PSM&beta; colony 1%0a%3c #DC10B pOS1 + PSM&beta; colony 2%0a%3c #DC10B pOS1 + PSM&beta; colony 3%0a%3c #DC10B pOS1 + PSM&beta; colony 4%0a%3c #DC10B pOS1 + PSM&beta; colony 5%0a%3c #DC10B pOS1 + PSM&beta; colony 6%0a%3c #DC10B pOS1 + PSM&beta; colony 7%0a%3c #DC10B pOS1 + PSM&beta; colony 8%0a%3c #ladder%0a%3c #DC10B pOS1 + PSM&beta; restreak 1-6%0a%3c #DC10B pOS1 + PSM&beta; restreak 1-7%0a%3c #DC10B pOS1 + PSM&beta; restreak 1-8%0a\ No newline at end of file%0a
+host:1472594679=205.208.52.184

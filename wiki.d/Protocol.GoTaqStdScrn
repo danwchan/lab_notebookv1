@@ -1,0 +1,22 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1443907882
+host=127.0.0.1
+name=Protocol.GoTaqStdScrn
+rev=3
+targets=
+text===GoTaq Polymerase PCR screen%0a%0afor routine PCR screening, such as colony PCR. Use a working reaction of 25&#181;L%0a%0a|| border = 1%0a||! reagent ||! concentration ||! amount ||%0a|| Green Buffer || 5x || 5&#181;L ||%0a|| dNTP || 25mM each || 0.25&#181;L ||%0a|| forward primer || 10mM || 0.25&#181;L ||%0a|| reverse primer || 10mM || 0.25&#181;L ||%0a|| GoTaq || 5U/&#181;L || 0.125&#181;L ||%0a|| DEPC treated H'_2_'O || NA || 18.375&#181;L ||%0a|| template || NA || 1&#181;L ||%0a%0a* 72&#176;C extension time%0a* 1 minute / kB%0a* ~35 cycles
+time=1443912519
+author:1443912519=Danny
+diff:1443912519:1443908000:=6c6%0a%3c ||! reagent ||! concentration ||! amount ||%0a---%0a> || ! reagent || ! concentration || ! amount ||%0a12c12%0a%3c || DEPC treated H'_2_'O || NA || 18.375&#181;L ||%0a---%0a> || DEPC treated H'_2_'O || NA || 18.375 ||%0a
+host:1443912519=127.0.0.1
+author:1443908000=Danny
+diff:1443908000:1443907882:=3,4c3,4%0a%3c for routine PCR screening, such as colony PCR. Use a working reaction of 25&#181;L%0a%3c %0a---%0a> for routine PCR screening, such as colony PCR%0a> %0a6,11c6,11%0a%3c || ! reagent || ! concentration || ! amount ||%0a%3c || Green Buffer || 5x || 5&#181;L ||%0a%3c || dNTP || 25mM each || 0.25&#181;L ||%0a%3c || forward primer || 10mM || 0.25&#181;L ||%0a%3c || reverse primer || 10mM || 0.25&#181;L ||%0a%3c || GoTaq || 5U/&#181;L || 0.125&#181;L ||%0a---%0a> || reagent || concentration || amount ||%0a> || Green Buffer || 5x || 5&#176;L ||%0a> || dNTP || 25mM each || 0.25&#176;L ||%0a> || forward primer || 10mM || 0.25&#176;L ||%0a> || reverse primer || 10mM || 0.25&#176;L ||%0a> || GoTaq || 5U/&#176;L || 0.125&#176;L ||%0a13,17c13%0a%3c || template || NA || 1&#181;L ||%0a%3c %0a%3c * 72&#176;C extension time%0a%3c * 1 minute / kB%0a%3c * ~35 cycles%0a\ No newline at end of file%0a---%0a> || template || NA || 1&#176;L ||%0a\ No newline at end of file%0a
+host:1443908000=127.0.0.1
+author:1443907882=Danny
+csum:1443907882=add the base protocol
+diff:1443907882:1443907882:=1,13d0%0a%3c ==GoTaq Polymerase PCR screen%0a%3c %0a%3c for routine PCR screening, such as colony PCR%0a%3c %0a%3c || border = 1%0a%3c || reagent || concentration || amount ||%0a%3c || Green Buffer || 5x || 5&#176;L ||%0a%3c || dNTP || 25mM each || 0.25&#176;L ||%0a%3c || forward primer || 10mM || 0.25&#176;L ||%0a%3c || reverse primer || 10mM || 0.25&#176;L ||%0a%3c || GoTaq || 5U/&#176;L || 0.125&#176;L ||%0a%3c || DEPC treated H'_2_'O || NA || 18.375 ||%0a%3c || template || NA || 1&#176;L ||%0a\ No newline at end of file%0a
+host:1443907882=127.0.0.1

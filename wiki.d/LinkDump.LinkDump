@@ -1,0 +1,19 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=more links for open science
+ctime=1441492468
+host=127.0.0.1
+name=LinkDump.LinkDump
+rev=2
+targets=
+text=Hello again. Perhaps you found something on the internet which you don't want to share via one of your personas (FB, twitter, linkedin, g+, etc.) or perhaps you think that the lab is a better (and more defined audience for your link) Welp please put your links here and perhaps a small description too!%0a%0a==September 2015%0a%0a# This is via [[https://twitter.com/NeBanovich | @NeBanovich]] on twitter. I am always thinking about science as a whole and this one is a pretty good [[http://fivethirtyeight.com/features/science-isnt-broken/ | interactive demo]] of p-hacking%0a# Some issues which about our future jobs which I think about a lot. This [[http://www.slideshare.net/geraldcarter1/academia-51559796 | one]] comes via [[https://twitter.com/brembs | @brembs]] whom I was linked to via an [[https://twitter.com/bwcasterline/status/611606096273383425 | exchange]] between Ben and myself (Danny)%0a# A new journal which aims to publish every thing generated during the process of research: [[http://riojournal.com/about | Research Ideas and Outcomes]]%0a%0a==October 2015%0a%0a# This is again via @brembs a [[https://docs.google.com/document/d/1x2RpivCbqZh53XoTvQM6iiFs6R9qip5RLUoeB1Cwt_0/edit?usp=sharing|living document]] about open science tools!%0a# And in case that's not interesting enough to click: here's my [[http://connectedresearchers.com/online-tools-for-researchers/|favourite list]] of links from there.
+time=1443905543
+author:1443905543=Danny
+csum:1443905543=more links for open science
+diff:1443905543:1441492468:=7,12c7%0a%3c # A new journal which aims to publish every thing generated during the process of research: [[http://riojournal.com/about | Research Ideas and Outcomes]]%0a%3c %0a%3c ==October 2015%0a%3c %0a%3c # This is again via @brembs a [[https://docs.google.com/document/d/1x2RpivCbqZh53XoTvQM6iiFs6R9qip5RLUoeB1Cwt_0/edit?usp=sharing|living document]] about open science tools!%0a%3c # And in case that's not interesting enough to click: here's my [[http://connectedresearchers.com/online-tools-for-researchers/|favourite list]] of links from there.%0a\ No newline at end of file%0a---%0a> # A new journal which aims to publish every thing generated during the process of research: [[http://riojournal.com/about | Research Ideas and Outcomes]]%0a\ No newline at end of file%0a
+host:1443905543=127.0.0.1
+author:1441492468=Danny
+diff:1441492468:1441492468:=1,7d0%0a%3c Hello again. Perhaps you found something on the internet which you don't want to share via one of your personas (FB, twitter, linkedin, g+, etc.) or perhaps you think that the lab is a better (and more defined audience for your link) Welp please put your links here and perhaps a small description too!%0a%3c %0a%3c ==September 2015%0a%3c %0a%3c # This is via [[https://twitter.com/NeBanovich | @NeBanovich]] on twitter. I am always thinking about science as a whole and this one is a pretty good [[http://fivethirtyeight.com/features/science-isnt-broken/ | interactive demo]] of p-hacking%0a%3c # Some issues which about our future jobs which I think about a lot. This [[http://www.slideshare.net/geraldcarter1/academia-51559796 | one]] comes via [[https://twitter.com/brembs | @brembs]] whom I was linked to via an [[https://twitter.com/bwcasterline/status/611606096273383425 | exchange]] between Ben and myself (Danny)%0a%3c # A new journal which aims to publish every thing generated during the process of research: [[http://riojournal.com/about | Research Ideas and Outcomes]]%0a\ No newline at end of file%0a
+host:1441492468=127.0.0.1

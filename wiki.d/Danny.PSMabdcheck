@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1470870675
+host=205.208.52.184
+name=Danny.PSMabdcheck
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfAugust8/160810_PSMabd_check.jpg%0a%0atop gel: speG, did the microwave work?%0a#ladder%0a#PSM&alpha;-1%0a#PSM&alpha;-2%0a#PSM&alpha;-3%0a#PSM&alpha;-4%0a#PSM&alpha;-5%0a#PSM&alpha;-6%0a#PSM&alpha;-7%0a#PSM&delta;-1%0a#ladder%0a#pOS1%0a#WT genomic%0a%0abottom gel: seq2, where is the insert?%0a#PSM&alpha;-1%0a#PSM&alpha;-2%0a#PSM&alpha;-3%0a#PSM&alpha;-4%0a#PSM&alpha;-5%0a#PSM&alpha;-6%0a#PSM&alpha;-7%0a#PSM&delta;-1%0a#laddder%0a#pOS1%0a#WT genomic%0a#ladder%0a#PSM&beta;-1%0a#PSM&beta;-2%0a#PSM&beta;-3%0a#PSM&beta;-4%0a#PSM&beta;-5%0a#PSM&beta;-6%0a#pOS1%0a#WT genomic
+time=1470870675
+author:1470870675=Danny
+diff:1470870675:1470870675:=1,37d0%0a%3c %25width=70pct%25 Attach:WeekOfAugust8/160810_PSMabd_check.jpg%0a%3c %0a%3c top gel: speG, did the microwave work?%0a%3c #ladder%0a%3c #PSM&alpha;-1%0a%3c #PSM&alpha;-2%0a%3c #PSM&alpha;-3%0a%3c #PSM&alpha;-4%0a%3c #PSM&alpha;-5%0a%3c #PSM&alpha;-6%0a%3c #PSM&alpha;-7%0a%3c #PSM&delta;-1%0a%3c #ladder%0a%3c #pOS1%0a%3c #WT genomic%0a%3c %0a%3c bottom gel: seq2, where is the insert?%0a%3c #PSM&alpha;-1%0a%3c #PSM&alpha;-2%0a%3c #PSM&alpha;-3%0a%3c #PSM&alpha;-4%0a%3c #PSM&alpha;-5%0a%3c #PSM&alpha;-6%0a%3c #PSM&alpha;-7%0a%3c #PSM&delta;-1%0a%3c #laddder%0a%3c #pOS1%0a%3c #WT genomic%0a%3c #ladder%0a%3c #PSM&beta;-1%0a%3c #PSM&beta;-2%0a%3c #PSM&beta;-3%0a%3c #PSM&beta;-4%0a%3c #PSM&beta;-5%0a%3c #PSM&beta;-6%0a%3c #pOS1%0a%3c #WT genomic%0a\ No newline at end of file%0a
+host:1470870675=205.208.52.184

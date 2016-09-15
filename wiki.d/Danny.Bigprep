@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1470282635
+host=205.208.52.184
+name=Danny.Bigprep
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfAugust1/160803_psmGApreptif.jpg%0a%0atop gel%0a#1 kb ladder%0a#3x PSMa fragment GA%0a#1 kb ladder%0a#3x PSMd fragment GA%0a#uncut pOS1%0a#3x smaI cut pOS1%0abottom gel (gradient for PSMb)%0a#1 kb ladder%0a#54%0a#54.8%0a#56.3%0a#58.6%0a#61.3%0a#63.6%0a#65.1%0a#66%0a#1 kb ladder
+time=1470282635
+author:1470282635=Danny
+diff:1470282635:1470282635:=1,20d0%0a%3c %25width=70pct%25 Attach:WeekOfAugust1/160803_psmGApreptif.jpg%0a%3c %0a%3c top gel%0a%3c #1 kb ladder%0a%3c #3x PSMa fragment GA%0a%3c #1 kb ladder%0a%3c #3x PSMd fragment GA%0a%3c #uncut pOS1%0a%3c #3x smaI cut pOS1%0a%3c bottom gel (gradient for PSMb)%0a%3c #1 kb ladder%0a%3c #54%0a%3c #54.8%0a%3c #56.3%0a%3c #58.6%0a%3c #61.3%0a%3c #63.6%0a%3c #65.1%0a%3c #66%0a%3c #1 kb ladder%0a\ No newline at end of file%0a
+host:1470282635=205.208.52.184

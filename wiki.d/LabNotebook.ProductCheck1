@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448525377
+host=127.0.0.1
+name=LabNotebook.ProductCheck1
+rev=1
+targets=LabNotebook.Week1
+text=[[LabNotebook/Week1]]%0a%0a%25width=70pct%25 Attach:LabNotebook.Week1/151125_product_check.jpg%0a%0a#pos1 uncut%0a#pos1 cut%0a#pos1 cut%0a#pos1 cut (upper areas)%0a#minP2 cut%0a#sP2 cut%0amolecular weight marker%0a#37 with atl comp primers%0a#41 with atl comp primers%0a#agr home 1 with comp primers%0a#icaA #1 with comp primers%0a#srtA home with comp primers
+time=1448525377
+author:1448525377=Danny
+diff:1448525377:1448525377:=1,16d0%0a%3c [[LabNotebook/Week1]]%0a%3c %0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151125_product_check.jpg%0a%3c %0a%3c #pos1 uncut%0a%3c #pos1 cut%0a%3c #pos1 cut%0a%3c #pos1 cut (upper areas)%0a%3c #minP2 cut%0a%3c #sP2 cut%0a%3c molecular weight marker%0a%3c #37 with atl comp primers%0a%3c #41 with atl comp primers%0a%3c #agr home 1 with comp primers%0a%3c #icaA #1 with comp primers%0a%3c #srtA home with comp primers%0a\ No newline at end of file%0a
+host:1448525377=127.0.0.1

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471400693
+host=10.152.120.187
+name=Dnagels.PsmbcompCheck2
+rev=2
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust15/160816_psmbd_colony2.jpg%0a%0afirst set speG%0a#PSMb-1%0a#PSMb-2%0a#PSMb-3%0a#PSMb-4%0a#PSMd-1%0a#PSMd-2%0a#PSMd-3%0a#ladder 1kb%0a#&Delta;3PSM genomic%0a#pOS1 + d control%0a#pOS1 + b control%0asecond set seq2%0a#ladder 1kb%0a#PSMb-1%0a#PSMb-2%0a#PSMb-3%0a#PSMb-4%0a#PSMd-1%0a#PSMd-2%0a#PSMd-3%0a#ladder 1kb%0a#&Delta;3PSM genomic%0a#pOS1 + b control%0a#pOS1 + d control
+time=1471400710
+author:1471400710=Danny
+diff:1471400710:1471400693:=1c1%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust15/160816_psmbd_colony2.jpg%0a---%0a> %25width=70pct%25 Attach:Danny/WeekOfAugust15/%0a
+host:1471400710=10.152.120.187
+author:1471400693=Danny
+diff:1471400693:1471400693:=1,27d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust15/%0a%3c %0a%3c first set speG%0a%3c #PSMb-1%0a%3c #PSMb-2%0a%3c #PSMb-3%0a%3c #PSMb-4%0a%3c #PSMd-1%0a%3c #PSMd-2%0a%3c #PSMd-3%0a%3c #ladder 1kb%0a%3c #&Delta;3PSM genomic%0a%3c #pOS1 + d control%0a%3c #pOS1 + b control%0a%3c second set seq2%0a%3c #ladder 1kb%0a%3c #PSMb-1%0a%3c #PSMb-2%0a%3c #PSMb-3%0a%3c #PSMb-4%0a%3c #PSMd-1%0a%3c #PSMd-2%0a%3c #PSMd-3%0a%3c #ladder 1kb%0a%3c #&Delta;3PSM genomic%0a%3c #pOS1 + b control%0a%3c #pOS1 + d control%0a\ No newline at end of file%0a
+host:1471400693=10.152.120.187

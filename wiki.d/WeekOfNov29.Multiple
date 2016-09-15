@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1449158562
+host=165.68.124.11
+name=WeekOfNov29.Multiple
+rev=4
+targets=
+text=%25width=70pct%25 Attach:WeekOfNov29/151203_3screen.jpg%0a%0a1layer: first use agrA screening primers%0a#phx-1%0a#phx-2%0a#home-1%0a#home-2%0a#home-3%0a#home tube%0a#JBW%0a#wt%0amarker\\%0arepeat sequence omitting home 1,2,3 and using agrA_screen_F martin_out_F\\%0athen with martin_out_R%0a%0a2layer: ica cloning into pos1 screen with ica_screen_R and pos1_seq2_F%0a#background colony%0a#1-3 1:1%0a#1-8 1:2%0a#1-7 1:3%0a3layer%0a#pos1 cut%0a#s cut%0a#m cut%0a#m uncut%0a#s uncut%0a#s uncut comp%0a#m uncut comp%0a#m sac cut%0a#s sac cut
+time=1449176336
+author:1449176336=Danny
+diff:1449176336:1449159215:=3c3%0a%3c 1layer: first use agrA screening primers%0a---%0a> 1layer%0a12,20c12,13%0a%3c marker\\%0a%3c repeat sequence omitting home 1,2,3 and using agrA_screen_F martin_out_F\\%0a%3c then with martin_out_R%0a%3c %0a%3c 2layer: ica cloning into pos1 screen with ica_screen_R and pos1_seq2_F%0a%3c #background colony%0a%3c #1-3 1:1%0a%3c #1-8 1:2%0a%3c #1-7 1:3%0a---%0a> 2layer%0a> #%0a
+host:1449176336=165.68.124.11
+author:1449159215=Danny
+diff:1449159215:1449158574:=1,23c1%0a%3c %25width=70pct%25 Attach:WeekOfNov29/151203_3screen.jpg%0a%3c %0a%3c 1layer%0a%3c #phx-1%0a%3c #phx-2%0a%3c #home-1%0a%3c #home-2%0a%3c #home-3%0a%3c #home tube%0a%3c #JBW%0a%3c #wt%0a%3c 2layer%0a%3c #%0a%3c 3layer%0a%3c #pos1 cut%0a%3c #s cut%0a%3c #m cut%0a%3c #m uncut%0a%3c #s uncut%0a%3c #s uncut comp%0a%3c #m uncut comp%0a%3c #m sac cut%0a%3c #s sac cut%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfNov29/151203_3screen.jpg%0a\ No newline at end of file%0a
+host:1449159215=127.0.0.1
+author:1449158574=Danny
+diff:1449158574:1449158562:=1c1%0a%3c %25width=70pct%25 Attach:WeekOfNov29/151203_3screen.jpg%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfNov29/150203_3screen.jpg%0a\ No newline at end of file%0a
+host:1449158574=127.0.0.1
+author:1449158562=Danny
+diff:1449158562:1449158562:=1d0%0a%3c %25width=70pct%25 Attach:WeekOfNov29/150203_3screen.jpg%0a\ No newline at end of file%0a
+host:1449158562=127.0.0.1

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1465174574
+host=205.208.52.184
+name=Danny.WeekOfJune6
+rev=3
+targets=
+text=!!Lucifer yellow test%0a* choose three good rafts per group, ideally that have the mysterious growth on the bottom of the dish%0a** group 1: untreated for sectioning (fixed then frozen)%0a** group 2: untreated for SEM%0a** group 3: acetone treated for SEM%0a** group 4: lucifer yellow treated (fixed then frozen)%0a** group 5: acetone + lucifer yellow treated (fixed then frozen)%0a** group 6: SDS + lucfier yellow treated (fixed then frozen)%0a%0a!!Growth%0a* the others thrown out the only one that remains is the mystery%0a** on both NA and TSB small round pink colonies%0a** I think this is like the last time there was some sort of contamination%0a** one week later: there are the same colonies on aerobic blood agar%0a%0a!!Infection?%0a* no quick overgrowth of the dilution series.. will keep until the 9th.
+time=1466455197
+author:1466455197=Danny
+diff:1466455197:1465261065:=14d13%0a%3c ** one week later: there are the same colonies on aerobic blood agar%0a
+host:1466455197=205.208.52.184
+author:1465261065=Danny
+diff:1465261065:1465174574:=8,16c8%0a%3c ** group 6: SDS + lucfier yellow treated (fixed then frozen)%0a%3c %0a%3c !!Growth%0a%3c * the others thrown out the only one that remains is the mystery%0a%3c ** on both NA and TSB small round pink colonies%0a%3c ** I think this is like the last time there was some sort of contamination%0a%3c %0a%3c !!Infection?%0a%3c * no quick overgrowth of the dilution series.. will keep until the 9th.%0a\ No newline at end of file%0a---%0a> ** group 6: SDS + lucfier yellow treated (fixed then frozen)%0a\ No newline at end of file%0a
+host:1465261065=205.208.52.184
+author:1465174574=Danny
+diff:1465174574:1465174574:=1,8d0%0a%3c !!Lucifer yellow test%0a%3c * choose three good rafts per group, ideally that have the mysterious growth on the bottom of the dish%0a%3c ** group 1: untreated for sectioning (fixed then frozen)%0a%3c ** group 2: untreated for SEM%0a%3c ** group 3: acetone treated for SEM%0a%3c ** group 4: lucifer yellow treated (fixed then frozen)%0a%3c ** group 5: acetone + lucifer yellow treated (fixed then frozen)%0a%3c ** group 6: SDS + lucfier yellow treated (fixed then frozen)%0a\ No newline at end of file%0a
+host:1465174574=205.208.52.184

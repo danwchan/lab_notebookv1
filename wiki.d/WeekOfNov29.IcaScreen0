@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1449539761
+host=10.150.131.133
+name=WeekOfNov29.IcaScreen0
+rev=3
+targets=
+text=%25width=70pct%25 Attach:WeekOfNov29/151203_ica_cloning_screen.jpg%0a%0atoplayer: pos1_seq2_F+R%0a# negative%0a# samples%0abottomlayer: pos_seq2_F + ica_screen_R%0a# negative%0a# samples
+time=1449539861
+author:1449539861=Danny
+diff:1449539861:1449539832:=4d3%0a%3c # negative%0a6,8c5%0a%3c bottomlayer: pos_seq2_F + ica_screen_R%0a%3c # negative%0a%3c # samples%0a\ No newline at end of file%0a---%0a> bottomlayer: pos_seq2_F + ica_screen_R%0a\ No newline at end of file%0a
+host:1449539861=10.150.131.133
+author:1449539832=Danny
+diff:1449539832:1449539761:=1c1%0a%3c %25width=70pct%25 Attach:WeekOfNov29/151203_ica_cloning_screen.jpg%0a---%0a> %25width=70pct%25 Attach:WeekOfNov29/151205_ica_gelpurRENscreen.jpg%0a
+host:1449539832=10.150.131.133
+author:1449539761=Danny
+diff:1449539761:1449539761:=1,5d0%0a%3c %25width=70pct%25 Attach:WeekOfNov29/151205_ica_gelpurRENscreen.jpg%0a%3c %0a%3c toplayer: pos1_seq2_F+R%0a%3c # samples%0a%3c bottomlayer: pos_seq2_F + ica_screen_R%0a\ No newline at end of file%0a
+host:1449539761=10.150.131.133

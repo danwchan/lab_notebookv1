@@ -1,0 +1,27 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448322857
+host=127.0.0.1
+name=LabNotebook.AgrAScreen1
+rev=5
+targets=LabNotebook.Week1
+text=[[LabNotebook/Week1]]%0a%0a%25width=70pct%25 Attach:LabNotebook.Week1/151123_agrA_screen.jpg%0a%0aspeG screening%0a#agrA phx 1%0a#agrA phx 2%0a#agrA phx 3%0a#agrA home 1%0a#agrA home 2%0a#agrA home 3%0a#agrA 130-B4 1%0a#agrA 130-B4 2%0a#agrA 130-B4 3%0a#agrA JBW (tube)%0a#agrA home (tube)%0a#agrA 130-B4 (tube)%0a#agrA phx (tube)%0a#LAC wt%0a%0a'''repeat sequence with break in gel between "agrA 130-B4 3" and "agrA JBW (tube)"'''\\%0ahla screening\\%0aagrA screening
+time=1448323555
+author:1448323555=Danny
+diff:1448323555:1448323538:=21,22c21,22%0a%3c '''repeat sequence with break in gel between "agrA 130-B4 3" and "agrA JBW (tube)"'''\\%0a%3c hla screening\\%0a---%0a> '''repeat sequence with break in gel between "agrA 130-B4 3" and "agrA JBW (tube)"'''%0a> hla screening%0a
+host:1448323555=127.0.0.1
+author:1448323538=Danny
+diff:1448323538:1448323521:=21c21%0a%3c '''repeat sequence with break in gel between "agrA 130-B4 3" and "agrA JBW (tube)"'''%0a---%0a> '''repeat sequence with break in gel between "agrA 130-B4 3" and "agrA JBW (tube)"%0a
+host:1448323538=127.0.0.1
+author:1448323521=Danny
+diff:1448323521:1448322898:=1,23c1%0a%3c [[LabNotebook/Week1]]%0a%3c %0a%3c %25width=70pct%25 Attach:LabNotebook.Week1/151123_agrA_screen.jpg%0a%3c %0a%3c speG screening%0a%3c #agrA phx 1%0a%3c #agrA phx 2%0a%3c #agrA phx 3%0a%3c #agrA home 1%0a%3c #agrA home 2%0a%3c #agrA home 3%0a%3c #agrA 130-B4 1%0a%3c #agrA 130-B4 2%0a%3c #agrA 130-B4 3%0a%3c #agrA JBW (tube)%0a%3c #agrA home (tube)%0a%3c #agrA 130-B4 (tube)%0a%3c #agrA phx (tube)%0a%3c #LAC wt%0a%3c %0a%3c '''repeat sequence with break in gel between "agrA 130-B4 3" and "agrA JBW (tube)"%0a%3c hla screening%0a%3c agrA screening%0a\ No newline at end of file%0a---%0a> [[LabNotebook.Week1]]%0a\ No newline at end of file%0a
+host:1448323521=127.0.0.1
+author:1448322898=Danny
+diff:1448322898:1448322857:=1c1%0a%3c [[LabNotebook.Week1]]%0a\ No newline at end of file%0a---%0a> [[LabNotebook/Week1]]%0a\ No newline at end of file%0a
+host:1448322898=127.0.0.1
+author:1448322857=Danny
+diff:1448322857:1448322857:=1d0%0a%3c [[LabNotebook/Week1]]%0a\ No newline at end of file%0a
+host:1448322857=127.0.0.1

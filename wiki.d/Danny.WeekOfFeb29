@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1456865767
+host=10.150.140.76
+name=Danny.WeekOfFeb29
+rev=1
+targets=
+text=!!Confirm the C123F mutation%0a* PCR the agrA gene out and sequence%0a** isolates 1-51, 1-64, 1-77, wt, 22251%0a%0a!!Testing atl mutant titration%0a* to address the issue of fewer colonies%0a** up the inoculation OD%0a** do an early time point SEM prep (12h?)%0a%0a!!making cDNA%0a*
+time=1456865767
+author:1456865767=Danny
+diff:1456865767:1456865767:=1,11d0%0a%3c !!Confirm the C123F mutation%0a%3c * PCR the agrA gene out and sequence%0a%3c ** isolates 1-51, 1-64, 1-77, wt, 22251%0a%3c %0a%3c !!Testing atl mutant titration%0a%3c * to address the issue of fewer colonies%0a%3c ** up the inoculation OD%0a%3c ** do an early time point SEM prep (12h?)%0a%3c %0a%3c !!making cDNA%0a%3c *%0a\ No newline at end of file%0a
+host:1456865767=10.150.140.76

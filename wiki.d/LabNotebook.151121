@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448290241
+host=127.0.0.1
+name=LabNotebook.151121
+rev=1
+targets=
+text=!!Wrapping up and reorganizing%0a* D3 wt, atl and agrA%0a* organize slides (DONE! after several years) system can be improved%0a* inoculate for PCR checks%0a%0a!!Still need to do%0a* Organize -80&deg;C
+time=1448290241
+author:1448290241=Danny
+diff:1448290241:1448290241:=1,7d0%0a%3c !!Wrapping up and reorganizing%0a%3c * D3 wt, atl and agrA%0a%3c * organize slides (DONE! after several years) system can be improved%0a%3c * inoculate for PCR checks%0a%3c %0a%3c !!Still need to do%0a%3c * Organize -80&deg;C%0a\ No newline at end of file%0a
+host:1448290241=127.0.0.1

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:43.0) Gecko/20100101 Firefox/43.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1453336000
+host=205.208.52.184
+name=Danny.Hla
+rev=3
+targets=Danny.WeekofJan11
+text=[[WeekofJan11]]%0a%0a%25width=70pct%25 Attach:WeekofJan11/160116_agrA_comp.jpg%0a%0a#wt%0a#agrA mutant%0a#agr 8%0a#agr 12%0a#ladder%0a# &Delta;agrA sarP2 comp 1%0a# &Delta;agrA sarP2 comp 2%0a# &Delta;agrA sarP2 comp 3%0a# &Delta;agrA sarP2 comp 4%0a# &Delta;agrA minP2 comp 1%0a# &Delta;agrA minP2 comp 2%0a# &Delta;agrA minP2 comp 3%0a# &Delta;agrA minP2 comp 4%0a'''sarP2 comp is the wrong construct'''
+time=1453341629
+author:1453341629=Danny
+diff:1453341629:1453341594:=17,18c17%0a%3c # &Delta;agrA minP2 comp 4%0a%3c '''sarP2 comp is the wrong construct'''%0a\ No newline at end of file%0a---%0a> # &Delta;agrA minP2 comp 4%0a\ No newline at end of file%0a
+host:1453341629=205.208.52.184
+author:1453341594=Danny
+diff:1453341594:1453336000:=10,13d9%0a%3c # &Delta;agrA sarP2 comp 1%0a%3c # &Delta;agrA sarP2 comp 2%0a%3c # &Delta;agrA sarP2 comp 3%0a%3c # &Delta;agrA sarP2 comp 4%0a17c13,17%0a%3c # &Delta;agrA minP2 comp 4%0a\ No newline at end of file%0a---%0a> # &Delta;agrA minP2 comp 4%0a> # &Delta;agrA sarP2 comp 1%0a> # &Delta;agrA sarP2 comp 2%0a> # &Delta;agrA sarP2 comp 3%0a> # &Delta;agrA sarP2 comp 4%0a\ No newline at end of file%0a
+host:1453341594=205.208.52.184
+author:1453336000=Danny
+diff:1453336000:1453336000:=1,17d0%0a%3c [[WeekofJan11]]%0a%3c %0a%3c %25width=70pct%25 Attach:WeekofJan11/160116_agrA_comp.jpg%0a%3c %0a%3c #wt%0a%3c #agrA mutant%0a%3c #agr 8%0a%3c #agr 12%0a%3c #ladder%0a%3c # &Delta;agrA minP2 comp 1%0a%3c # &Delta;agrA minP2 comp 2%0a%3c # &Delta;agrA minP2 comp 3%0a%3c # &Delta;agrA minP2 comp 4%0a%3c # &Delta;agrA sarP2 comp 1%0a%3c # &Delta;agrA sarP2 comp 2%0a%3c # &Delta;agrA sarP2 comp 3%0a%3c # &Delta;agrA sarP2 comp 4%0a\ No newline at end of file%0a
+host:1453336000=10.150.133.138

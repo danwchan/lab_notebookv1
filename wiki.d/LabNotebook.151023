@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1445575718
+host=127.0.0.1
+name=LabNotebook.151023
+rev=1
+targets=
+text===CBC retreat!%0a* tweet it!%0a%0a==make new plugs%0a%0a==atl KO
+time=1445575718
+author:1445575718=Danny
+diff:1445575718:1445575718:=1,6d0%0a%3c ==CBC retreat!%0a%3c * tweet it!%0a%3c %0a%3c ==make new plugs%0a%3c %0a%3c ==atl KO%0a\ No newline at end of file%0a
+host:1445575718=127.0.0.1

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1460776638
+host=10.150.128.248
+name=Protocol.Dropoutmix
+rev=1
+targets=
+text=based on [[https://www.usbio.net/media/D9516 | Drop-out mix complete]] (54.7g of compounds) with additions as per [[http://dx.doi.org/10.1111%252F1462-2920.12873 | Kwan et al.]] dissolved into 109.5mL brings the total concentration to 0.5g/mL which is 1000x stock to target 0.5mg/mL%0a%0a!!!M9 ''S.aureus'' (SA) supplement%0a%0a||border=1%0a||! final concentration (mg/mL) ||! stock concentration (g/L) ||! amount (g) ||! compound ||%0a|| nitrogenous bases ||||||||%0a|| || || 0.5 || Adenine ||%0a|| || || 2 || Uracil ||%0a|| vitamins ||||||||%0a|| 0.0002 || 0.2 || 0.0219 || thiamine ||%0a|| 0.0002 || 0.2 || 0.0219 || nicotinic acid ||%0a|| || || 0.2 || p-Aminobenzoic acid ||%0a|| || || 2 || Inositol ||%0a|| amino acids ||||||||%0a|| || || 2 || Alanine ||%0a|| || || 2 || Arginine ||%0a|| || || 2 || Asparagine ||%0a|| || || 2 || Aspartic acid ||%0a|| || || 2 || Cysteine ||%0a|| || || 2 || Glutamic acid ||%0a|| || || 2 || Glutamine ||%0a|| || || 2 || Glycine ||%0a|| || || 2 || Histidine ||%0a|| || || 2 || Isoleucine ||%0a|| || || 10 || Leucine ||%0a|| || || 2 || Lysine ||%0a|| || || 2 || Methionine ||%0a|| || || 2 || Phenylalanine ||%0a|| || || 2 || Proline ||%0a|| || || 2 || Serine ||%0a|| || || 2 || Threonine ||%0a|| || || 2 || Tryptophan ||%0a|| || || 2 || Tyrosine ||%0a|| || || 2 || Valine ||
+time=1460776638
+author:1460776638=Danny
+diff:1460776638:1460776638:=1,35d0%0a%3c based on [[https://www.usbio.net/media/D9516 | Drop-out mix complete]] (54.7g of compounds) with additions as per [[http://dx.doi.org/10.1111%252F1462-2920.12873 | Kwan et al.]] dissolved into 109.5mL brings the total concentration to 0.5g/mL which is 1000x stock to target 0.5mg/mL%0a%3c %0a%3c !!!M9 ''S.aureus'' (SA) supplement%0a%3c %0a%3c ||border=1%0a%3c ||! final concentration (mg/mL) ||! stock concentration (g/L) ||! amount (g) ||! compound ||%0a%3c || nitrogenous bases ||||||||%0a%3c || || || 0.5 || Adenine ||%0a%3c || || || 2 || Uracil ||%0a%3c || vitamins ||||||||%0a%3c || 0.0002 || 0.2 || 0.0219 || thiamine ||%0a%3c || 0.0002 || 0.2 || 0.0219 || nicotinic acid ||%0a%3c || || || 0.2 || p-Aminobenzoic acid ||%0a%3c || || || 2 || Inositol ||%0a%3c || amino acids ||||||||%0a%3c || || || 2 || Alanine ||%0a%3c || || || 2 || Arginine ||%0a%3c || || || 2 || Asparagine ||%0a%3c || || || 2 || Aspartic acid ||%0a%3c || || || 2 || Cysteine ||%0a%3c || || || 2 || Glutamic acid ||%0a%3c || || || 2 || Glutamine ||%0a%3c || || || 2 || Glycine ||%0a%3c || || || 2 || Histidine ||%0a%3c || || || 2 || Isoleucine ||%0a%3c || || || 10 || Leucine ||%0a%3c || || || 2 || Lysine ||%0a%3c || || || 2 || Methionine ||%0a%3c || || || 2 || Phenylalanine ||%0a%3c || || || 2 || Proline ||%0a%3c || || || 2 || Serine ||%0a%3c || || || 2 || Threonine ||%0a%3c || || || 2 || Tryptophan ||%0a%3c || || || 2 || Tyrosine ||%0a%3c || || || 2 || Valine ||%0a\ No newline at end of file%0a
+host:1460776638=10.150.128.248

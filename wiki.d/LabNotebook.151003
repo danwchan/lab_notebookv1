@@ -1,0 +1,33 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=annoated and resized gel
+ctime=1443905911
+host=127.0.0.1
+name=LabNotebook.151003
+rev=6
+targets=Protocol.GoTaqStdScrn,LabNotebook.OG
+text===Little things%0a* Silence the autoclave alarm%0a* Autoclave garbage%0a* Aliquot some private FBS :S%0a* Resolve to write some wiki stuff%0a* Order more GoTaq and Cholera Toxin%0a%0a==Complementing agrA%0a* Colony PCR looking for P2-agrA insert inside pOS1 and agrA insert inside pIMAY%0a** negative PCR with [[Protocol/GoTaq_std_scrn]]%0a** set1: pos_seq2_F + R%0a** set2: IM152_F + R%0a** 57&#176;C annealing%0a** 1:30 extension%0a%0a%25width=70pct%25 Attach:pos1_pimay_neg_scrn.jpg%0a%0atop gel%0a# 3x set2 and agrA-pIMAY%0a# 1kB ladder%0a# 17x set1 and P2m-agrA-pOS1%0a# 1x set1 and P2m-agrA-pOS1 and pOS1 ([[OG]])%0abottom gel%0a# 8x set and P2s-agrA-pOS1%0a# ladder%0a# 8x and P2s-agrA-pOS1%0a%0a* inoculate 3x pIMAY into LB + cm15%0a* incoulate 2x (4 and 16) P2m-agrA-pOS1, 3x (1-3) P2s-agrA-pOS1 into LB + amp100%0a* Transform DC10B with new P2-agrA-pOS1 and DC5a with agrA-pIMAY%0a%0a==icaA%0a* D5 harvest, fix in formalin 2'^nd^' spots%0a%0a==Cell culture maintenance%0a* lift rafts%0a* make new E media%0a* change media on rafts from 150926
+time=1443932664
+author:1443932664=Danny
+csum:1443932664=annoated and resized gel
+diff:1443932664:1443931839:=11,12d10%0a%3c ** set1: pos_seq2_F + R%0a%3c ** set2: IM152_F + R%0a16,17c14,15%0a%3c %25width=70pct%25 Attach:pos1_pimay_neg_scrn.jpg%0a%3c %0a---%0a> %25width=100pct%25 Attach:pos1_pimay_neg_scrn.jpg%0a> %0a19,29c17%0a%3c # 3x set2 and agrA-pIMAY%0a%3c # 1kB ladder%0a%3c # 17x set1 and P2m-agrA-pOS1%0a%3c # 1x set1 and P2m-agrA-pOS1 and pOS1 ([[OG]])%0a%3c bottom gel%0a%3c # 8x set and P2s-agrA-pOS1%0a%3c # ladder%0a%3c # 8x and P2s-agrA-pOS1%0a%3c %0a%3c * inoculate 3x pIMAY into LB + cm15%0a%3c * incoulate 2x (4 and 16) P2m-agrA-pOS1, 3x (1-3) P2s-agrA-pOS1 into LB + amp100%0a---%0a> %0a
+host:1443932664=127.0.0.1
+author:1443931839=Danny
+csum:1443931839=added gel pic
+diff:1443931839:1443907426:=11,17c11%0a%3c ** 57&#176;C annealing%0a%3c ** 1:30 extension%0a%3c %0a%3c %25width=100pct%25 Attach:pos1_pimay_neg_scrn.jpg%0a%3c %0a%3c top gel%0a%3c %0a---%0a> ** 58&#176;C annealing%0a
+host:1443931839=205.208.116.186
+author:1443907426=Danny
+diff:1443907426:1443907407:=11c11%0a%3c ** 58&#176;C annealing%0a---%0a> ** 58 &#176 C annealing%0a
+host:1443907426=127.0.0.1
+author:1443907407=Danny
+diff:1443907407:1443906425:=11c11%0a%3c ** 58 &#176 C annealing%0a---%0a> ** 58&#176C annealing%0a
+host:1443907407=127.0.0.1
+author:1443906425=Danny
+diff:1443906425:1443905911:=9,20c9,10%0a%3c * Colony PCR looking for P2-agrA insert inside pOS1 and agrA insert inside pIMAY%0a%3c ** negative PCR with [[Protocol/GoTaq_std_scrn]]%0a%3c ** 58&#176C annealing%0a%3c * Transform DC10B with new P2-agrA-pOS1 and DC5a with agrA-pIMAY%0a%3c %0a%3c ==icaA%0a%3c * D5 harvest, fix in formalin 2'^nd^' spots%0a%3c %0a%3c ==Cell culture maintenance%0a%3c * lift rafts%0a%3c * make new E media%0a%3c * change media on rafts from 150926%0a\ No newline at end of file%0a---%0a> *Colony PCR looking for P2-agrA insert inside pOS1%0a> **negative PCR with standard%0a\ No newline at end of file%0a
+host:1443906425=127.0.0.1
+author:1443905911=Danny
+csum:1443905911=begin entry
+diff:1443905911:1443905911:=1,10d0%0a%3c ==Little things%0a%3c * Silence the autoclave alarm%0a%3c * Autoclave garbage%0a%3c * Aliquot some private FBS :S%0a%3c * Resolve to write some wiki stuff%0a%3c * Order more GoTaq and Cholera Toxin%0a%3c %0a%3c ==Complementing agrA%0a%3c *Colony PCR looking for P2-agrA insert inside pOS1%0a%3c **negative PCR with standard%0a\ No newline at end of file%0a
+host:1443905911=127.0.0.1

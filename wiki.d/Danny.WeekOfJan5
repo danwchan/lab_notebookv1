@@ -1,0 +1,26 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:43.0) Gecko/20100101 Firefox/43.0
+author=Danny
+charset=UTF-8
+csum=remove srtA things will delay until agrA clears up
+ctime=1452204645
+host=205.208.52.184
+name=Danny.WeekOfJan5
+rev=4
+targets=
+text=!!Making some reagents%0a* QG buffer for gel extraction, pH 6.6 with Bromophenol Blue, not quite yellow but green does indicate it got too basic%0a** pH 6.3 adjusted... hope that works OK%0a%0a!!Cells J2 3T3%0a* thaw cells%0a** change media on them... looks good, split tomorrow%0a** ended up splitting on 150110 1 day later... cells look OK%0a%0a!!{-agrA mutant-}%0a* {-retest with different PCR, agr_scrn_F primer seems to be non specific according to sequencing attempts-}%0a%0a!!agrA complementation%0a* test the new constructs%0a** do a miniprep x2 for each%0a%0a!!atl complementation%0a* make competent cells from clone 41%0a* miniprep atl #10 (still not sequence verified)%0a* transform plasmid 10 in clone 41%0a%0a!!icaA complementation%0a* remake insert%0a%0a!!{-srtA complementation-}%0a* {-make competent cells-}%0a* {-miniprep srtA-}%0a%0a!!atl mutant%0a* 150110 SEM of the mutant from before break
+time=1452618473
+author:1452618473=Danny
+csum:1452618473=remove srtA things will delay until agrA clears up
+diff:1452618473:1452540154:=8,12c8,11%0a%3c ** ended up splitting on 150110 1 day later... cells look OK%0a%3c %0a%3c !!{-agrA mutant-}%0a%3c * {-retest with different PCR, agr_scrn_F primer seems to be non specific according to sequencing attempts-}%0a%3c %0a---%0a> %0a> !!agrA mutant%0a> * retest with different PCR, agr_scrn_F primer seems to be non specific according to sequencing attempts%0a> %0a20,21c19%0a%3c * transform plasmid 10 in clone 41%0a%3c %0a---%0a> %0a24,30c22,26%0a%3c %0a%3c !!{-srtA complementation-}%0a%3c * {-make competent cells-}%0a%3c * {-miniprep srtA-}%0a%3c %0a%3c !!atl mutant%0a%3c * 150110 SEM of the mutant from before break%0a\ No newline at end of file%0a---%0a> * single cut%0a> %0a> !!srtA complementation%0a> * make competent cells%0a> * miniprep srtA%0a\ No newline at end of file%0a
+host:1452618473=205.208.52.184
+author:1452540154=Danny
+diff:1452540154:1452280820:=23,26d22%0a%3c %0a%3c !!srtA complementation%0a%3c * make competent cells%0a%3c * miniprep srtA%0a\ No newline at end of file%0a
+host:1452540154=205.208.52.184
+author:1452280820=Danny
+diff:1452280820:1452204645:=0a1%0a> %0a7,11c8%0a%3c ** change media on them... looks good, split tomorrow%0a%3c %0a%3c !!agrA mutant%0a%3c * retest with different PCR, agr_scrn_F primer seems to be non specific according to sequencing attempts%0a%3c %0a---%0a> %0a14,22c11%0a%3c ** do a miniprep x2 for each%0a%3c %0a%3c !!atl complementation%0a%3c * make competent cells from clone 41%0a%3c * miniprep atl #10 (still not sequence verified)%0a%3c %0a%3c !!icaA complementation%0a%3c * remake insert%0a%3c * single cut%0a---%0a> ** do a miniprep x2 for each%0a\ No newline at end of file%0a
+host:1452280820=205.208.52.184
+author:1452204645=Danny
+csum:1452204645=I'm back
+diff:1452204645:1452204645:=1,11d0%0a%3c %0a%3c !!Making some reagents%0a%3c * QG buffer for gel extraction, pH 6.6 with Bromophenol Blue, not quite yellow but green does indicate it got too basic%0a%3c ** pH 6.3 adjusted... hope that works OK%0a%3c %0a%3c !!Cells J2 3T3%0a%3c * thaw cells%0a%3c %0a%3c !!agrA complementation%0a%3c * test the new constructs%0a%3c ** do a miniprep x2 for each%0a\ No newline at end of file%0a
+host:1452204645=205.208.52.184

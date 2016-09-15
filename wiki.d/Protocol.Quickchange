@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1455574645
+host=205.208.52.184
+name=Protocol.Quickchange
+rev=3
+targets=
+text=I like to use the single site mutagenesis [[http://openwetware.org/wiki/Knight:Site-directed_mutagenesis/Single_site | protocol]] from the Knight lab on Open Wetware%0a%0aIn the JBW lab we use Phusion polymerase with a extension temp of 72&deg;C and time of 45s/kb (my PCR protocols are saved on the heat block under DWC... this one is 1MUT) Also I am adding cutsmart buffer to the final PCR reaction before adding DpnI%0a%0aBriefly, the plamids are run with the matching mutant primers for a short (18) run of cycles amplifying the whole plasmid in a non-exponential PCR reaction. The original template is digested away with DpnI and the reaction is purified and transformed into competent cells.
+time=1455585077
+author:1455585077=Danny
+diff:1455585077:1455584631:=3c3%0a%3c In the JBW lab we use Phusion polymerase with a extension temp of 72&deg;C and time of 45s/kb (my PCR protocols are saved on the heat block under DWC... this one is 1MUT) Also I am adding cutsmart buffer to the final PCR reaction before adding DpnI%0a---%0a> In the JBW lab we use Phusion polymerase with a extension temp of 72&deg;C and time of 45s/kb (my PCR protocols are saved on the heat block under DWC... this one is 1MUT)%0a
+host:1455585077=205.208.52.184
+author:1455584631=Danny
+diff:1455584631:1455574645:=2,3d1%0a%3c %0a%3c In the JBW lab we use Phusion polymerase with a extension temp of 72&deg;C and time of 45s/kb (my PCR protocols are saved on the heat block under DWC... this one is 1MUT)%0a
+host:1455584631=205.208.52.184
+author:1455574645=Danny
+diff:1455574645:1455574645:=1,3d0%0a%3c I like to use the single site mutagenesis [[http://openwetware.org/wiki/Knight:Site-directed_mutagenesis/Single_site | protocol]] from the Knight lab on Open Wetware%0a%3c %0a%3c Briefly, the plamids are run with the matching mutant primers for a short (18) run of cycles amplifying the whole plasmid in a non-exponential PCR reaction. The original template is digested away with DpnI and the reaction is purified and transformed into competent cells.%0a\ No newline at end of file%0a
+host:1455574645=205.208.52.184

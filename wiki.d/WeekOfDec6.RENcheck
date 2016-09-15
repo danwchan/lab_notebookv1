@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450173471
+host=10.150.152.80
+name=WeekOfDec6.RENcheck
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfDec6/151212_atl_srt_RENcheck.jpg%0a%0acut then uncut%0a# atlc9%0a# atlc10%0a# atlc11%0a# atlc12%0a# atlc19%0amarker%0a# srtAc1%0a# srtAc2%0a# srtAc3
+time=1450173471
+author:1450173471=Danny
+diff:1450173471:1450173471:=1,12d0%0a%3c %25width=70pct%25 Attach:WeekOfDec6/151212_atl_srt_RENcheck.jpg%0a%3c %0a%3c cut then uncut%0a%3c # atlc9%0a%3c # atlc10%0a%3c # atlc11%0a%3c # atlc12%0a%3c # atlc19%0a%3c marker%0a%3c # srtAc1%0a%3c # srtAc2%0a%3c # srtAc3%0a\ No newline at end of file%0a
+host:1450173471=10.150.152.80

@@ -1,0 +1,19 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=note for the future June 30/16
+ctime=1465017172
+host=205.208.52.184
+name=Danny.June4Goals
+rev=2
+targets=
+text=submit paper%0a%0aafter speaking with Julie she made some suggestions about the format of the figures and told me that she views PLoS as the lowest bar%0athen she said that I should consider the PSM's as the next thing to work on... (this will take more time than it would be to finish the manuscript in another way)%0a%0aI figure I just care about making a paper no matter the bar and that it's all about some difficult to discern thing in the future anyways. So I am going to try and bring together a manuscript before the end of next week
+time=1467321060
+author:1467321060=Danny
+csum:1467321060=note for the future June 30/16
+diff:1467321060:1465017172:=1,6c1%0a%3c submit paper%0a%3c %0a%3c after speaking with Julie she made some suggestions about the format of the figures and told me that she views PLoS as the lowest bar%0a%3c then she said that I should consider the PSM's as the next thing to work on... (this will take more time than it would be to finish the manuscript in another way)%0a%3c %0a%3c I figure I just care about making a paper no matter the bar and that it's all about some difficult to discern thing in the future anyways. So I am going to try and bring together a manuscript before the end of next week%0a\ No newline at end of file%0a---%0a> submit paper%0a\ No newline at end of file%0a
+host:1467321060=205.208.52.184
+author:1465017172=Danny
+diff:1465017172:1465017172:=1d0%0a%3c submit paper%0a\ No newline at end of file%0a
+host:1465017172=205.208.52.184

@@ -1,0 +1,16 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=from my shady memories
+ctime=1443752851
+host=10.150.133.114
+name=JournalClub.RevisitingTheGram-NegativeLipoproteinParadigm
+rev=1
+targets=
+text='''Presenter: Wei Ping T'''%0a%0a!![[http://www.ncbi.nlm.nih.gov/pubmed/25755189|Revisiting the Gram-Negative Lipoprotein Paradigm]]%0a%0a!!!Related to ''B. fragilis'' lit search%0a*''B. fragilis'' lacks ''lnt'' and ''lol''B (or was that C?) yet still contains tri-acylated lipoprotiens on the OM%0a%0a!!!Forcing it...%0a*What does this have to do with anti microbial resistance?%0a%0a!!!Future Directions%0a*double KO of ''lol'' B|C|E|F in a ''lnt'' neg background%0a*show some bacterial 2 hybrid of lol homodimer%0a%0aI don't remember much else
+time=1443752851
+author:1443752851=Danny
+csum:1443752851=from my shady memories
+diff:1443752851:1443752851:=1,15d0%0a%3c '''Presenter: Wei Ping T'''%0a%3c %0a%3c !![[http://www.ncbi.nlm.nih.gov/pubmed/25755189|Revisiting the Gram-Negative Lipoprotein Paradigm]]%0a%3c %0a%3c !!!Related to ''B. fragilis'' lit search%0a%3c *''B. fragilis'' lacks ''lnt'' and ''lol''B (or was that C?) yet still contains tri-acylated lipoprotiens on the OM%0a%3c %0a%3c !!!Forcing it...%0a%3c *What does this have to do with anti microbial resistance?%0a%3c %0a%3c !!!Future Directions%0a%3c *double KO of ''lol'' B|C|E|F in a ''lnt'' neg background%0a%3c *show some bacterial 2 hybrid of lol homodimer%0a%3c %0a%3c I don't remember much else%0a\ No newline at end of file%0a
+host:1443752851=10.150.133.114

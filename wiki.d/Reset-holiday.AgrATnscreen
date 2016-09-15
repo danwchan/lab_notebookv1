@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:43.0) Gecko/20100101 Firefox/43.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450694191
+host=205.208.52.184
+name=Reset-holiday.AgrATnscreen
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Reset-holiday/151221_agrA_tnscreen.jpg%0a%0atopgel, primer set : agrA_screen_F + Martin_F%0a# 8-1 to 8-5 gDNA%0a# 12-1 to 12-5 gDNA%0a# 1kb plus marker%0a# &Delta;agrA phx-1%0a# agr 8%0a# agr 12%0a# WT%0a%0abottomgel, primer set : agrA_screen_F + R%0a# 8-1 to 8-5 gDNA%0a# 12-1 to 12-5 gDNA%0a# 1kb plus marker%0a# &Delta;agrA phx-1%0a# agr 8%0a# agr 12%0a# WT
+time=1450694191
+author:1450694191=Danny
+diff:1450694191:1450694191:=1,19d0%0a%3c %25width=70pct%25 Attach:Reset-holiday/151221_agrA_tnscreen.jpg%0a%3c %0a%3c topgel, primer set : agrA_screen_F + Martin_F%0a%3c # 8-1 to 8-5 gDNA%0a%3c # 12-1 to 12-5 gDNA%0a%3c # 1kb plus marker%0a%3c # &Delta;agrA phx-1%0a%3c # agr 8%0a%3c # agr 12%0a%3c # WT%0a%3c %0a%3c bottomgel, primer set : agrA_screen_F + R%0a%3c # 8-1 to 8-5 gDNA%0a%3c # 12-1 to 12-5 gDNA%0a%3c # 1kb plus marker%0a%3c # &Delta;agrA phx-1%0a%3c # agr 8%0a%3c # agr 12%0a%3c # WT%0a\ No newline at end of file%0a
+host:1450694191=205.208.52.184

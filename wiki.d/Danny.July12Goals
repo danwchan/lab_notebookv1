@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1468867044
+host=205.208.52.184
+name=Danny.July12Goals
+rev=1
+targets=
+text=submit PlOS ONE journal article about the organotypic model and the findings associated with the mutant analysis on the model
+time=1468867044
+author:1468867044=Danny
+diff:1468867044:1468867044:=1d0%0a%3c submit PlOS ONE journal article about the organotypic model and the findings associated with the mutant analysis on the model%0a\ No newline at end of file%0a
+host:1468867044=205.208.52.184

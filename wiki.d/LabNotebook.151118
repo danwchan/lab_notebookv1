@@ -1,0 +1,19 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1447897602
+host=10.150.129.210
+name=LabNotebook.151118
+rev=2
+targets=
+text=Today there was the committee meeting!%0a%0aThis is a hard reset for all ur habits... time to put key work towards key goals.%0a%0aWhat you think you have: atl mutant, agrA mutant, srt mutant%0a%0aThis needs to be proven by PCR and sequencing. There is DNA for USA300 agrA, srtA, atl clones.%0a%0aPositive controls required are srtA.%0a%0aWhat you know you don't have: icaA mutant (also there is indication that this will not work as icaR is required for USA300 biofilm)%0a%0aTherefore you need to make it! via transduction or via clean deletion? transduction is easier (ask DM about this aspect) you also have the stuff to make icaABCD-markerless.%0a%0a!!Inoculate strains/streak strains%0a#from phoenix library: icaA, icaR, srtA%0a%0a!!To read:%0a#how to test for complementing plasmids?
+time=1447897618
+author:1447897618=Danny
+diff:1447897618:1447897602:=19c19%0a%3c #how to test for complementing plasmids?%0a\ No newline at end of file%0a---%0a> #how to make complementing plasmids?%0a\ No newline at end of file%0a
+host:1447897618=10.150.129.210
+author:1447897602=Danny
+csum:1447897602=some thoughts on immediate work you need to do
+diff:1447897602:1447897602:=1,19d0%0a%3c Today there was the committee meeting!%0a%3c %0a%3c This is a hard reset for all ur habits... time to put key work towards key goals.%0a%3c %0a%3c What you think you have: atl mutant, agrA mutant, srt mutant%0a%3c %0a%3c This needs to be proven by PCR and sequencing. There is DNA for USA300 agrA, srtA, atl clones.%0a%3c %0a%3c Positive controls required are srtA.%0a%3c %0a%3c What you know you don't have: icaA mutant (also there is indication that this will not work as icaR is required for USA300 biofilm)%0a%3c %0a%3c Therefore you need to make it! via transduction or via clean deletion? transduction is easier (ask DM about this aspect) you also have the stuff to make icaABCD-markerless.%0a%3c %0a%3c !!Inoculate strains/streak strains%0a%3c #from phoenix library: icaA, icaR, srtA%0a%3c %0a%3c !!To read:%0a%3c #how to make complementing plasmids?%0a\ No newline at end of file%0a
+host:1447897602=10.150.129.210

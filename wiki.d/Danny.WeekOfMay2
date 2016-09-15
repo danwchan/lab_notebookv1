@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:45.0) Gecko/20100101 Firefox/45.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1462479524
+host=205.208.52.184
+name=Danny.WeekOfMay2
+rev=2
+targets=
+text=!!!Stats%0a*stastatstastastatsstatistics%0a%0a!!!Organotypic cultures%0a* repeat the complementation with agrA experiments%0a* atl might have a dose dependant effect%0a%0a!!!In vitro biofilm%0a* repeat with all agr strains in both M9+supp+0.5%25 glucose and TSB+0.5%25 glucose in +O'_2_' and -O'_2_'%0a%0a!!!Comparing biofilm growth%0a* trying to grow E.coli, S.epi and S.aureus on artifical sweat media with and without 0.5%25 glucose
+time=1462479559
+author:1462479559=Danny
+diff:1462479559:1462479524:=9c9%0a%3c * repeat with all agr strains in both M9+supp+0.5%25 glucose and TSB+0.5%25 glucose in +O'_2_' and -O'_2_'%0a---%0a> * repeat with all agr strains in both M9+supp+0.5%25 glucose and TSB+0.5%25 glucose in +O_2 and -O_2%0a
+host:1462479559=205.208.52.184
+author:1462479524=Danny
+diff:1462479524:1462479524:=1,12d0%0a%3c !!!Stats%0a%3c *stastatstastastatsstatistics%0a%3c %0a%3c !!!Organotypic cultures%0a%3c * repeat the complementation with agrA experiments%0a%3c * atl might have a dose dependant effect%0a%3c %0a%3c !!!In vitro biofilm%0a%3c * repeat with all agr strains in both M9+supp+0.5%25 glucose and TSB+0.5%25 glucose in +O_2 and -O_2%0a%3c %0a%3c !!!Comparing biofilm growth%0a%3c * trying to grow E.coli, S.epi and S.aureus on artifical sweat media with and without 0.5%25 glucose%0a\ No newline at end of file%0a
+host:1462479524=205.208.52.184

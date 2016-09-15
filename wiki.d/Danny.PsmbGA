@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1470791501
+host=205.208.52.184
+name=Danny.PsmbGA
+rev=2
+targets=
+text=%25width=70pct%25 Attach:WeekOfAugust8/160809_PSMb_GA.jpg%0a%0agradient for PSMb (again) it all works really well.%0a%0a#1 kb ladder%0a#54%0a#54.8%0a#56.3%0a#58.6%0a#61.3%0a#63.6%0a#65.1%0a#66%0a#1 kb ladder
+time=1470791553
+author:1470791553=Danny
+diff:1470791553:1470791501:=1,14c1%0a%3c %25width=70pct%25 Attach:WeekOfAugust8/160809_PSMb_GA.jpg%0a%3c %0a%3c gradient for PSMb (again) it all works really well.%0a%3c %0a%3c #1 kb ladder%0a%3c #54%0a%3c #54.8%0a%3c #56.3%0a%3c #58.6%0a%3c #61.3%0a%3c #63.6%0a%3c #65.1%0a%3c #66%0a%3c #1 kb ladder%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfAugust8/160809_PSMb_GA.jpg%0a\ No newline at end of file%0a
+host:1470791553=205.208.52.184
+author:1470791501=Danny
+diff:1470791501:1470791501:=1d0%0a%3c %25width=70pct%25 Attach:WeekOfAugust8/160809_PSMb_GA.jpg%0a\ No newline at end of file%0a
+host:1470791501=205.208.52.184

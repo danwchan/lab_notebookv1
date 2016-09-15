@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1455215874
+host=205.208.52.184
+name=Danny.PIMAYPCR
+rev=1
+targets=Danny.WeekofJan25
+text=[[WeekofJan25]]%0a%0a%25width=70pct%25 Attach:WeekofJan25/161025_agrA22251_pIMAY_screen.jpg%0a%0atop gel IM151+152%0a#isolates%0a#negative clone%0a#water only%0a#irrelevant DNA (pos1?)%0a#pIMAY%0abottom gel IM15forward+agrA_lf_r
+time=1455215874
+author:1455215874=Danny
+diff:1455215874:1455215874:=1,11d0%0a%3c [[WeekofJan25]]%0a%3c %0a%3c %25width=70pct%25 Attach:WeekofJan25/161025_agrA22251_pIMAY_screen.jpg%0a%3c %0a%3c top gel IM151+152%0a%3c #isolates%0a%3c #negative clone%0a%3c #water only%0a%3c #irrelevant DNA (pos1?)%0a%3c #pIMAY%0a%3c bottom gel IM15forward+agrA_lf_r%0a\ No newline at end of file%0a
+host:1455215874=205.208.52.184

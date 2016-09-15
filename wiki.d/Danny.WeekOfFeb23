@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1456863846
+host=205.208.52.184
+name=Danny.WeekOfFeb23
+rev=4
+targets=
+text=!!Making the C123F LAC isolate%0a%0a!!Rafts%0a*contamination of the warming e-media, lost a few from lifted Feb 20 and Feb 26%0a%0a!!Harvest for qPCR%0a%0a!!Harvest for biochem composition
+time=1458003822
+author:1458003822=Danny
+diff:1458003822:1458003694:=
+host:1458003822=205.208.52.184
+author:1458003694=Danny
+diff:1458003694:1456864063:=
+host:1458003694=205.208.52.184
+author:1456864063=Danny
+diff:1456864063:1456863846:=7,8d6%0a%3c %0a%3c !!Harvest for biochem composition%0a\ No newline at end of file%0a
+host:1456864063=10.150.140.76
+author:1456863846=Danny
+diff:1456863846:1456863846:=1,6d0%0a%3c !!Making the C123F LAC isolate%0a%3c %0a%3c !!Rafts%0a%3c *contamination of the warming e-media, lost a few from lifted Feb 20 and Feb 26%0a%3c %0a%3c !!Harvest for qPCR%0a
+host:1456863846=10.150.140.76

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:45.0) Gecko/20100101 Firefox/45.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1461045674
+host=205.208.52.184
+name=Protocol.NileRed
+rev=1
+targets=
+text=adapted from [[http://dx.doi.org/10.1177%252F33.8.4020099 | Fowler and Greenspan]]%0a%0ano blocking required%0a%0a!! Nile Red solutions%0a*'''STOCK:''' 500&micro;g/mL in dry acetone protected from light -20&deg;C%0a*'''STAINING:''' 1:100 stock in 75%25 glycerol%0a%0a!! Nile Red staining%0a# wash off OCT with PBS%0a# add stain%0a# coverslip and image (Gold, hydrophobic lipids: ex510 em585 [fluorescein filter set], Red, phospholipids: ex544 em637 [rhodamine filter set])
+time=1461045674
+author:1461045674=Danny
+diff:1461045674:1461045674:=1,12d0%0a%3c adapted from [[http://dx.doi.org/10.1177%252F33.8.4020099 | Fowler and Greenspan]]%0a%3c %0a%3c no blocking required%0a%3c %0a%3c !! Nile Red solutions%0a%3c *'''STOCK:''' 500&micro;g/mL in dry acetone protected from light -20&deg;C%0a%3c *'''STAINING:''' 1:100 stock in 75%25 glycerol%0a%3c %0a%3c !! Nile Red staining%0a%3c # wash off OCT with PBS%0a%3c # add stain%0a%3c # coverslip and image (Gold, hydrophobic lipids: ex510 em585 [fluorescein filter set], Red, phospholipids: ex544 em637 [rhodamine filter set])%0a\ No newline at end of file%0a
+host:1461045674=205.208.52.184

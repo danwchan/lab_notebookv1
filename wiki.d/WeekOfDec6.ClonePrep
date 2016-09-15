@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450165759
+host=165.68.124.11
+name=WeekOfDec6.ClonePrep
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfDec6/151208_atl_srt_cloning_prep.jpg%0a%0adigested inserts%0a#?%0a# srtA%0a# atl%0a# atl, note the presence of contaminating primer amplification%0a# atl%0amarker%0a# pos1 digested with EcoRI and BamHI
+time=1450165759
+author:1450165759=Danny
+diff:1450165759:1450165759:=1,10d0%0a%3c %25width=70pct%25 Attach:WeekOfDec6/151208_atl_srt_cloning_prep.jpg%0a%3c %0a%3c digested inserts%0a%3c #?%0a%3c # srtA%0a%3c # atl%0a%3c # atl, note the presence of contaminating primer amplification%0a%3c # atl%0a%3c marker%0a%3c # pos1 digested with EcoRI and BamHI%0a\ No newline at end of file%0a
+host:1450165759=165.68.124.11

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1445735693
+host=127.0.0.1
+name=LabNotebook.151025
+rev=2
+targets=
+text===Seed rafts%0a* confluent?%0a%0a{-==cloning-}%0a* transform dh5a with agrA pIMAY%0a* transform dc10b with P2-agrA pOS1%0a%0a{-==Biofilm-}%0a* set up plates%0a** glucose scale%0a** sweat scale%0a** lysate scale
+time=1445975230
+author:1445975230=Danny
+diff:1445975230:1445735693:=4c4%0a%3c {-==cloning-}%0a---%0a> ==cloning%0a8c8%0a%3c {-==Biofilm-}%0a---%0a> ==Biofilm%0a
+host:1445975230=127.0.0.1
+author:1445735693=Danny
+diff:1445735693:1445735693:=1,12d0%0a%3c ==Seed rafts%0a%3c * confluent?%0a%3c %0a%3c ==cloning%0a%3c * transform dh5a with agrA pIMAY%0a%3c * transform dc10b with P2-agrA pOS1%0a%3c %0a%3c ==Biofilm%0a%3c * set up plates%0a%3c ** glucose scale%0a%3c ** sweat scale%0a%3c ** lysate scale%0a\ No newline at end of file%0a
+host:1445735693=165.68.124.11

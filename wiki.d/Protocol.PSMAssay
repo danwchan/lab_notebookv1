@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471039732
+host=205.208.52.184
+name=Protocol.PSMAssay
+rev=4
+targets=
+text=This is the protocol to check for PSM molecules in the supernatant of ''S. aureus'' it was adapted from [[http://dx.doi.org/10.1074/jbc.M111.221382 | Joo et. al]] and [[http://dx.doi.org/10.1007/978-1-62703-736-5_7 | Joo and Otto]]%0a%0a!!Extraction%0a%0a#Start overnight culture of ''S. aureus'' target strain in TSM%0a#Inoculate the target strain into 50mL TSB%0a#Remove cells by centrifugation (6000x''g'' for 30min at 4&deg;C)%0a#Filter in a 0.02&mu;m%0a#Add 30mL of filtrate to 10mL of 1-butanol (1/3 v/v final)%0a#Shake for 2h at 37&deg;C%0a#Centrifuge (6000x''g'' for %3c5min)%0a#Speed vac dry the samples and store at -20&deg;C for later use%0a#For separation or use resuspend in 600&mu;L of 8M urea%0a%0a!!Separation%0a#Filter sample before loading%0a#Load 100&mu;L into a column%0a** must be reverse phase. the cited column is μRPC C2/C18 ST 4.6/100%0a** used BDS Hypersil C8 4.6/250 5&mu;m (Thermo 28205-254630)%0a#Run column%0a** flow rate 0.5mL/min%0a** eluent A (0.1%25 TFA, 2%25 acetonitrile in water) to eluent B (0.1%25 TFA in acetonitrile): %0a***0%25 eluent B from 0 to 4 min%0a***0 to 50%25 eluent B linear gradient from 4 to 72 min%0a***50 to 100%25 eluent B linear gradient from 72 to 82 min%0a***100%25 eluent B from 82 to 90 min%0a***0%25 eluent B from 90 to 100 min%0a## detection 214nm and 260nm%0a#collect for MALDI-TOF?
+time=1471478211
+author:1471478211=Danny
+diff:1471478211:1471042970:=13,14c13,14%0a%3c #For separation or use resuspend in 600&mu;L of 8M urea%0a%3c %0a---%0a> #For separation or use resuspend in 500&mu;L of 8M urea%0a> %0a19d18%0a%3c ** used BDS Hypersil C8 4.6/250 5&mu;m (Thermo 28205-254630)%0a22c21%0a%3c ** eluent A (0.1%25 TFA, 2%25 acetonitrile in water) to eluent B (0.1%25 TFA in acetonitrile): %0a---%0a> ** eluent A (0.1%25 TFA in water) to eluent B (0.1%25 TFA in acetonitrile): %0a26,28c25,26%0a%3c ***100%25 eluent B from 82 to 90 min%0a%3c ***0%25 eluent B from 90 to 100 min%0a%3c ## detection 214nm and 260nm%0a---%0a> ***100%25 eluent B from 82 to 90 min, 0%25 eluent B from 90 to 100 min%0a> ## detection 214nm%0a
+host:1471478211=205.208.52.184
+author:1471042970=Danny
+diff:1471042970:1471042262:=16d15%0a%3c #Filter sample before loading%0a
+host:1471042970=205.208.52.184
+author:1471042262=Danny
+diff:1471042262:1471039732:=1,26c1%0a%3c This is the protocol to check for PSM molecules in the supernatant of ''S. aureus'' it was adapted from [[http://dx.doi.org/10.1074/jbc.M111.221382 | Joo et. al]] and [[http://dx.doi.org/10.1007/978-1-62703-736-5_7 | Joo and Otto]]%0a%3c %0a%3c !!Extraction%0a%3c %0a%3c #Start overnight culture of ''S. aureus'' target strain in TSM%0a%3c #Inoculate the target strain into 50mL TSB%0a%3c #Remove cells by centrifugation (6000x''g'' for 30min at 4&deg;C)%0a%3c #Filter in a 0.02&mu;m%0a%3c #Add 30mL of filtrate to 10mL of 1-butanol (1/3 v/v final)%0a%3c #Shake for 2h at 37&deg;C%0a%3c #Centrifuge (6000x''g'' for %3c5min)%0a%3c #Speed vac dry the samples and store at -20&deg;C for later use%0a%3c #For separation or use resuspend in 500&mu;L of 8M urea%0a%3c %0a%3c !!Separation%0a%3c #Load 100&mu;L into a column%0a%3c ** must be reverse phase. the cited column is μRPC C2/C18 ST 4.6/100%0a%3c #Run column%0a%3c ** flow rate 0.5mL/min%0a%3c ** eluent A (0.1%25 TFA in water) to eluent B (0.1%25 TFA in acetonitrile): %0a%3c ***0%25 eluent B from 0 to 4 min%0a%3c ***0 to 50%25 eluent B linear gradient from 4 to 72 min%0a%3c ***50 to 100%25 eluent B linear gradient from 72 to 82 min%0a%3c ***100%25 eluent B from 82 to 90 min, 0%25 eluent B from 90 to 100 min%0a%3c ## detection 214nm%0a%3c #collect for MALDI-TOF?%0a\ No newline at end of file%0a---%0a> This is the protocol to check for PSM molecules in the supernatant of ''S. aureus''%0a\ No newline at end of file%0a
+host:1471042262=73.247.79.104
+author:1471039732=Danny
+diff:1471039732:1471039732:=1d0%0a%3c This is the protocol to check for PSM molecules in the supernatant of ''S. aureus''%0a\ No newline at end of file%0a
+host:1471039732=205.208.52.184

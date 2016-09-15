@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0
+author=
+charset=UTF-8
+csum=
+ctime=1366302430
+host=99.95.130.190
+name=Main.130418
+rev=2
+targets=Main.130402,Main.R13-109,Main.CFUCounting,Main.130419,Main.130412
+text=Process final raft samples created [[130402]] for NWH [[R13-109]]%0a%0aPour TSA square plates for [[CFU counting]] for rafts; left at RT to check for contamination%0a%0aInoculate 5 mL of TSB with LAC strain from -80&#176;C for timecourse on [[130419]]; @ ~17:00%0a%0aSwitch media on rafts lifted on [[130412]] now day 6 differentiation
+time=1366350777
+author:1366350777=
+diff:1366350777:1366302430:=1,7c1,5%0a%3c Process final raft samples created [[130402]] for NWH [[R13-109]]%0a%3c %0a%3c Pour TSA square plates for [[CFU counting]] for rafts; left at RT to check for contamination%0a%3c %0a%3c Inoculate 5 mL of TSB with LAC strain from -80&#176;C for timecourse on [[130419]]; @ ~17:00%0a%3c %0a%3c Switch media on rafts lifted on [[130412]] now day 6 differentiation%0a\ No newline at end of file%0a---%0a> Process final raft samples created [[130402]] for NWH%0a> %0a> Pour TSA square plates for [[CFU counting]] for rafts%0a> %0a> Inoculate 5 mL of TSB with LAC strain from -80&#176;C for timecourse on [[130419]]%0a\ No newline at end of file%0a
+host:1366350777=99.95.130.190
+author:1366302430=Danny
+diff:1366302430:1366302430:=1,5d0%0a%3c Process final raft samples created [[130402]] for NWH%0a%3c %0a%3c Pour TSA square plates for [[CFU counting]] for rafts%0a%3c %0a%3c Inoculate 5 mL of TSB with LAC strain from -80&#176;C for timecourse on [[130419]]%0a\ No newline at end of file%0a
+host:1366302430=::1

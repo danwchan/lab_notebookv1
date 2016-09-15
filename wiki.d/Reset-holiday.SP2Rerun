@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:43.0) Gecko/20100101 Firefox/43.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450753650
+host=205.208.52.184
+name=Reset-holiday.SP2Rerun
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Reset-holiday/151221_sarP2agrA_rerun.jpg%0a%0aprimer set: P2_R2 + pos1_seq2_F%0a# 100 bp marker%0a# sample 4%0a# sample 5%0a# sample 15%0a# sample 16%0a# sample 21%0a# 100 bp marker%0a# s11%0a# m10%0a# pos1 empty
+time=1450753650
+author:1450753650=Danny
+diff:1450753650:1450753650:=1,13d0%0a%3c %25width=70pct%25 Attach:Reset-holiday/151221_sarP2agrA_rerun.jpg%0a%3c %0a%3c primer set: P2_R2 + pos1_seq2_F%0a%3c # 100 bp marker%0a%3c # sample 4%0a%3c # sample 5%0a%3c # sample 15%0a%3c # sample 16%0a%3c # sample 21%0a%3c # 100 bp marker%0a%3c # s11%0a%3c # m10%0a%3c # pos1 empty%0a\ No newline at end of file%0a
+host:1450753650=205.208.52.184

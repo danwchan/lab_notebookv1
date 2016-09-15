@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450164435
+host=165.68.124.11
+name=WeekOfDec6.4seq
+rev=2
+targets=
+text=%25width=70pct%25 Attach:WeekofDec6/151207_prepforseq.jpg%0a%0aagr_seq_F+R%0a#%0a#%0a# agrA-phx1%0a#%0a#%0amarker%0a#%0a#%0a#%0a#%0a#%0a#%0a
+time=1450164486
+author:1450164486=Danny
+diff:1450164486:1450164435:=6d5%0a%3c # agrA-phx1%0a7a7%0a> # agrA-phx1%0a9d8%0a%3c marker%0a11,15c10,11%0a%3c #%0a%3c #%0a%3c #%0a%3c #%0a%3c #%0a---%0a> marker%0a> #%0a\ No newline at end of file%0a
+host:1450164486=165.68.124.11
+author:1450164435=Danny
+diff:1450164435:1450164435:=1,11d0%0a%3c %25width=70pct%25 Attach:WeekofDec6/151207_prepforseq.jpg%0a%3c %0a%3c agr_seq_F+R%0a%3c #%0a%3c #%0a%3c #%0a%3c # agrA-phx1%0a%3c #%0a%3c #%0a%3c marker%0a%3c #%0a\ No newline at end of file%0a
+host:1450164435=165.68.124.11

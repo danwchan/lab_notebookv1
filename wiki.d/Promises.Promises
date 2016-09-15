@@ -1,0 +1,16 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=but not to exercise... yet
+ctime=1472160338
+host=205.208.52.184
+name=Promises.Promises
+rev=1
+targets=
+text=On this day I pledge:%0a%0a#I will use my "fun" phones less. In the time that you have had it it has helped a little but mostly it has distracted you. I want to me more reflective in quite moments and so I would like to ditch distraction such as that which comes from the "fun" phone. From now on it's not a "fun" phone it is the "android module".%0a#I will not purchase my own sugar based treats. Over the past little while I have gained weight. Part of this reason is the desire (which is mirrored perhaps from Toufic) to gain pleasure in times of stress. I am willing today and for each day forward to exercise my mind in order to limit the consumption of these items which I derive pleasure but little nutrition
+time=1472160338
+author:1472160338=Danny
+csum:1472160338=but not to exercise... yet
+diff:1472160338:1472160338:=1,4d0%0a%3c On this day I pledge:%0a%3c %0a%3c #I will use my "fun" phones less. In the time that you have had it it has helped a little but mostly it has distracted you. I want to me more reflective in quite moments and so I would like to ditch distraction such as that which comes from the "fun" phone. From now on it's not a "fun" phone it is the "android module".%0a%3c #I will not purchase my own sugar based treats. Over the past little while I have gained weight. Part of this reason is the desire (which is mirrored perhaps from Toufic) to gain pleasure in times of stress. I am willing today and for each day forward to exercise my mind in order to limit the consumption of these items which I derive pleasure but little nutrition%0a\ No newline at end of file%0a
+host:1472160338=205.208.52.184

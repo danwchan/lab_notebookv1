@@ -1,0 +1,117 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+host=205.208.52.184
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=34
+targets=Main.HomePage,Main.WikiSandbox,Site.SideBar,CellLines.CellLines,LabNotebook.LabNotebook,Danny.Danny,Protocol.Protocol,LinkDump.LinkDump,JournalClub.JournalClub,DataEntry.DataEntry,DataEntry.Danny,PmWiki.PmWiki,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.MailingLists
+text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a* [[http://nsit-dhcp-205-208-052-184.uchicago.edu/~Danny/pmwiki.php/Main/Upload?action=upload | Upload login]]%0a%0a%25sidehead%25 Navigation%0a*[[{*$Name}?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a%0a*[[CellLines/]]%0a*[[LabNotebook/]]%0a**[[Danny/]]%0a*[[Protocol/]]%0a*[[LinkDump/]]%0a*[[JournalClub/]]%0a*[[DataEntry/]]%0a**[[DataEntry/Danny]]%0a%0a%25sidehead%25 Attached files%0a*(:attachlist:)%0a%0a%25sidehead%25 Quick formatting for labnotebook:%0a%0a%0a*'''inline gel pictures'''%0a**'''DNA'''%0a**[=%25rfloat thumb%25 [[dnagels/picname | Attach: pic.jpg]]=]%0a%0a**'''protein'''%0a**[=%25rfloat thumb%25 [[proteingels/picname | Attach: pic.jpg]]=]%0a%0a*'''format large gel pictures'''%0a*[=%25width=70pct%25 Attach:Danny/date_ancestor/pic.jpg=]%0a%0a*'''citation'''%0a*[=[[http://dx.doi.org/DOI | link_text]]=]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:CookbookBasics | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1471304478
+author:1471304478=Danny
+diff:1471304478:1471304447:=24,27c24,27%0a%3c **'''DNA'''%0a%3c **[=%25rfloat thumb%25 [[dnagels/picname | Attach: pic.jpg]]=]%0a%3c %0a%3c **'''protein'''%0a---%0a> *'''DNA'''%0a> *[=%25rfloat thumb%25 [[dnagels/picname | Attach: pic.jpg]]=]%0a> %0a> *'''protein'''%0a
+host:1471304478=205.208.52.184
+author:1471304447=Danny
+diff:1471304447:1470605727:=24,29c24,25%0a%3c *'''DNA'''%0a%3c *[=%25rfloat thumb%25 [[dnagels/picname | Attach: pic.jpg]]=]%0a%3c %0a%3c *'''protein'''%0a%3c **[=%25rfloat thumb%25 [[proteingels/picname | Attach: pic.jpg]]=]%0a%3c %0a---%0a> *[=%25rfloat thumb%25 [[picname | Attach: pic.jpg]]=]%0a> %0a31c27%0a%3c *[=%25width=70pct%25 Attach:Danny/date_ancestor/pic.jpg=]%0a---%0a> *[=%25width=70pct%25 Attach:ancestor/pic.jpg=]%0a
+host:1471304447=205.208.52.184
+author:1470605727=Danny
+diff:1470605727:1470605702:=21,22d20%0a%3c %0a%3c %0a
+host:1470605727=205.208.52.184
+author:1470605702=Danny
+diff:1470605702:1470605626:=21d20%0a%3c *'''inline gel pictures'''%0a24d22%0a%3c *'''format large gel pictures'''%0a27d24%0a%3c *'''citation'''%0a
+host:1470605702=205.208.52.184
+author:1470605626=Danny
+csum:1470605626=adding spacing for legibility
+diff:1470605626:1469824720:=22d21%0a%3c %0a24d22%0a%3c %0a
+host:1470605626=205.208.52.184
+author:1469824720=Danny
+diff:1469824720:1458262127:=23d22%0a%3c *[=[[http://dx.doi.org/DOI | link_text]]=]%0a
+host:1469824720=173.161.124.198
+author:1458262127=Danny
+diff:1458262127:1458262079:=15c15%0a%3c **[[DataEntry/Danny]]%0a---%0a> **[[DataEntry/Danny/]]%0a
+host:1458262127=205.208.52.184
+author:1458262079=Danny
+diff:1458262079:1458262020:=15d14%0a%3c **[[DataEntry/Danny/]]%0a
+host:1458262079=205.208.52.184
+author:1458262020=Danny
+diff:1458262020:1453328927:=14d13%0a%3c *[[DataEntry/]]%0a
+host:1458262020=205.208.52.184
+author:1453328927=Danny
+diff:1453328927:1453328806:=18,20c18,20%0a%3c %25sidehead%25 Quick formatting for labnotebook:%0a%3c *[=%25rfloat thumb%25 [[picname | Attach: pic.jpg]]=]%0a%3c *[=%25width=70pct%25 Attach:ancestor/pic.jpg=]%0a---%0a> %25sidehead%25 Quick formatting:%0a> *[=%25rfloat thumb%25 [[gelname | Attach: gelfile.jpg]]=]%0a> *[==]%0a
+host:1453328927=10.150.133.138
+author:1453328806=Danny
+diff:1453328806:1453328702:=19,20c19%0a%3c *[=%25rfloat thumb%25 [[gelname | Attach: gelfile.jpg]]=]%0a%3c *[==]%0a---%0a> *[=%25thumb %25=]%0a
+host:1453328806=10.150.133.138
+author:1453328702=Danny
+diff:1453328702:1452618111:=17,19d16%0a%3c %0a%3c %25sidehead%25 Quick formatting:%0a%3c *[=%25thumb %25=]%0a
+host:1453328702=10.150.133.138
+author:1452618111=Danny
+diff:1452618111:1452618069:=10c10%0a%3c **[[Danny/]]%0a---%0a> **[[LabNotebook/Danny/Danny/]]%0a
+host:1452618111=205.208.52.184
+author:1452618069=Danny
+diff:1452618069:1452618044:=10c10%0a%3c **[[LabNotebook/Danny/Danny/]]%0a---%0a> **[[LabNotebook/Danny/Danny]]%0a
+host:1452618069=205.208.52.184
+author:1452618044=Danny
+diff:1452618044:1452618025:=10c10%0a%3c **[[LabNotebook/Danny/Danny]]%0a---%0a> **[[LabNotebook/Danny/]]%0a
+host:1452618044=205.208.52.184
+author:1452618025=Danny
+diff:1452618025:1452617994:=10c10%0a%3c **[[LabNotebook/Danny/]]%0a---%0a> **[[LabNotebook/Danny]]%0a
+host:1452618025=205.208.52.184
+author:1452617994=Danny
+diff:1452617994:1449071995:=10d9%0a%3c **[[LabNotebook/Danny]]%0a
+host:1452617994=205.208.52.184
+author:1449071995=Danny
+diff:1449071995:1449071894:=8c8%0a%3c *[[CellLines/]]%0a---%0a> *[[Cellines/]]%0a
+host:1449071995=127.0.0.1
+author:1449071894=Danny
+diff:1449071894:1449071883:=8c8%0a%3c *[[Cellines/]]%0a---%0a> *[[Cellines/]%0a
+host:1449071894=127.0.0.1
+author:1449071883=Danny
+csum:1449071883=remove autopopulate from sidebar because of the new use of groups
+diff:1449071883:1447959818:=8,12c8%0a%3c *[[Cellines/]%0a%3c *[[LabNotebook/]]%0a%3c *[[Protocol/]]%0a%3c *[[LinkDump/]]%0a%3c *[[JournalClub/]]%0a---%0a> *(:pagelist fmt=#group group=-Main,-PmWiki,-Site,-SiteAdmin,-Category:)%0a
+host:1449071883=127.0.0.1
+author:1447959818=Danny
+diff:1447959818:1447959801:=7d6%0a%3c %0a
+host:1447959818=10.150.140.64
+author:1447959801=Danny
+diff:1447959801:1447959674:=6c6%0a%3c *[[{*$Name}?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a---%0a> * [[{*$Name}?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a
+host:1447959801=10.150.140.64
+author:1447959674=Danny
+csum:1447959674=Back button
+diff:1447959674:1441518237:=6d5%0a%3c * [[{*$Name}?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a
+host:1447959674=10.150.140.64
+author:1441518237=Danny
+diff:1441518237:1441516071:=3c3%0a%3c * [[http://nsit-dhcp-205-208-052-184.uchicago.edu/~Danny/pmwiki.php/Main/Upload?action=upload | Upload login]]%0a---%0a> * [[{$PageUrl}?action=upload | Upload login]]%0a
+host:1441518237=99.95.130.190
+author:1441516071=Danny
+diff:1441516071:1441516021:=3c3%0a%3c * [[{$PageUrl}?action=upload | Upload login]]%0a---%0a> * [[{$PageUrl} | Upload login]]%0a
+host:1441516071=99.95.130.190
+author:1441516021=Danny
+diff:1441516021:1441515966:=3c3%0a%3c * [[{$PageUrl} | Upload login]]%0a---%0a> * [[Upload login | {$PageUrl}]]%0a
+host:1441516021=99.95.130.190
+author:1441515966=Danny
+diff:1441515966:1441492849:=3d2%0a%3c * [[Upload login | {$PageUrl}]]%0a
+host:1441515966=99.95.130.190
+author:1441492849=Danny
+diff:1441492849:1441492411:=5c5%0a%3c *(:pagelist fmt=#group group=-Main,-PmWiki,-Site,-SiteAdmin,-Category:)%0a---%0a> *(:pagelist fmt=#group group=-Main, -PmWiki, -Site, -SiteAdmin:)%0a
+host:1441492849=127.0.0.1
+author:1441492411=Danny
+diff:1441492411:1441492373:=
+host:1441492411=127.0.0.1
+author:1441492373=Danny
+diff:1441492373:1441492208:=3,5c3%0a%3c %0a%3c %25sidehead%25 Navigation%0a%3c *(:pagelist fmt=#group group=-Main, -PmWiki, -Site, -SiteAdmin:)%0a---%0a> *(:pagelist fmt=#group:)%0a
+host:1441492373=127.0.0.1
+author:1441492208=Danny
+diff:1441492208:1441492167:=3c3%0a%3c *(:pagelist fmt=#group:)%0a---%0a> *(:pagelist: fmt=#group)%0a
+host:1441492208=127.0.0.1
+author:1441492167=Danny
+diff:1441492167:1441491925:=3c3%0a%3c *(:pagelist: fmt=#group)%0a---%0a> *(:pagelist:)%0a
+host:1441492167=127.0.0.1
+author:1441491925=Danny
+diff:1441491925:1441490709:=3d2%0a%3c *(:pagelist:)%0a
+host:1441491925=127.0.0.1
+author:1441490709=Danny
+diff:1441490709:1125550800:=3,5d2%0a%3c %0a%3c %25sidehead%25 Attached files%0a%3c *(:attachlist:)%0a
+host:1441490709=127.0.0.1

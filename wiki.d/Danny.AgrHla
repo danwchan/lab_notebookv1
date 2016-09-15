@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1455213933
+host=205.208.52.184
+name=Danny.AgrHla
+rev=1
+targets=Danny.WeekofJan20
+text=[[WeekofJan20]]%0a%0a%25width=70pct%25 Attach:WeekOfJan20/160123_agrA_hla_exp.jpg%0a%0ablot for hla%0a# isolate 8%0a# isolate 8 grown in erm 150%0a# isolate 8-1%0a# isolate 12%0a# isolate 12 grown in erm 150%0a# WT%0a# WT grown in erm 150%0a# ladder%0a# JBW (agr::tet)%0a# &Delta;agrA (home from box... what IS this strain?)%0a# 22251%0a
+time=1455213933
+author:1455213933=Danny
+diff:1455213933:1455213933:=1,16d0%0a%3c [[WeekofJan20]]%0a%3c %0a%3c %25width=70pct%25 Attach:WeekOfJan20/160123_agrA_hla_exp.jpg%0a%3c %0a%3c blot for hla%0a%3c # isolate 8%0a%3c # isolate 8 grown in erm 150%0a%3c # isolate 8-1%0a%3c # isolate 12%0a%3c # isolate 12 grown in erm 150%0a%3c # WT%0a%3c # WT grown in erm 150%0a%3c # ladder%0a%3c # JBW (agr::tet)%0a%3c # &Delta;agrA (home from box... what IS this strain?)%0a%3c # 22251%0a
+host:1455213933=205.208.52.184

@@ -1,0 +1,22 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+author=Danny
+charset=UTF-8
+csum=updates... I'm tired
+ctime=1445575860
+host=205.208.116.186
+name=LabNotebook.151024
+rev=3
+targets=
+text===Rafts%0a* {-seed today-}%0a** seed tomorrow! cells are still very clumpy... I wonder what the rafts will look like?%0a* change media on rafts%0a%0a==Cloning%0a* really need to get that P2-agrA cloning done and checked out%0a** redo PCR with the ligated products x3 50&micro;L%0a** {-cut sequentially cut insert and backbone with EcoRI+cutsmart then Nsi or Pst +3-}%0a** cut backbone and inserts in 2.1 (o/n)%0a%0a%25width=70pct%25 Attach:151024_pcrcheck.jpg%0a%0a# MM%0a# minP2+agrA%0a# sarP2+agrA%0a# agrA for pIMAY (flanks)%0a%0a* {-agrA with flank, redilute and PCR fragment-}%0a** cut pIMAY and insert with SacI+EcoRI (o/n)%0a* {-phosphotase the BB and gel purify all-}%0a** {-set up ligations-}%0a%0a==resolve transductant%0a* pick 2x colonies per coint plate%0a** put into 150&micro;L H2O%0a** dilute 1:10 then sonicate%0a** dilite 1:10 x2%0a** plate 100&micro;L on LB plates with and without 2&micro;g/mL aTC%0a* pick 2x colonies per conint plate (same ones!)%0a** inoculate TSB and grow at 37&deg;C%0a%0a=={-Begin thesis writing habit!-}%0a* I can do it?%0a** read ogston conference book and think about introduction, take some notes?
+time=1445744226
+author:1445744226=Danny
+csum:1445744226=updates... I'm tired
+diff:1445744226:1445723791:=9,23c9,14%0a%3c ** {-cut sequentially cut insert and backbone with EcoRI+cutsmart then Nsi or Pst +3-}%0a%3c ** cut backbone and inserts in 2.1 (o/n)%0a%3c %0a%3c %25width=70pct%25 Attach:151024_pcrcheck.jpg%0a%3c %0a%3c # MM%0a%3c # minP2+agrA%0a%3c # sarP2+agrA%0a%3c # agrA for pIMAY (flanks)%0a%3c %0a%3c * {-agrA with flank, redilute and PCR fragment-}%0a%3c ** cut pIMAY and insert with SacI+EcoRI (o/n)%0a%3c * {-phosphotase the BB and gel purify all-}%0a%3c ** {-set up ligations-}%0a%3c %0a---%0a> ** cut sequentially cut insert and backbone with EcoRI+cutsmart then Nsi or Pst +3%0a> * agrA with flank, redilute and PCR fragment%0a> ** cut pIMAY and insert with SacI+EcoRI%0a> * phosphotase the BB and gel purify all%0a> ** set up ligations%0a> %0a33c24%0a%3c =={-Begin thesis writing habit!-}%0a---%0a> ==Begin thesis writing habit!%0a
+host:1445744226=205.208.116.186
+author:1445723791=Danny
+diff:1445723791:1445575860:=2,5c2,3%0a%3c * {-seed today-}%0a%3c ** seed tomorrow! cells are still very clumpy... I wonder what the rafts will look like?%0a%3c * change media on rafts%0a%3c %0a---%0a> * seed today%0a> %0a8,23c6%0a%3c ** redo PCR with the ligated products x3 50&micro;L%0a%3c ** cut sequentially cut insert and backbone with EcoRI+cutsmart then Nsi or Pst +3%0a%3c * agrA with flank, redilute and PCR fragment%0a%3c ** cut pIMAY and insert with SacI+EcoRI%0a%3c * phosphotase the BB and gel purify all%0a%3c ** set up ligations%0a%3c %0a%3c ==resolve transductant%0a%3c * pick 2x colonies per coint plate%0a%3c ** put into 150&micro;L H2O%0a%3c ** dilute 1:10 then sonicate%0a%3c ** dilite 1:10 x2%0a%3c ** plate 100&micro;L on LB plates with and without 2&micro;g/mL aTC%0a%3c * pick 2x colonies per conint plate (same ones!)%0a%3c ** inoculate TSB and grow at 37&deg;C%0a%3c %0a---%0a> %0a25,26c8%0a%3c * I can do it?%0a%3c ** read ogston conference book and think about introduction, take some notes?%0a\ No newline at end of file%0a---%0a> * I can do it?%0a\ No newline at end of file%0a
+host:1445723791=127.0.0.1
+author:1445575860=Danny
+diff:1445575860:1445575860:=1,8d0%0a%3c ==Rafts%0a%3c * seed today%0a%3c %0a%3c ==Cloning%0a%3c * really need to get that P2-agrA cloning done and checked out%0a%3c %0a%3c ==Begin thesis writing habit!%0a%3c * I can do it?%0a\ No newline at end of file%0a
+host:1445575860=127.0.0.1

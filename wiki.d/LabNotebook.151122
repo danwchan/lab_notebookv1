@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448292354
+host=127.0.0.1
+name=LabNotebook.151122
+rev=1
+targets=
+text=!! gDNA isolation%0a* for confirming the mutants I have been working with and mutants in the freezer%0a* gDNA left at RT overnight in 10mM EDTA, I felt really bad about my "work ethic" after talking to Dennis... but also feel better about my successes in grad school%0a%0aI'm going to move to week long logs for more to-do list functionality and narrative
+time=1448292354
+author:1448292354=Danny
+diff:1448292354:1448292354:=1,5d0%0a%3c !! gDNA isolation%0a%3c * for confirming the mutants I have been working with and mutants in the freezer%0a%3c * gDNA left at RT overnight in 10mM EDTA, I felt really bad about my "work ethic" after talking to Dennis... but also feel better about my successes in grad school%0a%3c %0a%3c I'm going to move to week long logs for more to-do list functionality and narrative%0a\ No newline at end of file%0a
+host:1448292354=127.0.0.1

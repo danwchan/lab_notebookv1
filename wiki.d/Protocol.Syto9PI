@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:45.0) Gecko/20100101 Firefox/45.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1461047412
+host=205.208.52.184
+name=Protocol.Syto9PI
+rev=1
+targets=
+text=adapted from [[https://tools.thermofisher.com/content/sfs/manuals/mp07007.pdf| LIVE/DEAD BacLight Documentaion]]%0a%0ano blocking required%0a%0a!!Syto 9 and Propidium Iodide Stain%0a# mix stains in a 1:1 ratio%0a# stain section for 15 min in the dark%0a# rinse off with PBS%0a# mount in BacLight oil%0a# view (live, green: ex483 em503 (FITC filter set) dead, red: ex535 em617 (Tx Red filter set)
+time=1461047412
+author:1461047412=Danny
+diff:1461047412:1461047412:=1,10d0%0a%3c adapted from [[https://tools.thermofisher.com/content/sfs/manuals/mp07007.pdf| LIVE/DEAD BacLight Documentaion]]%0a%3c %0a%3c no blocking required%0a%3c %0a%3c !!Syto 9 and Propidium Iodide Stain%0a%3c # mix stains in a 1:1 ratio%0a%3c # stain section for 15 min in the dark%0a%3c # rinse off with PBS%0a%3c # mount in BacLight oil%0a%3c # view (live, green: ex483 em503 (FITC filter set) dead, red: ex535 em617 (Tx Red filter set)%0a\ No newline at end of file%0a
+host:1461047412=205.208.52.184

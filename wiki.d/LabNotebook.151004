@@ -1,0 +1,16 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=light day
+ctime=1443978637
+host=127.0.0.1
+name=LabNotebook.151004
+rev=1
+targets=
+text===icaA%0a* count cfu from D5 plating%0a%0a==complement agrA%0a* remove plates from incubator place at RT%0a* freeze down and mini-prep cultures (pIMAY #2 and P2m #4 do not grow)%0a%0a==atl%0a* PCR purify stitched PCR products%0a%0a==cell culture maintenance%0a* things look good... don't forget Tuesday is infection of 150926 rafts
+time=1443978637
+author:1443978637=Danny
+csum:1443978637=light day
+diff:1443978637:1443978637:=1,12d0%0a%3c ==icaA%0a%3c * count cfu from D5 plating%0a%3c %0a%3c ==complement agrA%0a%3c * remove plates from incubator place at RT%0a%3c * freeze down and mini-prep cultures (pIMAY #2 and P2m #4 do not grow)%0a%3c %0a%3c ==atl%0a%3c * PCR purify stitched PCR products%0a%3c %0a%3c ==cell culture maintenance%0a%3c * things look good... don't forget Tuesday is infection of 150926 rafts%0a\ No newline at end of file%0a
+host:1443978637=127.0.0.1

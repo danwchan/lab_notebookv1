@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1435529085
+host=127.0.0.1
+name=Main.Discuss3
+rev=1
+targets=
+text=This is a review... mostly I put it up because i found it though this twitter feed @Symbiosispapers and also it's a journal I've never heard of :P
+time=1435529085
+author:1435529085=Danny
+diff:1435529085:1435529085:=1d0%0a%3c This is a review... mostly I put it up because i found it though this twitter feed @Symbiosispapers and also it's a journal I've never heard of :P%0a\ No newline at end of file%0a
+host:1435529085=127.0.0.1

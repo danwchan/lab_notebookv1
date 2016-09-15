@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:36.0) Gecko/20100101 Firefox/36.0
+author=
+charset=UTF-8
+csum=
+ctime=1368126762
+host=127.0.0.1
+name=Protocol.CFUCounting
+rev=3
+targets=Category.Protocol
+text=[[!Protocol]]%0a%0a# Fill a 96 well plate with 90 &#181;L of PBS, 8 wells per sample%0a# Put an agar plate into the BSC to dry%0a# Add 10 &#181;L of homogenized sample%0a# Use a 10 &#181;L multichannel to dilute samples%0a# Use a 10 &#181;L multichannel to deliver 10 &#181;L drops to the surface of the plate%0a# Allow to absorb into the agar%0a# Incubate overnight at 37&#176;%0a# Count and calculate CFU
+time=1428090211
+author:1428090211=
+diff:1428090211:1368127182:=8c8%0a%3c # Allow to absorb into the agar%0a---%0a> # Allow to adsorb into the agar%0a
+host:1428090211=127.0.0.1
+author:1368127182=Danny
+diff:1368127182:1368126762:=9c9%0a%3c # Incubate overnight at 37&#176;%0a---%0a> # Incubate overnight at 37&#176%0a
+host:1368127182=::1
+author:1368126762=Danny
+diff:1368126762:1368126762:=1,10d0%0a%3c [[!Protocol]]%0a%3c %0a%3c # Fill a 96 well plate with 90 &#181;L of PBS, 8 wells per sample%0a%3c # Put an agar plate into the BSC to dry%0a%3c # Add 10 &#181;L of homogenized sample%0a%3c # Use a 10 &#181;L multichannel to dilute samples%0a%3c # Use a 10 &#181;L multichannel to deliver 10 &#181;L drops to the surface of the plate%0a%3c # Allow to adsorb into the agar%0a%3c # Incubate overnight at 37&#176%0a%3c # Count and calculate CFU%0a\ No newline at end of file%0a
+host:1368126762=::1

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1454367660
+host=205.208.52.184
+name=Danny.WeekOfFeb1
+rev=2
+targets=
+text=!!agrA (saga...)%0a* test panel NM  3G, NM&Delta;agrA 1G, phx-1, phx-2, WT LAC, LAC &Delta;agrA, clone 1-2, clone 1-10, clone 2-13%0a** clones were identified and &alpha;-hemolysis negative on blood agar, but erm150 resistant%0a* western blot for hla%0a* PCR screening (screen_F + rf_R, screen_F+R, screen_F+%0a%0a!!mutant biofilm phenotype
+time=1454457034
+author:1454457034=Danny
+diff:1454457034:1454367660:=5c5%0a%3c * PCR screening (screen_F + rf_R, screen_F+R, screen_F+%0a---%0a> * PCR screening%0a
+host:1454457034=205.208.52.184
+author:1454367660=Danny
+diff:1454367660:1454367660:=1,7d0%0a%3c !!agrA (saga...)%0a%3c * test panel NM  3G, NM&Delta;agrA 1G, phx-1, phx-2, WT LAC, LAC &Delta;agrA, clone 1-2, clone 1-10, clone 2-13%0a%3c ** clones were identified and &alpha;-hemolysis negative on blood agar, but erm150 resistant%0a%3c * western blot for hla%0a%3c * PCR screening%0a%3c %0a%3c !!mutant biofilm phenotype%0a\ No newline at end of file%0a
+host:1454367660=205.208.52.184

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1472594888
+host=205.208.52.184
+name=Dnagels.PsmBColony
+rev=3
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust22/160825_psmB_colony3.jpg%0a%0atop gel speG%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 1%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 2%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 4%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 5%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 6%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 7%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 8%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 9%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 10%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 11%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 12%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 13%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 14%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 15%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 16%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 17%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 18%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 19%0a#LAC &Delta;3PSM pOS1 + PSM&beta; colony 20%0a#ladder%0a#wt lac gDNA%0a#plasmid pOS1 empty%0a%0abottom gel seq2%0a#ladder%0a#repeat above samples ...%0a#ladder%0a#pOS1 + PSM&beta;%0a#pOS1 empty
+time=1472595352
+author:1472595352=Danny
+diff:1472595352:1472595333:=28d27%0a%3c #ladder%0a
+host:1472595352=205.208.52.184
+author:1472595333=Danny
+diff:1472595333:1472594888:=1,31c1%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust22/160825_psmB_colony3.jpg%0a%3c %0a%3c top gel speG%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 1%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 2%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 4%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 5%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 6%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 7%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 8%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 9%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 10%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 11%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 12%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 13%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 14%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 15%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 16%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 17%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 18%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 19%0a%3c #LAC &Delta;3PSM pOS1 + PSM&beta; colony 20%0a%3c #ladder%0a%3c #wt lac gDNA%0a%3c #plasmid pOS1 empty%0a%3c %0a%3c bottom gel seq2%0a%3c #repeat above samples ...%0a%3c #ladder%0a%3c #pOS1 + PSM&beta;%0a%3c #pOS1 empty%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:Danny/WeekOfAugust22/160825_psmB_colony3.jpg%0a\ No newline at end of file%0a
+host:1472595333=205.208.52.184
+author:1472594888=Danny
+diff:1472594888:1472594888:=1d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust22/160825_psmB_colony3.jpg%0a\ No newline at end of file%0a
+host:1472594888=205.208.52.184

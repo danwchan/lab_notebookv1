@@ -1,0 +1,22 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=testing this summary field
+ctime=1435249714
+host=127.0.0.1
+name=Main.JournalClub
+rev=3
+targets=Main.Discuss1,Main.Discuss2,Main.Discuss3
+text=Like Brandon's google drive option I propose we just dump links here to things we read. We can even make pages for journals and discuss on them. I'll start for some syntax examples.%0a%0a[[http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004984|The νSaα Specific Lipoprotein Like Cluster (lpl) of S. aureus USA300 Contributes to Immune Stimulation and Invasion in Human Cells]] [[Discuss 1]]%0a%0a[[http://onlinelibrary.wiley.com.proxy.uchicago.edu/doi/10.1111/all.12428/abstract;jsessionid=0EF883A8EB3D95E56688AF763F97FD22.f03t02|Impaired NLRP3 inflammasome expression and function in atopic dermatitis due to Th2 milieu]] [[Discuss 2]]%0a%0a[[http://www.discoverymedicine.com/Maurizio-Muraca/2015/05/gut-microbiota-derived-outer-membrane-vesicles-under-recognized-major-players-in-health-and-disease/|Gut microbiota-derived outer membrane vesicles: under-recognized major players in health and disease?]][[Discuss 3]]
+time=1435525688
+author:1435525688=Danny
+csum:1435525688=testing this summary field
+diff:1435525688:1435250061:=5,7c5%0a%3c [[http://onlinelibrary.wiley.com.proxy.uchicago.edu/doi/10.1111/all.12428/abstract;jsessionid=0EF883A8EB3D95E56688AF763F97FD22.f03t02|Impaired NLRP3 inflammasome expression and function in atopic dermatitis due to Th2 milieu]] [[Discuss 2]]%0a%3c %0a%3c [[http://www.discoverymedicine.com/Maurizio-Muraca/2015/05/gut-microbiota-derived-outer-membrane-vesicles-under-recognized-major-players-in-health-and-disease/|Gut microbiota-derived outer membrane vesicles: under-recognized major players in health and disease?]][[Discuss 3]]%0a\ No newline at end of file%0a---%0a> [[http://onlinelibrary.wiley.com.proxy.uchicago.edu/doi/10.1111/all.12428/abstract;jsessionid=0EF883A8EB3D95E56688AF763F97FD22.f03t02|Impaired NLRP3 inflammasome expression and function in atopic dermatitis due to Th2 milieu]] [[Discuss 2]]%0a\ No newline at end of file%0a
+host:1435525688=127.0.0.1
+author:1435250061=Danny
+diff:1435250061:1435249714:=3,5c3%0a%3c [[http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004984|The νSaα Specific Lipoprotein Like Cluster (lpl) of S. aureus USA300 Contributes to Immune Stimulation and Invasion in Human Cells]] [[Discuss 1]]%0a%3c %0a%3c [[http://onlinelibrary.wiley.com.proxy.uchicago.edu/doi/10.1111/all.12428/abstract;jsessionid=0EF883A8EB3D95E56688AF763F97FD22.f03t02|Impaired NLRP3 inflammasome expression and function in atopic dermatitis due to Th2 milieu]] [[Discuss 2]]%0a\ No newline at end of file%0a---%0a> [[http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004984|The νSaα Specific Lipoprotein Like Cluster (lpl) of S. aureus USA300 Contributes to Immune Stimulation and Invasion in Human Cells]] [[Discuss 1]]%0a\ No newline at end of file%0a
+host:1435250061=127.0.0.1
+author:1435249714=Danny
+diff:1435249714:1435249714:=1,3d0%0a%3c Like Brandon's google drive option I propose we just dump links here to things we read. We can even make pages for journals and discuss on them. I'll start for some syntax examples.%0a%3c %0a%3c [[http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004984|The νSaα Specific Lipoprotein Like Cluster (lpl) of S. aureus USA300 Contributes to Immune Stimulation and Invasion in Human Cells]] [[Discuss 1]]%0a\ No newline at end of file%0a
+host:1435249714=127.0.0.1

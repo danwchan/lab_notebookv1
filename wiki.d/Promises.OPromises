@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1472160510
+host=205.208.52.184
+name=Promises.OPromises
+rev=1
+targets=
+text=I have pledged%0a%0a#To transmute my privileges into a resource for others%0a#To live in this world as I would like to see others live in it
+time=1472160510
+author:1472160510=Danny
+diff:1472160510:1472160510:=1,4d0%0a%3c I have pledged%0a%3c %0a%3c #To transmute my privileges into a resource for others%0a%3c #To live in this world as I would like to see others live in it%0a\ No newline at end of file%0a
+host:1472160510=205.208.52.184

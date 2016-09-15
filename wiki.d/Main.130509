@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1368128054
+host=::1
+name=Main.130509
+rev=2
+targets=CellLines.NHEK,Main.130508,Protocol.EMedia,Protocol.CFUCounting
+text=Harvest P6 [[Cell Lines/NHEK]] from 2x 150 mm dishes%0a%0aSeed 8x10'^6^' onto plugs from [[130508]] in [[Protocol/E media]] + EGF%0aSeed the same amount into a 150mm dish%0a%0a[[Protocol/CFU counting]] results for time course 6D skin experiment:
+time=1368144150
+author:1368144150=Danny
+diff:1368144150:1368128054:=3,6c3%0a%3c Seed 8x10'^6^' onto plugs from [[130508]] in [[Protocol/E media]] + EGF%0a%3c Seed the same amount into a 150mm dish%0a%3c %0a%3c [[Protocol/CFU counting]] results for time course 6D skin experiment:%0a\ No newline at end of file%0a---%0a> Seed 7.2x10'^6^' onto plugs from [[130508]] in [[Protocol/E media]] + EGF%0a\ No newline at end of file%0a
+host:1368144150=::1
+author:1368128054=Danny
+diff:1368128054:1368128054:=1,3d0%0a%3c Harvest P6 [[Cell Lines/NHEK]] from 2x 150 mm dishes%0a%3c %0a%3c Seed 7.2x10'^6^' onto plugs from [[130508]] in [[Protocol/E media]] + EGF%0a\ No newline at end of file%0a
+host:1368128054=::1

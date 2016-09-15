@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1456864602
+host=10.150.140.76
+name=Danny.Mar1Goals
+rev=1
+targets=
+text=!!Comments from last month%0a* still need to confirm some complementing strains%0a* did not test the effects of DNase treatment, protease treatment or carbohydrate hydrolysis in model%0a** but did try a protocol for isolating the biofilm material (didn't work that well)%0a* icaA grows the same amount (if not faster) and looks the same in the organotypic model as WT%0a* atl grows less but looks the same (but fewer) colonies in the organotypic model as WT%0a** could this be an issue with the number of organisms seeeded?%0a%0a!!Setting new goals%0a!!!for &Delta;icaA, &Delta;srtA, &Delta;atl%0a# ''in vitro'' biofilm assay%0a# SEM of plastic biofilm%0a# colony biofilm%0a!!!for LAC agrA C123F%0a# confirm clone%0a# complement%0a# text in organotypic model%0a!!!other%0a# get to the "next step" with Julie
+time=1456864602
+author:1456864602=Danny
+diff:1456864602:1456864602:=1,19d0%0a%3c !!Comments from last month%0a%3c * still need to confirm some complementing strains%0a%3c * did not test the effects of DNase treatment, protease treatment or carbohydrate hydrolysis in model%0a%3c ** but did try a protocol for isolating the biofilm material (didn't work that well)%0a%3c * icaA grows the same amount (if not faster) and looks the same in the organotypic model as WT%0a%3c * atl grows less but looks the same (but fewer) colonies in the organotypic model as WT%0a%3c ** could this be an issue with the number of organisms seeeded?%0a%3c %0a%3c !!Setting new goals%0a%3c !!!for &Delta;icaA, &Delta;srtA, &Delta;atl%0a%3c # ''in vitro'' biofilm assay%0a%3c # SEM of plastic biofilm%0a%3c # colony biofilm%0a%3c !!!for LAC agrA C123F%0a%3c # confirm clone%0a%3c # complement%0a%3c # text in organotypic model%0a%3c !!!other%0a%3c # get to the "next step" with Julie%0a\ No newline at end of file%0a
+host:1456864602=10.150.140.76

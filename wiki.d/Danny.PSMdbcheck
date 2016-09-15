@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1471045406
+host=205.208.52.184
+name=Danny.PSMdbcheck
+rev=1
+targets=
+text=%25width=70pct%25 Attach:WeekOfAugust8/160812_PSMbd_check.jpg%0a%0a#top gel: pos1_seq2%0a#ladder (1kb thermo)%0a#pos1 empty 1%0a#pos1 empty 2%0a#pos1 empty 3%0a#pos1 PSMb 1%0a#pos1 PSMb 2%0a#pos1 PSMb 3%0a#pos1 PSMb 4%0a#pos1 PSMd 1%0a#pos1 PSMd 2%0a#ladder (2log NEB)%0a#pos1 control%0a#wt genomic control%0a%0a#bottom gel: speG%0a#ladder (1kb thermo)%0a#pos1 empty 1%0a#pos1 empty 2%0a#pos1 empty 3%0a#pos1 PSMb 1%0a#pos1 PSMb 2%0a#pos1 PSMb 3%0a#pos1 PSMb 4%0a#pos1 PSMd 1%0a#pos1 PSMd 2%0a#ladder (2log NEB)%0a#pos1 control%0a#wt genomic control
+time=1471045406
+author:1471045406=Danny
+diff:1471045406:1471045406:=1,31d0%0a%3c %25width=70pct%25 Attach:WeekOfAugust8/160812_PSMbd_check.jpg%0a%3c %0a%3c #top gel: pos1_seq2%0a%3c #ladder (1kb thermo)%0a%3c #pos1 empty 1%0a%3c #pos1 empty 2%0a%3c #pos1 empty 3%0a%3c #pos1 PSMb 1%0a%3c #pos1 PSMb 2%0a%3c #pos1 PSMb 3%0a%3c #pos1 PSMb 4%0a%3c #pos1 PSMd 1%0a%3c #pos1 PSMd 2%0a%3c #ladder (2log NEB)%0a%3c #pos1 control%0a%3c #wt genomic control%0a%3c %0a%3c #bottom gel: speG%0a%3c #ladder (1kb thermo)%0a%3c #pos1 empty 1%0a%3c #pos1 empty 2%0a%3c #pos1 empty 3%0a%3c #pos1 PSMb 1%0a%3c #pos1 PSMb 2%0a%3c #pos1 PSMb 3%0a%3c #pos1 PSMb 4%0a%3c #pos1 PSMd 1%0a%3c #pos1 PSMd 2%0a%3c #ladder (2log NEB)%0a%3c #pos1 control%0a%3c #wt genomic control%0a\ No newline at end of file%0a
+host:1471045406=205.208.52.184

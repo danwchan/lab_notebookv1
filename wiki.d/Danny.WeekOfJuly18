@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1469294196
+host=205.208.52.184
+name=Danny.WeekOfJuly18
+rev=2
+targets=
+text=Repeated the orginal experiment and it's going better... I the rafts are not dying right from day 1%0a%0awrote my paper (wow that took some time...)%0a%0a!!Moar computer things%0a* some reanalysis%0a* fixing up the paper%0a%0a!!Last batch of rafts while super stressed%0a* wt, agr, atl, srt%0a* will check by lucifer yellow 
+time=1469296541
+author:1469296541=Danny
+diff:1469296541:1469294196:=3,11c3%0a%3c wrote my paper (wow that took some time...)%0a%3c %0a%3c !!Moar computer things%0a%3c * some reanalysis%0a%3c * fixing up the paper%0a%3c %0a%3c !!Last batch of rafts while super stressed%0a%3c * wt, agr, atl, srt%0a%3c * will check by lucifer yellow %0a\ No newline at end of file%0a---%0a> wrote my paper (wow that took some time...)%0a\ No newline at end of file%0a
+host:1469296541=205.208.52.184
+author:1469294196=Danny
+diff:1469294196:1469294196:=1,3d0%0a%3c Repeated the orginal experiment and it's going better... I the rafts are not dying right from day 1%0a%3c %0a%3c wrote my paper (wow that took some time...)%0a\ No newline at end of file%0a
+host:1469294196=205.208.52.184

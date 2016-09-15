@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:43.0) Gecko/20100101 Firefox/43.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450694461
+host=205.208.52.184
+name=Reset-holiday.SP2Screen2
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Reset-holiday/151221_sarP2agrA_screen2.jpg%0a%0atopgel, primer set: pos_seq2_F + P2_R2%0a# 1-16 single restreaks%0a# 17-20 group restreak%0a# s11%0a# m10%0a# pos1 empty%0a# 21 group restreak%0a%0a%0abottomgel, primer set: pos_seq2_F + R%0a# 1-16 single restreaks%0a# 17-20 group restreak%0a# s11%0a# m10%0a# pos1 empty%0a# 21 group restreak
+time=1450694461
+author:1450694461=Danny
+diff:1450694461:1450694461:=1,18d0%0a%3c %25width=70pct%25 Attach:Reset-holiday/151221_sarP2agrA_screen2.jpg%0a%3c %0a%3c topgel, primer set: pos_seq2_F + P2_R2%0a%3c # 1-16 single restreaks%0a%3c # 17-20 group restreak%0a%3c # s11%0a%3c # m10%0a%3c # pos1 empty%0a%3c # 21 group restreak%0a%3c %0a%3c %0a%3c bottomgel, primer set: pos_seq2_F + R%0a%3c # 1-16 single restreaks%0a%3c # 17-20 group restreak%0a%3c # s11%0a%3c # m10%0a%3c # pos1 empty%0a%3c # 21 group restreak%0a\ No newline at end of file%0a
+host:1450694461=205.208.52.184

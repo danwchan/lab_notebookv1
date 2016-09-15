@@ -1,0 +1,24 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:44.0) Gecko/20100101 Firefox/44.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1450733772
+host=205.208.52.184
+name=Protocol.SEMPrep
+rev=4
+targets=
+text=Adapted from [[http://doi.org/10.1371/journal.ppat.1002307 | McAdow et al.]]%0a%0aFor dehydrating rafts for sputter coating.%0a%0a!! Fixation%0a# prepare 2%25 gluteraldehyde + 2%25 paraformaldehyde in PBS%0a# prewarm at 37&deg;C%0a# remove media and fix raft%0a# incubate for a few hours at 37&deg;C%0a# remove and fix overnight%0a%0a!! Dehydration%0a# exchange fixative for 70%25 ethanol (can be kept submerged at 4&deg;C)%0a# exchange for 80%25 ethanol for 15 mins, repeat%0a# exchange for 95%25 ethanol for 15 mins%0a# cut sections of interest while submerged%0a# move into a n-well plate with 100%25 ethanol, sit for 15 min%0a# exchange ethanol to fully dried ethanol and parafilm overnight%0a# exchange ethanol and parafilm%0a# exchange to 50/50 ethanol and HMDS for 15 mins%0a# exchange to 100%25 HMDS for 15 mins%0a# exchange to fresh HMDS... smallish volume%0a# leave uncovered overnight%0a%0a!! Sputter coat (must follow immediately after dehydration)%0a# coat (8nm, 40mA, 80Pt/20Pd)%0a%0a!! More notes%0a* The HMDS drying can be done for a few hours as well... a fresher prep? (saves an overnight at least)%0a* Don't let the samples dry out before they're in 100%25 HMDS
+time=1455836751
+author:1455836751=Danny
+diff:1455836751:1455585474:=20,22c20,22%0a%3c # exchange to 50/50 ethanol and HMDS for 15 mins%0a%3c # exchange to 100%25 HMDS for 15 mins%0a%3c # exchange to fresh HMDS... smallish volume%0a---%0a> # exchange to 50/50 ethanol and HDMS for 15 mins%0a> # exchange to 100%25 HDMS for 15 mins%0a> # exchange to fresh HDMS... smallish volume%0a29,30c29%0a%3c * The HMDS drying can be done for a few hours as well... a fresher prep? (saves an overnight at least)%0a%3c * Don't let the samples dry out before they're in 100%25 HMDS%0a\ No newline at end of file%0a---%0a> * The HDMS drying can be done on a few hours as well... a fresher prep? (saves an overnight at least)%0a\ No newline at end of file%0a
+host:1455836751=205.208.52.184
+author:1455585474=Danny
+diff:1455585474:1450734131:=18,19c18,19%0a%3c # exchange ethanol to fully dried ethanol and parafilm overnight%0a%3c # exchange ethanol and parafilm%0a---%0a> # exchange ethanol and parafilm overnight%0a> # exchange ethanol to fully dried ethanol%0a26,29c26%0a%3c # coat (8nm, 40mA, 80Pt/20Pd)%0a%3c %0a%3c !! More notes%0a%3c * The HDMS drying can be done on a few hours as well... a fresher prep? (saves an overnight at least)%0a\ No newline at end of file%0a---%0a> # coat (8nm, 40mA, 80Pt/20Pd)%0a\ No newline at end of file%0a
+host:1455585474=205.208.52.184
+author:1450734131=Danny
+diff:1450734131:1450733772:=1c1%0a%3c Adapted from [[http://doi.org/10.1371/journal.ppat.1002307 | McAdow et al.]]%0a---%0a> Adapted from [[doi:10.1371/journal.ppat.1002307 | McAddow et al.]]%0a
+host:1450734131=205.208.52.184
+author:1450733772=Danny
+diff:1450733772:1450733772:=1,26d0%0a%3c Adapted from [[doi:10.1371/journal.ppat.1002307 | McAddow et al.]]%0a%3c %0a%3c For dehydrating rafts for sputter coating.%0a%3c %0a%3c !! Fixation%0a%3c # prepare 2%25 gluteraldehyde + 2%25 paraformaldehyde in PBS%0a%3c # prewarm at 37&deg;C%0a%3c # remove media and fix raft%0a%3c # incubate for a few hours at 37&deg;C%0a%3c # remove and fix overnight%0a%3c %0a%3c !! Dehydration%0a%3c # exchange fixative for 70%25 ethanol (can be kept submerged at 4&deg;C)%0a%3c # exchange for 80%25 ethanol for 15 mins, repeat%0a%3c # exchange for 95%25 ethanol for 15 mins%0a%3c # cut sections of interest while submerged%0a%3c # move into a n-well plate with 100%25 ethanol, sit for 15 min%0a%3c # exchange ethanol and parafilm overnight%0a%3c # exchange ethanol to fully dried ethanol%0a%3c # exchange to 50/50 ethanol and HDMS for 15 mins%0a%3c # exchange to 100%25 HDMS for 15 mins%0a%3c # exchange to fresh HDMS... smallish volume%0a%3c # leave uncovered overnight%0a%3c %0a%3c !! Sputter coat (must follow immediately after dehydration)%0a%3c # coat (8nm, 40mA, 80Pt/20Pd)%0a\ No newline at end of file%0a
+host:1450733772=205.208.52.184

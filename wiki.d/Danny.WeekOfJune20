@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1466453453
+host=165.68.124.11
+name=Danny.WeekOfJune20
+rev=3
+targets=
+text=!!Returning from trip%0a* back from trip... feeling better than before.%0a* I must schedule a committee meeting. Will do it next week after I speak with Xiao-yang.%0a%0a!!!Planning%0a* what experiments should I do?%0a** replicates suggested by the figures%0a*** sonicated vs unsonicated%0a*** PBS vs sweat (SEM only)%0a*** '''priority one''' CFU calibration%0a%0a!!Dehydrating for SEM%0a* lost my &Delta;atl complemented comparisons for SEM, will do it anyways to see the atl mutant again%0a* also going to compare acetone washed with non acetone washed (can I see the lipid removed from the surface?)%0a%0a!!!&Delta;atl mutants%0a* if the colonies look normal sized and evenly distributed then perhaps this means that you have another data set to work with%0a** '''outstanding question:''' does the atl mutant have a defect in D3 which is corrected in D5?%0a%0a!!Thawing cells%0a* emailed paul to get more keratinocytes%0a* will thaw both my own and from J23T3's for later in the week. (in antibiotics, until first split).%0a%0a!!Writing%0a* get results finished by Wed, start on Discussion
+time=1466464240
+author:1466464240=Danny
+diff:1466464240:1466463771:=5,11d4%0a%3c !!!Planning%0a%3c * what experiments should I do?%0a%3c ** replicates suggested by the figures%0a%3c *** sonicated vs unsonicated%0a%3c *** PBS vs sweat (SEM only)%0a%3c *** '''priority one''' CFU calibration%0a%3c %0a16,19d8%0a%3c !!!&Delta;atl mutants%0a%3c * if the colonies look normal sized and evenly distributed then perhaps this means that you have another data set to work with%0a%3c ** '''outstanding question:''' does the atl mutant have a defect in D3 which is corrected in D5?%0a%3c %0a22,25c11%0a%3c * will thaw both my own and from J23T3's for later in the week. (in antibiotics, until first split).%0a%3c %0a%3c !!Writing%0a%3c * get results finished by Wed, start on Discussion%0a\ No newline at end of file%0a---%0a> * will thaw both my own and from J23T3's for later in the week. (in antibiotics, until first split).%0a\ No newline at end of file%0a
+host:1466464240=165.68.124.11
+author:1466463771=Danny
+diff:1466463771:1466453453:=7,11c7%0a%3c * also going to compare acetone washed with non acetone washed (can I see the lipid removed from the surface?)%0a%3c %0a%3c !!Thawing cells%0a%3c * emailed paul to get more keratinocytes%0a%3c * will thaw both my own and from J23T3's for later in the week. (in antibiotics, until first split).%0a\ No newline at end of file%0a---%0a> * also going to compare acetone washed with non acetone washed (can I see the lipid removed from the surface?)%0a\ No newline at end of file%0a
+host:1466463771=165.68.124.11
+author:1466453453=Danny
+diff:1466453453:1466453453:=1,7d0%0a%3c !!Returning from trip%0a%3c * back from trip... feeling better than before.%0a%3c * I must schedule a committee meeting. Will do it next week after I speak with Xiao-yang.%0a%3c %0a%3c !!Dehydrating for SEM%0a%3c * lost my &Delta;atl complemented comparisons for SEM, will do it anyways to see the atl mutant again%0a%3c * also going to compare acetone washed with non acetone washed (can I see the lipid removed from the surface?)%0a\ No newline at end of file%0a
+host:1466453453=205.208.52.184

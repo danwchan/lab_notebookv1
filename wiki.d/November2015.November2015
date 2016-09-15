@@ -1,0 +1,19 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=remove subgroup
+ctime=1448322715
+host=127.0.0.1
+name=November2015.November2015
+rev=2
+targets=
+text=
+time=1448322793
+author:1448322793=Danny
+csum:1448322793=remove subgroup
+diff:1448322793:1448322715:=0a1%0a> Testing subgroups%0a\ No newline at end of file%0a
+host:1448322793=127.0.0.1
+author:1448322715=Danny
+diff:1448322715:1448322715:=1d0%0a%3c Testing subgroups%0a\ No newline at end of file%0a
+host:1448322715=127.0.0.1

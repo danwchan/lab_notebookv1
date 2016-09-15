@@ -1,0 +1,20 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:41.0) Gecko/20100101 Firefox/41.0
+author=Danny
+charset=UTF-8
+csum=update backlog
+ctime=1444106715
+host=127.0.0.1
+name=LabNotebook.151006
+rev=2
+targets=
+text===cloning (more and more!)%0a* colony PCR of P2-agrA and agrA in pOS and pIMAY%0a** agrA comp_F + R%0a** anneal 55%25deg;C%0a%0a%25width=70pct%25 Attach:151006_pos_screen.jpg%0a%0aonly positive control produced product%0a%0a* stitch PCR via RN sites (use cut product!)%0a** ~5h ligation at RT in 10&micro;L%0a** dilute 1&micro;L into 5&micro;L of water and inactivate ligase at 60&deg;C for 20 min%0a** use in PCR reaction with minP2_F and sarP2_F primers + agrA_RN_R (ecoRI)%0a%0a* transform atl, lip and speG KO fragments into pIMAY%0a%0a==lucifer yellow%0a* two sets of the same samples: isopropanol, wt, no bacteria, sds, no sweat and those which are spun down%0a* loaded 100 and 50&micro;L in each read at 425 ex, 528 em%0a%0a==icaA infection test%0a* read plates (in lab notebook)
+time=1444349726
+author:1444349726=Danny
+csum:1444349726=update backlog
+diff:1444349726:1444106715:=2,9c2%0a%3c * colony PCR of P2-agrA and agrA in pOS and pIMAY%0a%3c ** agrA comp_F + R%0a%3c ** anneal 55%25deg;C%0a%3c %0a%3c %25width=70pct%25 Attach:151006_pos_screen.jpg%0a%3c %0a%3c only positive control produced product%0a%3c %0a---%0a> * colony PCR%0a11,16c4%0a%3c ** ~5h ligation at RT in 10&micro;L%0a%3c ** dilute 1&micro;L into 5&micro;L of water and inactivate ligase at 60&deg;C for 20 min%0a%3c ** use in PCR reaction with minP2_F and sarP2_F primers + agrA_RN_R (ecoRI)%0a%3c %0a%3c * transform atl, lip and speG KO fragments into pIMAY%0a%3c %0a---%0a> %0a18,22c6,7%0a%3c * two sets of the same samples: isopropanol, wt, no bacteria, sds, no sweat and those which are spun down%0a%3c * loaded 100 and 50&micro;L in each read at 425 ex, 528 em%0a%3c %0a%3c ==icaA infection test%0a%3c * read plates (in lab notebook)%0a\ No newline at end of file%0a---%0a> %0a> ==icaA infection test%0a\ No newline at end of file%0a
+host:1444349726=127.0.0.1
+author:1444106715=Danny
+csum:1444106715=preempting tomorrow!
+diff:1444106715:1444106715:=1,7d0%0a%3c ==cloning (more and more!)%0a%3c * colony PCR%0a%3c * stitch PCR via RN sites (use cut product!)%0a%3c %0a%3c ==lucifer yellow%0a%3c %0a%3c ==icaA infection test%0a\ No newline at end of file%0a
+host:1444106715=205.208.116.186

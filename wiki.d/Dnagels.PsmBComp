@@ -1,0 +1,15 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1472078628
+host=205.208.52.184
+name=Dnagels.PsmBComp
+rev=1
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust22/160823_psmB_DC10B_colony.jpg%0a%0aseq2%0a#DC10B pOS1 + PSM&beta;-1-1%0a#DC10B pOS1 + PSM&beta;-1-2%0a#DC10B pOS1 + PSM&beta;-1-3%0a#DC10B pOS1 + PSM&beta;-1-4%0a#DC10B pOS1 + PSM&beta;-1-5%0a#DC10B pOS1 + PSM&beta;-1-6%0a#DC10B pOS1 + PSM&beta;-1-7%0a#DC10B pOS1 + PSM&beta;-1-8%0a#ladder (hyper ladder... kinda dehydrated)%0a#pOS1 PSM&beta;-1%0a#pOS1 empty%0a#ladder (NEB 2-log)
+time=1472078628
+author:1472078628=Danny
+diff:1472078628:1472078628:=1,15d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust22/160823_psmB_DC10B_colony.jpg%0a%3c %0a%3c seq2%0a%3c #DC10B pOS1 + PSM&beta;-1-1%0a%3c #DC10B pOS1 + PSM&beta;-1-2%0a%3c #DC10B pOS1 + PSM&beta;-1-3%0a%3c #DC10B pOS1 + PSM&beta;-1-4%0a%3c #DC10B pOS1 + PSM&beta;-1-5%0a%3c #DC10B pOS1 + PSM&beta;-1-6%0a%3c #DC10B pOS1 + PSM&beta;-1-7%0a%3c #DC10B pOS1 + PSM&beta;-1-8%0a%3c #ladder (hyper ladder... kinda dehydrated)%0a%3c #pOS1 PSM&beta;-1%0a%3c #pOS1 empty%0a%3c #ladder (NEB 2-log)%0a\ No newline at end of file%0a
+host:1472078628=205.208.52.184

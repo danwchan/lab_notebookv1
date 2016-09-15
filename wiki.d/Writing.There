@@ -1,0 +1,16 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=promises
+ctime=1472160059
+host=205.208.52.184
+name=Writing.There
+rev=1
+targets=Promises.OPromises,Promises.Promises,Promise.Definition
+text=sometimes we make [[Promises/promises]] to ourselves we do not keep other times we make [[Promises/o_promises | promises]] to other we try very hard to keep.%0a%0awhat is the weight of each [[Promise/definition | promise]] where does your flexibility begin and your fleeing end?
+time=1472160059
+author:1472160059=Danny
+csum:1472160059=promises
+diff:1472160059:1472160059:=1,3d0%0a%3c sometimes we make [[Promises/promises]] to ourselves we do not keep other times we make [[Promises/o_promises | promises]] to other we try very hard to keep.%0a%3c %0a%3c what is the weight of each [[Promise/definition | promise]] where does your flexibility begin and your fleeing end?%0a\ No newline at end of file%0a
+host:1472160059=205.208.52.184

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1468355777
+host=205.208.52.184
+name=Danny.WeekOfJuly11
+rev=3
+targets=Danny.HlaSpeGTest
+text=!!Ongoing rafts%0a* will be completed before the committee meeting on the 26th%0a* 1) J23T3 160520, NHEK 160323 (P3)%0a** some cells have escaped the rafts by D10 post lift, there are two populations one more dendritic in multilayer colonies the other very fibroblast spindly in monolayer colonies%0a* 2) J23T3 160520, NHEK 160627 (P3, fresh)%0a* 3) J23T3 160520, NHEK 160627 (P6, fresh)%0a%0a!!SEM of bacteria in different growth conditions%0a* noticed on the weekend that the ASM agar has white colonies on it%0a* flooded with 15mL SEM fixative%0a** the next day cut out and dried with graded ethanol%0a* from the last time colonies appeared on ASM agar, genomes were prepared for 3 of WT, agrA C123F and S. epi%0a** PCR for hla and speG to confirm identity%0a%25rfloat thumb%25 [[hla_speG_test | Attach: 160712_colonies_from_asm_hla_speG.jpg]] %0a** '''the wt colonies are 3/3 verified by this method, but only 2/3 are verified with the agrA mutant'''%0a%0a!!Repeat original CFU calibration experiment%0a* more rafts are yellowed in the 3 > 2 > 1 concentrations%0a* virulence?, but this was not observed originally%0a** the J23T3's have changed
+time=1468868223
+author:1468868223=Danny
+diff:1468868223:1468867862:=15d14%0a%3c ** '''the wt colonies are 3/3 verified by this method, but only 2/3 are verified with the agrA mutant'''%0a
+host:1468868223=205.208.52.184
+author:1468867862=Danny
+diff:1468867862:1468355777:=14d13%0a%3c %25rfloat thumb%25 [[hla_speG_test | Attach: 160712_colonies_from_asm_hla_speG.jpg]] %0a
+host:1468867862=205.208.52.184
+author:1468355777=Danny
+diff:1468355777:1468355777:=1,18d0%0a%3c !!Ongoing rafts%0a%3c * will be completed before the committee meeting on the 26th%0a%3c * 1) J23T3 160520, NHEK 160323 (P3)%0a%3c ** some cells have escaped the rafts by D10 post lift, there are two populations one more dendritic in multilayer colonies the other very fibroblast spindly in monolayer colonies%0a%3c * 2) J23T3 160520, NHEK 160627 (P3, fresh)%0a%3c * 3) J23T3 160520, NHEK 160627 (P6, fresh)%0a%3c %0a%3c !!SEM of bacteria in different growth conditions%0a%3c * noticed on the weekend that the ASM agar has white colonies on it%0a%3c * flooded with 15mL SEM fixative%0a%3c ** the next day cut out and dried with graded ethanol%0a%3c * from the last time colonies appeared on ASM agar, genomes were prepared for 3 of WT, agrA C123F and S. epi%0a%3c ** PCR for hla and speG to confirm identity%0a%3c %0a%3c !!Repeat original CFU calibration experiment%0a%3c * more rafts are yellowed in the 3 > 2 > 1 concentrations%0a%3c * virulence?, but this was not observed originally%0a%3c ** the J23T3's have changed%0a\ No newline at end of file%0a
+host:1468355777=205.208.52.184

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1473697745
+host=205.208.52.184
+name=Dnagels.PsmBCheck4PSM
+rev=2
+targets=
+text=%25width=70pct%25 Attach:Danny/WeekOfAugust29/160904_psmB_finalcheck.jpg%0a%0atopgel EcoRI digest%0a#ladder%0a#&Delta;3PSM + pos1 &beta;8-1%0a#&Delta;3PSM + pos1 &beta;8-2%0a#&Delta;3PSM + pos1 &beta;8-3%0a#&Delta;3PSM + pos1 &beta;8-4%0a#&Delta;3PSM + pos1 &beta;8-5%0a#&Delta;3PSM + pos1 &beta;8-6%0a#ladder%0a#1-3 in RN #1%0a#1-3 in RN #2%0a#1-3 in RN #3%0a#1-3 in RN #4%0a#1-3 in RN #5%0a#1-3 in RN #6%0a#1-3 in RN #7%0a#1-3 in RN #8%0a#ladder%0a#pOS1 &beta;8 purified%0a#pOS1 empty%0a#pOS1 uncut%0a%0abottom gel PSM genomic primer%0a#ladder%0a#&Delta;3PSM + pos1 &beta;8-1%0a#&Delta;3PSM + pos1 &beta;8-2%0a#&Delta;3PSM + pos1 &beta;8-3%0a#&Delta;3PSM + pos1 &beta;8-4%0a#&Delta;3PSM + pos1 &beta;8-5%0a#&Delta;3PSM + pos1 &beta;8-6%0a#1-3 in RN #1%0a#1-3 in RN #2%0a#1-3 in RN #3%0a#1-3 in RN #4%0a#1-3 in RN #5%0a#1-3 in RN #6%0a#1-3 in RN #7%0a#1-3 in RN #8%0a#ladder%0a#wt genomic%0a#&Delta;3PSM genomic
+time=1473697933
+author:1473697933=Danny
+diff:1473697933:1473697745:=5,43d4%0a%3c #&Delta;3PSM + pos1 &beta;8-1%0a%3c #&Delta;3PSM + pos1 &beta;8-2%0a%3c #&Delta;3PSM + pos1 &beta;8-3%0a%3c #&Delta;3PSM + pos1 &beta;8-4%0a%3c #&Delta;3PSM + pos1 &beta;8-5%0a%3c #&Delta;3PSM + pos1 &beta;8-6%0a%3c #ladder%0a%3c #1-3 in RN #1%0a%3c #1-3 in RN #2%0a%3c #1-3 in RN #3%0a%3c #1-3 in RN #4%0a%3c #1-3 in RN #5%0a%3c #1-3 in RN #6%0a%3c #1-3 in RN #7%0a%3c #1-3 in RN #8%0a%3c #ladder%0a%3c #pOS1 &beta;8 purified%0a%3c #pOS1 empty%0a%3c #pOS1 uncut%0a%3c %0a%3c bottom gel PSM genomic primer%0a%3c #ladder%0a%3c #&Delta;3PSM + pos1 &beta;8-1%0a%3c #&Delta;3PSM + pos1 &beta;8-2%0a%3c #&Delta;3PSM + pos1 &beta;8-3%0a%3c #&Delta;3PSM + pos1 &beta;8-4%0a%3c #&Delta;3PSM + pos1 &beta;8-5%0a%3c #&Delta;3PSM + pos1 &beta;8-6%0a%3c #1-3 in RN #1%0a%3c #1-3 in RN #2%0a%3c #1-3 in RN #3%0a%3c #1-3 in RN #4%0a%3c #1-3 in RN #5%0a%3c #1-3 in RN #6%0a%3c #1-3 in RN #7%0a%3c #1-3 in RN #8%0a%3c #ladder%0a%3c #wt genomic%0a%3c #&Delta;3PSM genomic%0a\ No newline at end of file%0a
+host:1473697933=205.208.52.184
+author:1473697745=Danny
+diff:1473697745:1473697745:=1,4d0%0a%3c %25width=70pct%25 Attach:Danny/WeekOfAugust29/160904_psmB_finalcheck.jpg%0a%3c %0a%3c topgel EcoRI digest%0a%3c #ladder%0a
+host:1473697745=205.208.52.184

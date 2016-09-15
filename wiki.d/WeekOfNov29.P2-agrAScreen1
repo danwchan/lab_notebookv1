@@ -1,0 +1,21 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:42.0) Gecko/20100101 Firefox/42.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1448939446
+host=127.0.0.1
+name=WeekOfNov29.P2-agrAScreen1
+rev=3
+targets=
+text=%25width=70pct%25 Attach:WeekOfNov29/151130_P2agr_screen.jpg%0a%0atopgel\\%0apOS1 seq primers%0a# 1-4 mP2%0a# 5-18 sarP2%0aladder%0a# atl_KO pOS1%0a# pOS1%0a%0abottomgel\\%0aagrcomp_R + pos1_seq2_R%0a# 1-4 mP2%0aladder%0a#5-18 sarP2%0aladder%0a# atl_KO pOS1%0a# pOS1
+time=1449073683
+author:1449073683=Danny
+diff:1449073683:1448939499:=1,18c1%0a%3c %25width=70pct%25 Attach:WeekOfNov29/151130_P2agr_screen.jpg%0a%3c %0a%3c topgel\\%0a%3c pOS1 seq primers%0a%3c # 1-4 mP2%0a%3c # 5-18 sarP2%0a%3c ladder%0a%3c # atl_KO pOS1%0a%3c # pOS1%0a%3c %0a%3c bottomgel\\%0a%3c agrcomp_R + pos1_seq2_R%0a%3c # 1-4 mP2%0a%3c ladder%0a%3c #5-18 sarP2%0a%3c ladder%0a%3c # atl_KO pOS1%0a%3c # pOS1%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfNov29/151130_P2agr_screen.jpg%0a\ No newline at end of file%0a
+host:1449073683=127.0.0.1
+author:1448939499=Danny
+diff:1448939499:1448939446:=1c1%0a%3c %25width=70pct%25 Attach:WeekOfNov29/151130_P2agr_screen.jpg%0a\ No newline at end of file%0a---%0a> %25width=70pct%25 Attach:WeekOfNov29./151130_P2agrA_screen.jpg%0a\ No newline at end of file%0a
+host:1448939499=127.0.0.1
+author:1448939446=Danny
+diff:1448939446:1448939446:=1d0%0a%3c %25width=70pct%25 Attach:WeekOfNov29./151130_P2agrA_screen.jpg%0a\ No newline at end of file%0a
+host:1448939446=127.0.0.1

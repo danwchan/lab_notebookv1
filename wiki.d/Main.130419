@@ -1,0 +1,30 @@
+version=pmwiki-2.2.50 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+author=Danny
+charset=UTF-8
+csum=
+ctime=1366414267
+host=::1
+name=Main.130419
+rev=6
+targets=Protocol.ASM,Protocol.CFUCounting
+text=NHEK cells P3 look ready to split tomorrow, will investigate differentiated cells response to toxin.%0a%0aEthanol sterilized coverslips and place into a 24-well plate%0a%0aTreatment of Rafts for timecourse%0a*@@08:15 ->@@ inoculated o/n culture 1:100 into 25mL of TSB%0a** make small cut on the collagen portion of the raft for orientation purposes%0a*@@10:00 ->@@ OD_660_ on OS spec is 0.530, JBW spec reads 0.384, dilute to 0.48, wash in PBS, resuspend in [[Protocol/ASM]]%0a*@@11:00 ->@@ spot 10'^4^' and 10'^3^' dilutions (assume 0.48 = 10'^8^') into rafts with control spot%0a*@@15:45 ->@@ use autoclaved filter paper to blot off liquid, sketch spot pattern%0a** harvest for [[Protocol/CFU counting]] and paraffin processing%0a
+time=1368126935
+author:1368126935=Danny
+diff:1368126935:1368126915:=9c9%0a%3c *@@11:00 ->@@ spot 10'^4^' and 10'^3^' dilutions (assume 0.48 = 10'^8^') into rafts with control spot%0a---%0a> *@@11:00 ->@@ spot 10'^4^' and 10'^3^' dilutions (assume 0.48 = 10^8^) into rafts with control spot%0a
+host:1368126935=::1
+author:1368126915=Danny
+diff:1368126915:1368126836:=9c9%0a%3c *@@11:00 ->@@ spot 10'^4^' and 10'^3^' dilutions (assume 0.48 = 10^8^) into rafts with control spot%0a---%0a> *@@11:00 ->@@ spot 10^4^ and 10^3^ dilutions (assume 0.48 = 10^8^) into rafts with control spot%0a
+host:1368126915=::1
+author:1368126836=Danny
+diff:1368126836:1366414551:=
+host:1368126836=::1
+author:1366414551=Danny
+diff:1366414551:1366414426:=8c8%0a%3c *@@10:00 ->@@ OD_660_ on OS spec is 0.530, JBW spec reads 0.384, dilute to 0.48, wash in PBS, resuspend in [[Protocol/ASM]]%0a---%0a> *@@10:00 ->@@ OD_660_ on OS spec is 0.530, JBW spec reads 0.384, dilute to 0.48, wash in PBS, resuspend in [[ASM]]%0a11c11%0a%3c ** harvest for [[Protocol/CFU counting]] and paraffin processing%0a---%0a> ** harvest for [[CFU counting]] and paraffin processing%0a
+host:1366414551=::1
+author:1366414426=Danny
+diff:1366414426:1366414267:=3,4d2%0a%3c Ethanol sterilized coverslips and place into a 24-well plate%0a%3c %0a11c9%0a%3c ** harvest for [[CFU counting]] and paraffin processing%0a---%0a> ** harvest for [[CFU]] enumeraition%0a\ No newline at end of file%0a
+host:1366414426=::1
+author:1366414267=Danny
+diff:1366414267:1366414267:=1,9d0%0a%3c NHEK cells P3 look ready to split tomorrow, will investigate differentiated cells response to toxin.%0a%3c %0a%3c Treatment of Rafts for timecourse%0a%3c *@@08:15 ->@@ inoculated o/n culture 1:100 into 25mL of TSB%0a%3c ** make small cut on the collagen portion of the raft for orientation purposes%0a%3c *@@10:00 ->@@ OD_660_ on OS spec is 0.530, JBW spec reads 0.384, dilute to 0.48, wash in PBS, resuspend in [[ASM]]%0a%3c *@@11:00 ->@@ spot 10^4^ and 10^3^ dilutions (assume 0.48 = 10^8^) into rafts with control spot%0a%3c *@@15:45 ->@@ use autoclaved filter paper to blot off liquid, sketch spot pattern%0a%3c ** harvest for [[CFU]] enumeraition%0a\ No newline at end of file%0a
+host:1366414267=::1
